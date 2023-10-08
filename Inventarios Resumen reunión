@@ -1,1 +1,779 @@
-691357
+Aplicación herramienta de inventarios-20231005_091959-Grabación de la reunión
+5 de octubre de 2023, 2:20p.m.
+40 min 24 s
+
+John Alexander Diaz Mosquera   0:03
+¿Cuándo?
+Buenos días.
+
+John Alexander Diaz Mosquera ha iniciado la transcripción
+
+John Alexander Diaz Mosquera   0:04
+El día de hoy nos encontramos desde la gerencia de mercadeo y comunicaciones con el profesional por Fabián González, quién es el que administra el el proceso de administración de inventario y material promocional.
+¿Hacemos esta sesión para hacer la prueba de la herramienta de transformación digital del proceso, inventarios en el cual Fabián nos va a comentar, EH?
+Dentro del proceso de cotización y el manejo de la malla como como se realiza estas actividades, vayan Buenos días.
+
+Paul Fabian Gonzalez Rodriguez   0:27
+Sí.
+¿Hola, yo, muy Buenos días y muy Buenos días para todos y como yo lo menciono anteriormente, soy una persona encargada de El proceso dentro de la gerencia de mercadeo de administración de inventarios de material promocional, entrando en contexto, pues en mi procedimiento lo que se requiere o lo que se pretende es llevar en una forma organizada todo el tema de administración de inventarios, aunque no somos una empresa de retail, se maneja material promocional, Eh?
+Lo primero que nosotros tenemos que tener en cuenta son las solicitudes o requerimientos que el gerente de mercadeo no solicita para cotizar.
+Material promocional todo nuestro material promocional está basado en material POP.
+Entonces, el gerente nos manda a cotizar o me manda a mi cotizar diferentes líneas, diferentes cantidades de artículos promocionales, los cuales pues al ser cotizados se le presenta acorde a los proveedores que actualmente están en el mercado.
+Dichos proveedores nos presentan sus propuestas y éstas a su vez son entregadas al gerente.
+Entonces, aquí estamos evidenciando a nuestro proveedor grafitero, que se hay un requerimiento de 50000 plegables, 50000 carnets son 10000 internas, no 5000 hizo la corrección.
+Después, 5000 bolígrafos sin 5000 Tacos ya Peña España.
+
+John Alexander Diaz Mosquera   2:11
+¿Habían consulta dentro de su proceso actual está este tema de cotización?
+¿Hay manera de de capturarlo dentro de la malla de inventarios o no se tiene en cuenta o cómo hace usted para ver todas esas cotizaciones que se han hecho a lo largo del tiempo?
+
+Paul Fabian Gonzalez Rodriguez   2:28
+No a John esto se tiene, digamos, es en una forma muy manual, no se tiene la digitalización.
+Pues porque a diario sale, pues muchas cotizadas no a diario, pero si sale alto volumen de cotización, entonces no lo tenemos digitalizado, esto con.
+
+John Alexander Diaz Mosquera   2:43
+Entonces digamos que esto constituye una oportunidad en cuanto al proceso de poder capturar esa información, para que después el gerente pueda tomar mejores decisiones en cuanto al material que va a comprar.
+
+Paul Fabian Gonzalez Rodriguez   2:54
+Claro, claro que sí, no solamente en cuanto al material sino a los costos que se tienen.
+¿Entonces está está optimización que se pretende o se quiere o se está haciendo?
+Claro que sí nos va a nosotros ayudar en muchos en muchos puntos de vista en un momento de tomar una decisión, de saber por qué hoy un producto tiene un precio y dentro de un mes subió o se mantuvo o desafortunadamente ya no hay las unidades, pero claro que sí, no sirve mucho.
+
+John Alexander Diaz Mosquera   3:24
+¿Listo, Fabián, entonces vamos a hacer lo siguiente, cómo vamos a probar la herramienta de transformación digital de?
+¿Invito a que por favor ingresemos AA la herramienta, ya dentro de nosotros hemos tenido un espacio donde fabiana ha tenido una familiarización con la herramienta en el cual se explicó cómo estaba compuesta por un módulo de cotizaciones u otro entrada y otro de salida y vamos a hacer el ejercicio de tomar los tiempos de El registro de esta información que va a servir al gerente de mercadeo y comunicaciones, entonces si quiere Fabián por favor Abraham, Eh?
+
+Paul Fabian Gonzalez Rodriguez   3:30
+Sí.
+
+John Alexander Diaz Mosquera   3:58
+Abramos el archivo, Abramos en dentro del Windows, Eh, dentro del del Windows busquemos algo que se llama reloj.
+
+Paul Fabian Gonzalez Rodriguez   4:02
+Sí, señor.
+Dentro de Windows.
+
+John Alexander Diaz Mosquera   4:10
+Se llama alarmas y reloj en buscar alarmas y reloj.
+
+Paul Fabian Gonzalez Rodriguez   4:14
+A ver, buscar.
+
+John Alexander Diaz Mosquera   4:16
+A esta alarmas y reloj está abajo de acrobat.
+
+Paul Fabian Gonzalez Rodriguez   4:18
+Perdóneme, perdóneme, yo, alarmas y reloj.
+
+John Alexander Diaz Mosquera   4:22
+Listo en alarmas y reloj vamos a poner el cronómetro.
+
+Paul Fabian Gonzalez Rodriguez   4:28
+Cronómetro.
+
+John Alexander Diaz Mosquera   4:29
+¿Listo?
+Pues no lo vamos a poner todavía, sino cuando ya vayamos a iniciar el proceso, entonces abramos la herramienta.
+
+Paul Fabian Gonzalez Rodriguez   4:34
+¿Listo?
+Aquí tengo, pues, la herramienta con la que actualmente venimos trabajando, nuestra malla de inventario y material promocional en esta malla.
+
+John Alexander Diaz Mosquera   4:42
+¿OK?
+
+Paul Fabian Gonzalez Rodriguez   4:44
+Pues lo hacemos muy muy manualmente.
+Lo que mencionas.
+
+John Alexander Diaz Mosquera   4:48
+GP pero esta malla a esta malla llega, es ya el material que se compra y va entrar a una bodega.
+
+Paul Fabian Gonzalez Rodriguez   4:55
+Exactamente.
+
+John Alexander Diaz Mosquera   4:55
+O sea, digamos que es la cotización en el momento de la cotización, la cotización puede que el material entre o no entre entonces es una información que no está dentro de la malla.
+Teniendo en cuenta que no va a entrar directamente al material sino hasta que se autorice correcto.
+
+Paul Fabian Gonzalez Rodriguez   5:08
+Es que en este caso sí, sí, señor, vamos a ingresar cuando mi jefe me da la aprobación de la compra en material es donde nosotros ya procedemos a hablar con el proveedor para darle las instrucciones, ellos ya no los no, los rutan no lo remiten y procedemos al ingreso a la A la bodega que se requiera.
+
+John Alexander Diaz Mosquera   5:28
+Y eso ya se parte, el de los otros procesos de entradas y salidas.
+¿Entonces digamos que de como en el proceso de la administración de inventarios iniciales de una cotización, la primera oportunidad que se identificó es la captura de información de esas cotizaciones que pueden ayudar al gerente a tomar mejores decisiones por esa razón digamos que dentro de este esta fase inicial Eh, vamos a tomar el tiempo de El proceso, pero no es comparativo, teniendo en cuenta que actualmente esta información no se captura y se queda en el correo electrónico, entonces empecemos y quiere Fabián habriendo la herramienta y cronometrando cuánto nos demoramos haciendo el registro de esta cotización?
+
+Paul Fabian Gonzalez Rodriguez   5:32
+Exactamente.
+¿Eh, voy a darle entonces aquí perfecto, vale aquí?
+Comenzar y arrancamos, básicamente informando de de ceros, como procedemos a hacer el.
+
+John Alexander Diaz Mosquera   6:16
+Listo haga un una recomendación para el proceso si quiere, no es necesario que su merced nos nos diga cada cada procedimiento, sino que lo hagamos así.
+
+Paul Fabian Gonzalez Rodriguez   6:19
+Señor.
+Lo voy haciendo digitalizando, como como lo hago yo.
+
+John Alexander Diaz Mosquera   6:27
+En lo exacto, nosotros vamos mirando en pantalla, exactamente.
+
+Paul Fabian Gonzalez Rodriguez   6:30
+Listo, vale, vale, vale.
+¿Entonces arrancamos?
+Nosotros aquí le tenemos que dar un nombre, linternas, leds.
+
+John Alexander Diaz Mosquera   6:40
+Sí.
+Cuántos martes Espere, fabi, creo que acá vamos a hacer el ejercicio como si eso fuera, como si ese material fuera ingresar entonces.
+
+Paul Fabian Gonzalez Rodriguez   6:43
+Ya está.
+No soy ingresando.
+
+John Alexander Diaz Mosquera   6:52
+Exacto, entonces digamos que teniendo en cuenta el procedimiento que inicialmente son cotizaciones y la malla no permite capturar cotizaciones, entremos a la nueva herramienta y registremos la cotización.
+
+Paul Fabian Gonzalez Rodriguez   7:06
+¿Entonces dices así?
+
+John Alexander Diaz Mosquera   7:06
+Después hacemos el procedimiento de la entrada en los dos y también los tiempos de la mamá y del el tiempo, de las cotizaciones.
+
+Paul Fabian Gonzalez Rodriguez   7:13
+¿Entonces, pero entonces qué?
+
+John Alexander Diaz Mosquera   7:15
+El tiempo de las entradas y el tiempo, las aliento si quieres, le damos pausar y reiniciar.
+
+Paul Fabian Gonzalez Rodriguez   7:17
+¿Aquí le doy pausa o qué hago?
+
+John Alexander Diaz Mosquera   7:20
+Exacto, exacto.
+
+Paul Fabian Gonzalez Rodriguez   7:22
+O sea, voy a ingresar, voy a ingresar a la.
+
+John Alexander Diaz Mosquera   7:25
+En la nueva herramienta la cotización.
+
+Paul Fabian Gonzalez Rodriguez   7:26
+Mhm.
+¿Listo espera entonces de una vez?
+
+John Alexander Diaz Mosquera   7:32
+¿Listo?
+
+Paul Fabian Gonzalez Rodriguez   7:33
+Listo, mi hermano listo, lo fuimos entonces.
+
+John Alexander Diaz Mosquera   7:38
+Sta.
+Esto es una malla en el cual mientras Fabián está haciendo el procedimiento, las mallas se desarrolló en Visa en Visual Basic para aplicaciones de Excel, en la cual permite Eh dentro de la ejecución de una macro una aplicación para la captura de de la información de todo el proceso de administración de inventarios desde la cotización, las entradas, las salidas y el movimiento de material, como se mencionaba con Fabián anteriormente que el proceso de cotización es información que es muy importante para el gerente de mercadeo y comunicaciones, porque él puede identificar tendencias.
+
+Paul Fabian Gonzalez Rodriguez   8:46
+¿Qué tal?
+
+John Alexander Diaz Mosquera   8:46
+Él puede identificar cuál es el valor de un producto por las variables que ya vamos a ver en el en el archivo se va a identificar qué proveedores suministran, qué tipo de material y eso le da más elementos de decisión sobre qué proveedor, sobre qué precio, sobre qué temporadas puede llegar a ser sus compras de material.
+
+Paul Fabian Gonzalez Rodriguez   9:17
+Es que la mercancía ya estoy mirando aquí unas cositas, ya la voy a ingresar.
+
+John Alexander Diaz Mosquera   9:18
+¿Cómo vamos fabi?
+Una de las optimizaciones que tiene esta herramienta.
+Inventarios.
+Es que si hay cotizaciones anteriores del proveedor que se está registrando en la herramienta, automáticamente va autocompletar los valores.
+¿Esto considera o constituye una herramienta de ehmm optimización dentro del proceso donde el el profesional no tiene que estar digitando siempre los mismos datos?
+
+Paul Fabian Gonzalez Rodriguez   10:10
+No de.
+Amigable, 11.
+
+John Alexander Diaz Mosquera   10:17
+Y si ya hay unos proveedores que se han cargado anteriormente en la base de datos, la herramienta los va a cargar ahí por defecto.
+Es en este momento Fabián lo que está haciendo es ingresar en el en el aplicativo de cotizaciones, el campo de fecha, el Nick, el nombre del proveedor que se con el que se hizo la cotización del material.
+Datos de teléfono y correo para un posterior poder contactar las personas comercialmente de acuerdo a las necesidades de material que existan, el la herramienta también tiene una clasificación de línea de producto, como lo mencionaba Fabián dentro del material promocional se manejan productos.
+
+Paul Fabian Gonzalez Rodriguez   10:47
+Hola.
+
+John Alexander Diaz Mosquera   10:57
+Km de mar.
+Material masivo de material VIPOY de material intermedio que de acuerdo digamos que a la finalidad del relacionamiento de Fidelización o mantenimiento de clientes, es el que se va AA usar en este caso.
+¿Entonces, Fabián ya ingresó, lo que son unas linternas, EH?
+¿El el la herramienta también le da la posibilidad de dentro de la misma cotización en registrar varios productos, entonces en este caso tienen la línea masivo Eh?
+
+Paul Fabian Gonzalez Rodriguez   11:28
+Que la supermejor no empiece la misma.
+
+John Alexander Diaz Mosquera   11:34
+Para linternas la descripción de la linterna, los bolígrafos en las cantidades, el valor unitario.
+
+Paul Fabian Gonzalez Rodriguez   11:34
+Salir sin nombre esas fechas.
+
+John Alexander Diaz Mosquera   11:44
+Qué posterior ir a una base de datos con la fecha en la cual se hace el registro y con la el detalle del material con los valores unitarios por proveedores con los que se realizan las cotizaciones.
+
+Paul Fabian Gonzalez Rodriguez   11:47
+Diversidad, pero yo no estoy usando.
+También.
+Mi pie.
+Pasó.
+¿Tanto grave?
+Cualquiera.
+Pero ya.
+
+John Alexander Diaz Mosquera   12:53
+¿Sta Fabián, si quiere, ahí nos puede contar, En resumen, básicamente, qué fue lo que realizo y cómo se siente con el uso de la herramienta?
+Por favor.
+
+Paul Fabian Gonzalez Rodriguez   13:02
+Bueno, a ver, les explico.
+Termino acá.
+¿Registro, pues, EH?
+¿Qué les puedo decir?
+¿Ustedes?
+Esta herramienta ha sido bastante óptima, bastante amigable.
+Es una herramienta que pues en el aparece en el día a día mío, me ha simplificado mucho, porque pues tengo en este momento Eh herramientas para entregar inmediatamente esta herramienta nos ha facilitado muchas cosas para poder tener un histórico para poder tener una imagen de Del producto, tenerlo registro de una forma organizada y en el momento que se requiera, pues tener información al día.
+Eso sería John gracias.
+
+John Alexander Diaz Mosquera   13:44
+Listo, entonces, démosle ahí.
+Creo que hay que incluir la la cotización o el correo y ya.
+
+Paul Fabian Gonzalez Rodriguez   13:50
+Si es que el correo sí, señor, listo.
+
+John Alexander Diaz Mosquera   13:55
+Entonces, otro de los aspectos que tienen cuenta esta herramienta es que se puede incluir en la cotización que se realizó.
+¿Eh?
+
+Paul Fabian Gonzalez Rodriguez   14:07
+¿Listo?
+
+John Alexander Diaz Mosquera   14:07
+Con el proveedor entonces al darle registrar si quieres seremos un momentico ahí Fabián en al darle registrar el el.
+
+Paul Fabian Gonzalez Rodriguez   14:14
+Aquí aquí.
+
+John Alexander Diaz Mosquera   14:16
+La herramienta vuelve y se carga y en genera una base de datos en en una hoja que se denomina base.
+
+Paul Fabian Gonzalez Rodriguez   14:17
+¿Tú estás?
+Ver.
+
+John Alexander Diaz Mosquera   14:23
+¿Cotizaciones que antes no existía en donde está la fecha?
+
+Paul Fabian Gonzalez Rodriguez   14:23
+¿Estoy dónde?
+
+John Alexander Diaz Mosquera   14:27
+El nit del proveedor, los datos de correo electrónico y hay una ruta en donde se guarda esa cotización que le va a permitir al al profesional ubicar de manera más específica alguna cotización del producto y que no se pierda dentro del correo electrónico, porque a veces es más.
+
+Paul Fabian Gonzalez Rodriguez   14:27
+Sí.
+Dani.
+Ay.
+
+John Alexander Diaz Mosquera   14:45
+¿Es difícil encontrar este tipo de cotizaciones en este en esta herramienta, entonces es mejor tenerla en una base de datos estructurada organizada donde se puede posterior a hacer una visualización de El comportamiento de estos datos a través del tiempo y la concentración de las cotizaciones que se han realizado por parte del gerente de mercadeo y comunicaciones que, como repito, no se tienen dentro de la malla actual y en este caso, pues no son sujetas a un tema de tiempos listo?
+
+Paul Fabian Gonzalez Rodriguez   14:57
+No, no, no.
+Y matan, sí.
+Noticias.
+Sí, sí, listo.
+John, Ah.
+
+John Alexander Diaz Mosquera   15:17
+Listo, Fabián entonces, para el siguiente ejercicio vamos a hacer una cosa, entonces miremos volvamos al cronómetro.
+
+Paul Fabian Gonzalez Rodriguez   15:20
+Oye.
+
+John Alexander Diaz Mosquera   15:22
+Un momento.
+
+Paul Fabian Gonzalez Rodriguez   15:24
+¿Vosotros la metro?
+
+John Alexander Diaz Mosquera   15:26
+Entonces es alrededor de de 7 minutos.
+
+Paul Fabian Gonzalez Rodriguez   15:26
+Pause.
+
+John Alexander Diaz Mosquera   15:29
+Sí, alrededor de 7 minutos.
+¿Este registro, pues digamos que no es un tiempo muy prolongado, pero a medida que nosotros vemos que ser diligencia información, pues estos 7 minutos en un futuro no van a ser Eh?
+Significativos con respecto a la demora que puede tener 1 para encontrar una cotización, entonces este este registro no tiene, digamos que un aspecto de tiempos muy significativo con respecto a la optimización lo las bondades están dadas es en el registro y la captura de la información para el siguiente ejercicio vamos a hacer Fabián lo siguiente, Vamos a tomar una sola referencia de producto en la cual vamos a realizar una entrada con las dos, con las dos herramientas, entonces en esta sí tenemos que ser muy juiciosos de de saber, de llevar el tiempo de lo que se demora en la malla actual, lo que tiene que hacer.
+
+Paul Fabian Gonzalez Rodriguez   15:57
+Tienes que ir.
+Señor.
+Sí.
+Sí.
+Coma.
+
+John Alexander Diaz Mosquera   16:24
+Yo creo que ahí sí nos puede sumarse, narrar mientras lo vas haciendo en la malla actual, como lo hace y como serían la nueva de acuerdo.
+
+Paul Fabian Gonzalez Rodriguez   16:27
+Bueno.
+No ya entonces permita bueno, un momentico por favor, ya aquí ingreso, hacemos el miro mi maldita anterior, sí.
+
+John Alexander Diaz Mosquera   16:37
+Entonces, si quieres, cerremos esta cerremos esta esta de acá, cerremos esta y vamos a hacer en este momento el ejercicio de hacer el registro como se está haciendo actualmente.
+
+Paul Fabian Gonzalez Rodriguez   16:42
+Listo.
+Yo la cierro ya aquí.
+Listo entonces digamos aquí vamos a tomar el último registro, cualquiera que sea al azar, pues para que no, señor.
+
+John Alexander Diaz Mosquera   16:56
+Entonces, entonces, para ubicar digamos que es las personas que están viendo este video, entonces en es cuando, ya llegamos a este proceso de entrada es cuando ya el gerente aprobó la cotización y Fabián llamando a con con el proveedor o con la agencia del lidera el proceso de la producción del material y el material lo revisa él y le llega y lo va a ingresar ya a una bodega, cierto, fue bien.
+
+Paul Fabian Gonzalez Rodriguez   17:20
+Felipe, sí, señor.
+
+John Alexander Diaz Mosquera   17:23
+¿Entonces, ya cuando llega ese momento, entonces dónde?
+Fabián tiene que venir a esta malla de inventario y hacer lo que va a hacer, entonces acordamos un ejemplo de los que de los de esa cotización, si quiere Fabián.
+1 de sus ejemplos.
+
+Paul Fabian Gonzalez Rodriguez   17:35
+¿Listo?
+
+John Alexander Diaz Mosquera   17:36
+Tomamos tiempo para el registro y su merced nos va contando todo el proceso.
+
+Paul Fabian Gonzalez Rodriguez   17:36
+¿Pues aquí ya ya les comento, listo?
+Listo, listo.
+Entonces, aquí le doy, nuevamente, volvemos a cero y arrancamos la Liga.
+
+John Alexander Diaz Mosquera   17:47
+Entonces esta es la prueba con el el procedimiento actual.
+
+Paul Fabian Gonzalez Rodriguez   17:50
+Con la maya anterior.
+¿Sí, señor entonces, Eh?
+Después de aprobado, digámoslo, mi jefe me dio la autorización de adquirir 10000 linternas.
+Aquí está la cotización, ya tenemos la la.
+La orden de producción digamos que esa producción a mí ya me llega directamente a la oficina con una remisión, entonces la remisión aquí yo la tengo porque tengo que proceder al al conteo de la de las mismas, ya las tengo entonces aquí lo que tenemos, que es ingresar el tema ya teniéndolo acá.
+
+John Alexander Diaz Mosquera   18:24
+Listo frente si quiere reiniciemos el el cronómetro y vamos a tomar el tiempo del proceso desde que ya suma, se lo va a meter en la en la herramienta listo hágamelo, dale.
+
+Paul Fabian Gonzalez Rodriguez   18:33
+¿Listo, ya lo ha procedido ya?
+¿Entonces aquí tengo vamos a meter nosotros linternas?
+De acuerdo a la especificidad de acá, linternas de 9 leds en aluminio, linternas de 9 leds en a aluminio en aluminio aluminio.
+Bueno, pues positiva 2023.
+Lo dijeron que básicamente estamos hablando de 10000 cantidades.
+La referencia entonces la el nombre OO.
+La llave la creamos de una forma sencilla, no, no tengo una tabla, no tengo un catálogo para poderlo hacer la la hago manualmente en linternas, en aluminio, no pos 23, entonces esto sería como los denominando aquí.
+Le ponemos línea linternas, una nomenclatura.
+¿Entonces siempre puedo poner un LT?
+Lo más importante es saber en dónde la voy a ubicar.
+De unidades de Empaque viene esto, vienen por unidades.
+Bodega.
+Nosotros tenemos dos tipos de bodega, una en un operador logístico y la otra en casa matriz, esta las voy a asignar aquí a casa matriz, pues para tener la A la mano la ubicación, aquí nosotros tenemos unas estanterías.
+O tenemos un corredor pequeño, por lo general, por lo general en el corredor y así lo denomino.
+
+John Alexander Diaz Mosquera   20:11
+Sí.
+
+Paul Fabian Gonzalez Rodriguez   20:14
+Habíamos hablado anteriormente de que la cotización está por un valor de 43400000 pesos, un valor unitario incluido IVA de 6340 pesos, entonces aquí ya le doy el valor.
+Unitario de comí 328 clips.
+OK, entonces, aquí ya lo estoy registrando hoy aquí, tengo una salida, es donde registró las salidas.
+¿Para dónde van?
+Puede ser a nivel nacional puede seguir algún algún cliente o directamente para una reunión que tenga el gerente, nuestro proveedor en este caso se llama Grafiti.
+Él, besos, cuídate centro gráfico.
+¿Entonces, ese es Graffiti?
+Él centro gráfico la remisión en la 0:01 las 0:01 001 él 15.
+Sí.
+2023 fecha, 15 de septiembre del 2023.
+Referencia para poder ingresar, como le cree yo aquí una llave, el sistema automáticamente me lo toma.
+Lo copio.
+Y lo ingreso acá para que me quede acordé o lo que estamos nosotros.
+
+John Alexander Diaz Mosquera   21:49
+Es.
+
+Paul Fabian Gonzalez Rodriguez   21:55
+Asiento.
+Bodegas casa matriz.
+
+John Alexander Diaz Mosquera   22:01
+Es preciso.
+
+Paul Fabian Gonzalez Rodriguez   22:02
+Linternas.
+Con esto no lo no lo no lo dijiste sino ya el sistema y la cantidad fueron y es Mich.
+Aquí me queda más o menos en 63, no más o menos son los valores aproximados.
+Al lío el valor de la cotización son 63400000 pesos.
+¿A que me quedan?
+Son 3200 pesos porque son los decimales del sistema, aquí ya me quedó registrada.
+Entonces esto fue lo que me e ingresó 10000 internas hoy.
+
+John Alexander Diaz Mosquera   22:32
+La entrada.
+
+Paul Fabian Gonzalez Rodriguez   22:34
+De entrada, puede que esas 10000, señor.
+
+John Alexander Diaz Mosquera   22:35
+Listo entonces, hagamos una cosa, vamos.
+AAA el cronómetro y de molesto.
+Listo para este primer ejercicio, nos demoramos cerca de 4 minutos.
+Listo, Fabián, continué.
+
+Paul Fabian Gonzalez Rodriguez   22:54
+Buen reinicio el cronómetro continuó.
+
+John Alexander Diaz Mosquera   22:56
+Sí no, entonces no que su merced no se iba a decir que puede que esas 10000.
+
+Paul Fabian Gonzalez Rodriguez   23:00
+¿Ah, bueno entonces EH, quería comentarles así como se hace un ingreso, también le podemos aquí hacer una salida o sería de pronto hacer lo de una vez completo como para para, para mirar cómo, cómo nos quedaría a nosotros en entonces en el contexto de que se llegaré a hacer alguna salida?
+No sé si usted está de acuerdo yo.
+
+John Alexander Diaz Mosquera   23:19
+¿Sí, pero entonces, para qué podamos compararlo?
+La herramienta con las entradas entonces vamos a hacer este esta misma entrada, o sea, vamos a hacer el procedimiento.
+
+Paul Fabian Gonzalez Rodriguez   23:28
+Mhm.
+
+John Alexander Diaz Mosquera   23:29
+Las salidas, pero entonces entrada con la entrada y salida con salida.
+Entonces vamos AA reiniciar el cronómetro, vamos a cerrar esta esta malla que que su merced ya trabajó y en síntesis es lo que hace Fabián en esta malla, es crear una referencia, tiene que crearla una descripción, un inventario de material y luego posterior, se va a una tabla que se denomina entradas, que le va alimentando también toda la información que ya registró.
+
+Paul Fabian Gonzalez Rodriguez   23:33
+Um yo ya no entiendo.
+Sí, sí, sí, sí, sí, sí.
+Voy al frente.
+
+John Alexander Diaz Mosquera   23:58
+¿Entonces hay una posibilidad de que el registro manual de esta información pueda tener algunas incorrecciones o alguna fuga de información importante que no podamos estar considerando entonces?
+
+Paul Fabian Gonzalez Rodriguez   24:08
+No.
+
+John Alexander Diaz Mosquera   24:11
+Fabián, cerremos este, guardemos y cerremos este sí.
+
+Paul Fabian Gonzalez Rodriguez   24:11
+Perdón, perdón, no interrumpo, sí, señor, perdón, no interrumpo un momentico y lo que yo le mencionaba yo en anteriormente esta esta referencias o estas llaves, nosotros las no digamos las tenemos que inventar, no tenemos un catálogo ni nada y por lo general pueden existir de la misma referencia varias entradas o varias compras en la otra herramienta, pues lo que hace es como minimizar ese ese ese error que se pueda presentar repitiendo.
+
+John Alexander Diaz Mosquera   24:27
+Mhm.
+Sí, mañana.
+Dijo.
+No sé listo, vamos, vamos a revisarlo en la vamos a revisarlo en en en caliente y ya hablamos de cómo esa otra herramienta con respecto a esta antes, digamos que esta lo que inicialmente Fabián tiene que empezar a identificar el material, inventarlo, registrarlo, registrar las llaves y cuando ya hay mucho material pues es un poco complicado la imaginación para 1 empezar a hacer una referencia única o una llave única de la información, entonces ahora vamos a ver en la en en la herramienta que se propone.
+
+Paul Fabian Gonzalez Rodriguez   24:48
+¿Listo?
+
+John Alexander Diaz Mosquera   25:14
+Cómo se abordan estas problemáticas para ayudar en este caso al proceso, para que no sea tan manual, sino que sea un poco más automático.
+Entonces si quiere Fabián, hagamos también otra vez con el cronómetro.
+
+Paul Fabian Gonzalez Rodriguez   25:24
+Cero.
+
+John Alexander Diaz Mosquera   25:27
+Hagamos el ejercicio de registrar esta información y ya yo les voy narrando ahí como cuáles son las variables que que se agregan dentro de este nuevo registro.
+
+Paul Fabian Gonzalez Rodriguez   25:39
+Ya que está ingresando a la no Amaya, entonces vamos a hacerle una entrada visto entonces vamos acá.
+
+John Alexander Diaz Mosquera   25:46
+¿OK?
+
+Paul Fabian Gonzalez Rodriguez   25:49
+Y nos fuimos.
+Sí, muy rica.
+Sí, está perfecto, sí.
+Volví.
+Listo mi amor.
+
+John Alexander Diaz Mosquera   26:17
+Entonces este esta herramienta se diseñó mientras Fabián estaba registrando la información de acuerdo a la necesidad que manifestaba Fabián de de dentro de la malla.
+
+Paul Fabian Gonzalez Rodriguez   26:17
+Para.
+Bonito.
+También.
+
+John Alexander Diaz Mosquera   26:29
+Hay productos que tal vez ya existen en el inventario, entonces, dentro de ese primera sección, donde dice productos en inventario, lo que hace Fabián es poner la fecha en la cual va a hacerse esa entrada y seleccionar el producto, el cual digamos que va a ingresar dentro del material promocional.
+Esa primera cuadrícula que ustedes ven en pantalla va a mostrar todo el material que existe en el inventario para que si en algún momento ya existe una clave o un tipo de material, Fabián ya lo pueda tomar directamente de ahí y no tenga que inventarse nuevas claves en el proceso manual que veíamos antes.
+
+Paul Fabian Gonzalez Rodriguez   26:55
+Oh.
+¿Tú sabes?
+
+John Alexander Diaz Mosquera   27:10
+Este registro es más automático, le permite a Fabián capturar el proveedor.
+El nit, la línea y todos los datos que estaba en ingresando en la malla actual.
+Pero fíjense que ya no repite tanta información o no tiene que desplazarse tanto de un de un módulo a otro, es lo que está haciendo Fabián dentro de la nueva entrada, lo que le permite la captura del material.
+
+Paul Fabian Gonzalez Rodriguez   27:26
+Tiene.
+¿Verdad?
+
+John Alexander Diaz Mosquera   27:32
+Es el nombre del proveedor el nit, la línea de productos y es masivo, intermedio, OOVIP.
+El producto que ya seleccionó en la parte inicial a qué bodega y a qué ubicación lo va a poner.
+Una clave que se va a generar automáticamente que tiene la nomenclatura del producto, la fecha y la ubicación de la bodega donde va a estar.
+Especificaciones que hay en la bodega la cantidad, el valor unitario, el valor del IVA le permite adjuntar la cotización en PDFY seleccionar la imagen del producto para que en un momento después en una visualización se puedan identificar con imágenes.
+¿Cuáles son los productos que ingresan en el inventario?
+
+Paul Fabian Gonzalez Rodriguez   28:15
+Sobrina de la sangre.
+
+John Alexander Diaz Mosquera   28:17
+En el momento en que Fabián le da registrar eso a una base de datos y observamos como el tiempo en este proceso ingresando más variables es del 50%.
+
+Paul Fabian Gonzalez Rodriguez   28:18
+El mayor.
+Y mi hermano.
+¿Cuál?
+
+John Alexander Diaz Mosquera   28:32
+¿Qué opina de esto?
+¿Fabián, qué quiere agregar?
+
+Paul Fabian Gonzalez Rodriguez   28:36
+Pues John, no como su merced lo menciona anteriormente, nos ahorra mucho tiempo y nos ahorró también unos márgenes de error bastante bastante.
+¿Podríamos decir grandes que se pueden generar de una forma manual, aquí vamos un poco más seguros, vamos tranquilos, es muy amigable, es muy sencillo, hay que tener cuidado con información, claro que hay que tenerla, pero al igual nosotros EH?
+Teniendo de pronto ese apoyo y teniendo esta herramienta, nos va a facilitar de todo y por todo para que también no solamente que manipula la herramienta, sino la persona que pueda, en este caso tomar decisiones para una compra que es el gerente del Vicepresidente se dé cuenta también que es muy pero muy buena, y a mí me da a mí me ha gustado, me pareció chévere.
+
+John Alexander Diaz Mosquera   29:27
+¿Listo?
+Fabián, muchas gracias.
+Entonces vamos a hacer, vamos a cerrar ahí vamos a guardar el archivo y vamos a hacer el último procedimiento de nuestra sesión, que es la las salidas, entonces, como ya ingresamos en el en la malla anterior, vamos a también a hacer el mismo ejercicio de tomar tiempos, vamos a cerrar este archivo y vamos a abrir la la malla que se está manejando actualmente Eh, hay cadáveres, resaltar en este video que esta es una propuesta que están implementación, que es ya digamos se ha venido trabajando algunas pruebas, pero que en este momento no está producción, es una propuesta para la transformación digital en ese proceso de inventarios y en la cual estamos haciendo las pruebas para verificar su utilidad y aplicabilidad.
+
+Paul Fabian Gonzalez Rodriguez   29:54
+No.
+
+John Alexander Diaz Mosquera   30:12
+Guía.
+Entonces, si quiere, vamos a reiniciar el cronómetro.
+
+Paul Fabian Gonzalez Rodriguez   30:15
+¿Listo entonces vamos a sí?
+
+John Alexander Diaz Mosquera   30:17
+Vamos a irnos a la malla, que su merced trabaja actualmente a hacer la salida del material que ingresamos y tomando el tiempo también.
+
+Paul Fabian Gonzalez Rodriguez   30:18
+Sí, sí, sí.
+¿Listo?
+Entonces bueno, vamos a hacerle la salida, perdón, un momento.
+Joan Díaz Mosquera, entonces en la que dice prueba, Ah, bueno, perdón.
+
+John Alexander Diaz Mosquera   30:40
+Lista está bien.
+
+Paul Fabian Gonzalez Rodriguez   30:41
+Mis entonces.
+Siempre esperando que ingrese, abra la mallita, nuestra malla.
+Y vimos que había ingresado 16.
+
+John Alexander Diaz Mosquera   30:50
+Quiere demoler, demoler, reiniciar el cronómetro.
+Y empezamos desde el momento en que ya suma, se pueda ingresarle los datos.
+
+Paul Fabian Gonzalez Rodriguez   30:53
+De posición.
+¿Listo?
+¿Listo?
+
+John Alexander Diaz Mosquera   30:59
+¿Listo, preparados?
+
+Paul Fabian Gonzalez Rodriguez   31:02
+Entonces, digamos, vamos a hacerle una salida de 5000, claro, el mismo Mark, exactamente.
+
+John Alexander Diaz Mosquera   31:05
+De ese mismo material que hicimos, ajá.
+
+Paul Fabian Gonzalez Rodriguez   31:09
+Linternas LED.
+Vamos a hacerle una salida, entonces vamos a hacer una salida de 5000 artículos ya.
+
+John Alexander Diaz Mosquera   31:19
+Mientras fabiana es el procedimiento, cabe aclarar que esta salida son con la aprobación del gerente, o sea, se llega a la solicitud, pero todo es con la aprobación del del gerente de mercadeo y comunicaciones o el Vicepresidente.
+El Fabián no puede llegar a tocar el inventario si no hay una previa autorización o un previo soporte de la información que está moviendo en el inventario.
+
+Paul Fabian Gonzalez Rodriguez   31:36
+Bueno.
+
+John Alexander Diaz Mosquera   31:44
+¿Pues ahí vemos que en la malla actual, Fabián tiene una tabla que se denomina salidas y es donde registra los datos del material que va a salir, cierto Fabián?
+
+Paul Fabian Gonzalez Rodriguez   31:55
+Sí, señor, en esta malla lo que yo decía, pues no repitiendo, pero debe existir una autorización, es una autorización, no se puede tocar esta maya y la autorización.
+La única persona que hablaba es el gerente del Vicepresidente nadie más.
+
+John Alexander Diaz Mosquera   32:09
+OK, esa llave de su Mercedes la copio y la pego del material que va a sacar cierto o la digita en el caso tal que que necesite.
+
+Paul Fabian Gonzalez Rodriguez   32:16
+Claro, sí, señor, esta fue la que yo creé, que fue la que me ha asignado directamente para la linternas.
+
+John Alexander Diaz Mosquera   32:20
+Ajá.
+
+Paul Fabian Gonzalez Rodriguez   32:22
+Leds.
+Fue tanto la entrada como la de la salida.
+Entonces, aquí la copié aquí le estoy colocando.
+¿Para quién va entonces?
+Material, bien sea relacionamiento, relacionamiento.
+Gerencia, gerencia de mercadeo y.
+¿Comunicaciones, entonces acá te estoy dando, tengo 5000, en mi malla tuvimos un ingreso de 10000, me salieron 5000 en stock, me quedan 5000 ya el coste o al precio de hoy, como que a nuestra nuestra malla de una vez actualizada?
+Bueno, entonces, perdón.
+
+John Alexander Diaz Mosquera   33:05
+Listo Fabián si quiere, por favor, vayamos al cronómetro y le damos de terminar cerca de 2 minutos.
+
+Paul Fabian Gonzalez Rodriguez   33:11
+¿Listo?
+
+John Alexander Diaz Mosquera   33:11
+Se demora esta gestión con todo lo que es su merced, tiene que digitar, algo que agregar sobre este tema, a veces pueden ser varias salidas, entonces pueden ser varias tipificaciones.
+
+Paul Fabian Gonzalez Rodriguez   33:19
+No, claro.
+
+John Alexander Diaz Mosquera   33:21
+¿Entonces, este tiempo lo estamos midiendo sobre un solo producto, solo para mirar la eficiencia que hay dentro de cada una de las herramientas?
+Evidentemente, Fabián puede tener alistamientos de mucho material, que ya los tiempos pueden ser mucho más prolongados y De hecho de que él tenga que tipificar cada cada característica del material, lo hace propenso a que se generen algunos errores en el proceso o pérdida de información.
+
+Paul Fabian Gonzalez Rodriguez   33:31
+No es que.
+¿Por lo general, yo en un paréntesis, EH?
+¿Cuando se hacen los alistamientos a nivel nacional, nosotros tenemos aquí 27 sucursales, más dos puntos de venta o puntos de servicio, EH?
+Se concertase, revisa el alistamiento y de las cantidades 20, 30000 se pueden ir perfectamente, 15, 16000 unidades y nos toca a cada sucursal colocarle lo que va a salir y cantidades, y Toy para quien va, entonces eso es otro control que se tiene en la nueva malla para saber cuánto se les ha enviado que cantidades, en qué fechas y llevarme un mejor control, porque pues muchas veces el material se envía y se agota rápido.
+
+John Alexander Diaz Mosquera   34:32
+¿Listo para entonces?
+¿Vamos a hacer, EH?
+Abrir la nueva propuesta que tenemos para este proceso, vamos a hacer la salida también al igual que el mismo material, vamos a reiniciar el cronómetro y vamos AA hacer el registro de lo que solicita la la herramienta.
+
+Paul Fabian Gonzalez Rodriguez   35:06
+Los.
+Coma.
+Las papillas tenemos, vamos a hacer una.
+¿Salida de 5000?
+5000 pero tranquilo, consultar.
+¿Qué?
+
+John Alexander Diaz Mosquera   35:51
+Salió mal.
+Ja de.
+Vuelve otra vez.
+Este este pedacito toca editarlo.
+
+Paul Fabian Gonzalez Rodriguez   36:02
+Listo.
+Entonces aquí nos dice, va para casa matriz, nombre del solicitante, entonces Henry Correal, aunque tiene un relacionamiento.
+¿Entonces, aquí está fidelización de clientes a nivel de presencia, entonces este es un evento, Eh?
+Material, relación relacionamiento.
+¿Gerencia de mercadeo, EH?
+Papá, papá, papá, papá.
+Descargar inventario la autorización, pues aquí está el correíto del jefe entonces.
+Sí.
+Sí.
+Claro adiós al espero split alencito, muchas gracias.
+Sí, listo.
+
+John Alexander Diaz Mosquera   37:01
+Vamos otra vez cerca de un minuto 54 listo.
+¿Qué es importante resaltar en este proceso?
+Cuando Fabián hace esta salida de resultados vamos un momentico al menú de salidas.
+
+Paul Fabian Gonzalez Rodriguez   37:10
+Y.
+¿Llegaste al lugar decente?
+
+John Alexander Diaz Mosquera   37:14
+Fabián este.
+
+Paul Fabian Gonzalez Rodriguez   37:14
+¿Lo hiciste porque?
+
+John Alexander Diaz Mosquera   37:16
+Esta herramienta le permite identificar a Fabián al en la pestaña salidas vamos un momento.
+
+Paul Fabian Gonzalez Rodriguez   37:18
+No parece que ese hecho 2002 1001.
+Pero se parece en.
+
+John Alexander Diaz Mosquera   37:27
+Esa esa herramienta permite tener una base de datos estructuradas de las salidas que tiene el material con fecha con tipo de material.
+
+Paul Fabian Gonzalez Rodriguez   37:31
+¿Cómo te ha cuéntame?
+
+John Alexander Diaz Mosquera   37:39
+¿Con quién autoriza el material?
+Con el valor de ese material, con la justificación de esas salidas del material y con los soportes centralizados de esa salida de material.
+Esto es evidentemente hace.
+¿Para el gerente de mercadeo y comunicaciones, poder tener un control sobre lo que entrega a quien le entrega cuando la entrega y por qué características o estrategias lo está haciendo para planear de manera correcta, cuál va a ser su estrategia de Eh?
+
+Paul Fabian Gonzalez Rodriguez   37:54
+Yo te dijera en las mismas de cambio, mucho.
+¿Y a TI, cómo te ha ido?
+
+John Alexander Diaz Mosquera   38:08
+¿Ha adquisición o con respecto a estrategias de adquisición de material promocional?
+Entonces, pues eso es lo que queríamos.
+Compartir el día de hoy yo quiero finalizar esta sesión con Fabián para que nos diga En resumen cuáles son las bondades que le ve si le ve algunas oportunidades o cómo, cómo se siente con la herramienta y si estaría dispuesto a usarla.
+
+Paul Fabian Gonzalez Rodriguez   38:27
+Sí, dime dónde.
+¿Bueno, qué puedo decir?
+Todo eso objeto de mejora.
+Esta herramienta optimiza como ustedes se pudieron dar cuenta anteriormente en los tiempos Eh, tener mejor atención al detalle de pronto, que no se le pase una cosa porque pues de lo mismo amigable que es le va diciendo el paso a paso de pronto, donde 1 pueda incurrir en un error, pero lo considero que yo la uso y a medida que va pasando el tiempo, pues se mirará en unas opciones de de que mejor se le puede hacer, pero en este momento el digitalizar una cotización en digitalizar un ingreso, una autorización, una fotografía, una salida para quien va a tener mayor control de un stock que que esté colgada en una nube, considero yo que es una muy buena herramienta y pues bueno, qué.
+Chévere, que pues si pueda seguir implementando, no solamente aquí, sino en otros lados, y yo pues gracias hombre.
+
+John Alexander Diaz Mosquera   39:36
+¿Listo?
+Vayan muchísimas gracias con esto, digamos, quedamos terminada esta sesión de una entrevista.
+Profundidad con la persona que maneja el proceso de administración y material de inventarios, con el cual digamos se identifica o se propone establecer herramientas de transformación digital para la mejor toma de decisiones por parte del gerente de mercadeo y comunicaciones.
+Esto es una muestra de la prueba piloto que se realizó para identificar las bondades de la herramienta y todas las optimizaciones.
+En cuanto a la operatividad que tiene él, la persona encargada de manejar este inventario en muchísimas gracias, muchísimas.
+
+Paul Fabian Gonzalez Rodriguez   40:08
+Porque cuando.
+
+John Alexander Diaz Mosquera   40:14
+Gracias Fabián por su tiempo.
+
+Paul Fabian Gonzalez Rodriguez   40:16
+Un abrazo.
+Buen día a todos, gracias y Chao.
+
+John Alexander Diaz Mosquera   40:19
+Gracias fabi Chao.
+
+Paul Fabian Gonzalez Rodriguez   40:21
+Chao.
+
+John Alexander Diaz Mosquera ha abandonado la reunión
+
+John Alexander Diaz Mosquera ha detenido la transcripción
+
