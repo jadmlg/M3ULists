@@ -410,25 +410,25 @@ http://190.60.32.186:1010/play/a026/index.m3u8
 #EXTINF:0,CNN
 #EXTVLCOPT:network-caching=1000
 http://190.60.32.186:1010/play/a00b/index.m3u8
-#EXTINF:0,CNN ESPAÑOL
+#EXTINF:0,CNN ESPAÃ‘OL
 #EXTVLCOPT:network-caching=1000
 http://190.60.60.29:1010/play/a015
-#EXTINF:0,CNN Espaæol
+#EXTINF:0,CNN EspaÃ¦ol
 #EXTVLCOPT:network-caching=1000
 http://190.60.40.165:1010/play/a09j/index.m3u8
-#EXTINF:0,CNN Espaæol
+#EXTINF:0,CNN EspaÃ¦ol
 #EXTVLCOPT:network-caching=1000
 http://190.60.33.237:1010/play/a09r/index.m3u8
-#EXTINF:0,CNN Espaæol
+#EXTINF:0,CNN EspaÃ¦ol
 #EXTVLCOPT:network-caching=1000
 http://181.78.11.12:1010/play/a09j/index.m3u8
-#EXTINF:0,CNN Espaæol
+#EXTINF:0,CNN EspaÃ¦ol
 #EXTVLCOPT:network-caching=1000
 http://190.60.38.254:1010/play/a09j/index.m3u8
-#EXTINF:0,CNN Espaæol
+#EXTINF:0,CNN EspaÃ¦ol
 #EXTVLCOPT:network-caching=1000
 http://181.119.64.20:1010/play/a0c8/index.m3u8
-#EXTINF:0,CNN Español
+#EXTINF:0,CNN EspaÃ±ol
 #EXTVLCOPT:network-caching=1000
 http://181.78.64.21:1010/play/a030/index.m3u8
 #EXTINF:0,CNN International
@@ -473,10 +473,10 @@ http://190.60.32.186:1010/play/a014/index.m3u8
 #EXTINF:0,CRISTOVISION
 #EXTVLCOPT:network-caching=1000
 http://190.60.60.29:1010/play/a00v
-#EXTINF:0,Cristovisiðn
+#EXTINF:0,CristovisiÃ°n
 #EXTVLCOPT:network-caching=1000
 http://181.119.64.20:1010/play/a0f0/index.m3u8
-#EXTINF:0,Cristovisiðn
+#EXTINF:0,CristovisiÃ°n
 #EXTVLCOPT:network-caching=1000
 http://181.78.64.21:1010/play/a068/index.m3u8
 #EXTINF:0,D Pelicula
@@ -761,10 +761,10 @@ http://190.60.33.237:1010/play/a00e/index.m3u8
 #EXTINF:0,DW
 #EXTVLCOPT:network-caching=1000
 http://190.60.60.29:1010/play/DW
-#EXTINF:0,DW Espaæol
+#EXTINF:0,DW EspaÃ¦ol
 #EXTVLCOPT:network-caching=1000
 http://181.119.64.20:1010/play/a0fu/index.m3u8
-#EXTINF:0,DW Espaæol
+#EXTINF:0,DW EspaÃ¦ol
 #EXTVLCOPT:network-caching=1000
 http://190.60.60.29:1010/play/a042
 #EXTINF:0,E!
@@ -1574,10 +1574,10 @@ http://190.60.33.237:1010/play/a0bea/index.m3u8
 #EXTINF:0,MUNDO DEL CAMPO
 #EXTVLCOPT:network-caching=1000
 http://181.78.64.21:1010/play/a0hk/index.m3u8
-#EXTINF:0,MÆsChic
+#EXTINF:0,MÃ†sChic
 #EXTVLCOPT:network-caching=1000
 http://190.60.40.165:1010/play/a0ef/index.m3u8
-#EXTINF:0,MÆsChic
+#EXTINF:0,MÃ†sChic
 #EXTVLCOPT:network-caching=1000
 http://181.78.11.12:1010/play/a0cs/index.m3u8
 #EXTINF:0,Nat Geo
@@ -1784,13 +1784,13 @@ http://190.60.32.186:1010/play/a01k/index.m3u8
 #EXTINF:0,Sextreme
 #EXTVLCOPT:network-caching=1000
 http://181.119.64.20:1010/play/a0fe/index.m3u8
-#EXTINF:0,Seæal Colombia
+#EXTINF:0,SeÃ¦al Colombia
 #EXTVLCOPT:network-caching=1000
 http://181.119.64.20:1010/play/a0ha/index.m3u8
-#EXTINF:0,Seæal Colombia
+#EXTINF:0,SeÃ¦al Colombia
 #EXTVLCOPT:network-caching=1000
 http://190.60.38.254:1010/play/a0h3/index.m3u8
-#EXTINF:0,Seæal Colombia
+#EXTINF:0,SeÃ¦al Colombia
 #EXTVLCOPT:network-caching=1000
 http://181.78.64.21:1010/play/a0c1/index.m3u8
 #EXTINF:0,Sony
@@ -1940,7 +1940,7 @@ http://181.78.11.12:1010/play/a0c5/index.m3u8
 #EXTINF:0,Sun Channel
 #EXTVLCOPT:network-caching=1000
 http://190.60.40.165:1010/play/a0c5/index.m3u8
-#EXTINF:0,TC Televisiðn
+#EXTINF:0,TC TelevisiÃ°n
 #EXTVLCOPT:network-caching=1000
 http://190.60.38.254:1010/play/a0ix/index.m3u8
 #EXTINF:0,TCM
@@ -2015,7 +2015,7 @@ http://190.60.60.29:1010/play/Telecaribe
 #EXTINF:0,Telecaribe
 #EXTVLCOPT:network-caching=1000
 http://181.78.64.21:1010/play/a08s/index.m3u8
-#EXTINF:0,TelefØ
+#EXTINF:0,TelefÃ˜
 #EXTVLCOPT:network-caching=1000
 http://181.78.64.21:1010/play/a092/index.m3u8
 #EXTINF:0,Teleislas
