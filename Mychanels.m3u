@@ -843,7 +843,7 @@ http://190.60.62.37:1010/play/a06d/index.m3u8
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://181.78.64.21:1010/play/a085/index.m3u8
-#EXTINF:0,CARACOL HD2
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png",CARACOL HD2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
@@ -860,7 +860,7 @@ http://190.60.38.254:1010/play/a0o8/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://190.60.38.254:1010/play/a0o8/index.m3u8
-#EXTINF:0,CARTOON NETWOR HD
+#EXTINF:-1 tvg-id="Cartoon.Network.co" tvg-name="Cartoon Network" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png",CARTOON NETWOR HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://190.60.32.186:1010/play/a00f/index.m3u8
@@ -1217,7 +1217,7 @@ http://190.60.40.165:1010/play/a0fj/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://190.60.38.254:1010/play/a0ng/index.m3u8
-#EXTINF:0,COMEDIA CENTRAL
+#EXTINF:-1 tvg-id="Comedy.Central.co" tvg-name="Comedy Central" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519091_39917200288AD4FD.png",COMEDIA CENTRAL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://190.60.32.186:1010/play/a00j/index.m3u8
@@ -1496,7 +1496,7 @@ http://190.60.32.186:1010/play/a00l/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://190.60.40.165:1010/play/a0ai/index.m3u8
-#EXTINF:0,DISCOVERY ID
+#EXTINF:-1 tvg-id="Discovery.Kids.co" tvg-name="Discovery Kids" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523293_350A81601DFB7D0D.png",DISCOVERY ID
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://190.60.32.186:1010/play/a02b/index.m3u8
@@ -1764,7 +1764,7 @@ http://190.60.32.186:1010/play/a0eb/index.m3u8
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://190.60.62.37:1010/play/a01v/index.m3u8
-#EXTINF:0,Disney Jr.
+#EXTINF:-1 tvg-id="Disney.Channel.co" tvg-name="Disney Channel" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png",Disney Jr.
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
@@ -3128,12 +3128,12 @@ http://181.78.64.21:1010/play/a0ic/index.m3u8
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://181.78.64.21:1010/play/a0il/index.m3u8
-#EXTINF:0,ENLACE - IP
+#EXTINF:-1 tvg-id="ENLACE.co" tvg-name="ENLACE" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726444_D21DDB643F3506E9.png",ENLACE - IP
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://190.61.57.2:1010/play/a09e/index.m3u8
-#EXTINF:0,ENLACE - IP
+#EXTINF:-1 tvg-id="ENLACE.co" tvg-name="ENLACE" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726444_D21DDB643F3506E9.png",ENLACE - IP
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
@@ -3320,7 +3320,7 @@ http://190.60.40.165:1010/play/a0b1/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://190.60.32.186:1010/play/a01c/index.m3u8
-#EXTINF:0,LOVE NATURAL
+#EXTINF:-1 tvg-id="Love.Nature.co" tvg-name="Love Nature" tvg-logo="",LOVE NATURAL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://190.60.32.186:1010/play/a01d/index.m3u8
@@ -3492,7 +3492,7 @@ http://190.60.40.165:1010/play/a0ef/index.m3u8
 #EXTINF:0,MÃ#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://190.60.40.165:1010/play/a0ef/index.m3u8
-#EXTINF:0,MÆsChic
+#EXTINF:-1 tvg-id="Mas.Chic.co" tvg-name="Mas Chic" tvg-logo="",MÆsChic
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
@@ -3910,7 +3910,7 @@ http://190.60.40.165:1010/play/a0av/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://190.60.38.254:1010/play/a0eoa/index.m3u8
-#EXTINF:0,RCN HD2
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png",RCN HD2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
