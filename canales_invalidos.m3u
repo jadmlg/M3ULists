@@ -1,4 +1,170 @@
 #EXTM3U
-# REPORTE DE FALLOS
+# FALLOS
+#EXTINF:-1,TELEVISA CON ENTRETEIMENT
+http://181.78.8.199:8000/play/a0av/index.m3u8
+#EXTINF:-1,CARTUNITO
+http://190.60.32.186:1010/play/a006/index.m3u8
+#EXTINF:-1,CITY TV
+http://190.60.32.186:1010/play/a00i/index.m3u8
+#EXTINF:-1,COMEDIA CENTRAL
+http://190.60.32.186:1010/play/a00j/index.m3u8
+#EXTINF:-1,CRISTOVISION
+http://190.60.32.186:1010/play/a014/index.m3u8
+#EXTINF:-1,GOLDEN
+http://190.60.32.186:1010/play/a02e/index.m3u8
+#EXTINF:-1,HTV
+http://190.60.32.186:1010/play/a016/index.m3u8
+#EXTINF:-1,LOVE NATURAL
+http://190.60.32.186:1010/play/a01d/index.m3u8
+#EXTINF:-1,ZOOMOO HD
+http://190.60.32.186:1010/play/a02l/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://190.60.33.237:1010/play/a0dl/index.m3u8
+#EXTINF:-1,Distrito Comedia
+http://190.60.33.237:1010/play/a0er/index.m3u8
+#EXTINF:-1,Golden HD
+http://190.60.33.237:1010/play/a0e9/index.m3u8
+#EXTINF:-1,RCN HD
+http://190.60.33.237:1010/play/a0d4a/index.m3u8
+#EXTINF:-1,Sony
+http://190.60.33.237:1010/play/a0dw/index.m3u8
+#EXTINF:-1,Warner Channel HD
+http://190.60.33.237:1010/play/a046a/index.m3u8
+#EXTINF:-1,061 - WARNER CHANNEL HD
+http://190.60.40.165:1010/play/uy6q/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://190.60.40.165:1010/play/a0m3/index.m3u8
+#EXTINF:-1,Eurochannel
+http://190.60.40.165:1010/play/a0kc/index.m3u8
+#EXTINF:-1,TCM
+http://190.60.40.165:1010/play/a0cx/index.m3u8
+#EXTINF:-1,Warner Channel
+http://190.60.40.165:1010/play/a0nl/index.m3u8
+#EXTINF:-1,Win Sports+
+http://190.60.40.165:1010/play/a0nz/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+http://190.60.40.165:1010/play/a0n6/index.m3u8
+#EXTINF:-1,ANIMAL PLANET SRT
+http://38.211.145.109:8000/play/a05g/index.m3u8
+#EXTINF:-1,BANDAMAX SRT
+http://38.211.145.109:8000/play/a05h/index.m3u8
+#EXTINF:-1,BETHEL (clone)
+http://38.211.145.109:8000/play/a05z/index.m3u8
+#EXTINF:-1,BITMEN SRT
+http://38.211.145.109:8000/play/a05i/index.m3u8
+#EXTINF:-1,DISCOVERY CHANEL SRT
+http://38.211.145.109:8000/play/a054/index.m3u8
+#EXTINF:-1,DISCOVERY CHANEL SRT
+http://38.211.145.109:8000/play/a05j/index.m3u8
+#EXTINF:-1,DISCOVERY KIDS RT
+http://38.211.145.109:8000/play/a055/index.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE  SRT
+http://38.211.145.109:8000/play/a056/index.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE SRT
+http://38.211.145.109:8000/play/a05l/index.m3u8
+#EXTINF:-1,ESPN2HD
+http://38.211.145.109:8000/play/a02t/index.m3u8
+#EXTINF:-1,FOOD NETWORK SRT
+http://38.211.145.109:8000/play/a05o/index.m3u8
+#EXTINF:-1,LOVENATURE
+http://38.211.145.109:8000/play/a031/index.m3u8
+#EXTINF:-1,OROMAR
+http://38.211.145.109:8000/play/a030/index.m3u8
+#EXTINF:-1,UNITEL HD
+http://38.211.145.109:8000/play/a03g/index.m3u8
+#EXTINF:-1,show ven
+http://38.211.145.109:8000/play/a03d/index.m3u8
+#EXTINF:-1,ANIMAL PLANET SRT
+http://170.246.114.52:8000/play/a05g/index.m3u8
+#EXTINF:-1,BANDAMAX SRT
+http://170.246.114.52:8000/play/a05h/index.m3u8
+#EXTINF:-1,BETHEL (clone)
+http://170.246.114.52:8000/play/a05z/index.m3u8
+#EXTINF:-1,BITMEN SRT
+http://170.246.114.52:8000/play/a05i/index.m3u8
+#EXTINF:-1,DISCOVERY CHANEL SRT
+http://170.246.114.52:8000/play/a054/index.m3u8
+#EXTINF:-1,DISCOVERY CHANEL SRT
+http://170.246.114.52:8000/play/a05j/index.m3u8
+#EXTINF:-1,DISCOVERY KIDS RT
+http://170.246.114.52:8000/play/a055/index.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE  SRT
+http://170.246.114.52:8000/play/a056/index.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE SRT
+http://170.246.114.52:8000/play/a05l/index.m3u8
+#EXTINF:-1,ESPN 5
+http://170.246.114.52:8000/play/a01q/index.m3u8
+#EXTINF:-1,ESPN2HD
+http://170.246.114.52:8000/play/a02t/index.m3u8
+#EXTINF:-1,FOOD NETWORK SRT
+http://170.246.114.52:8000/play/a05o/index.m3u8
+#EXTINF:-1,LOVENATURE
+http://170.246.114.52:8000/play/a031/index.m3u8
+#EXTINF:-1,OROMAR
+http://170.246.114.52:8000/play/a030/index.m3u8
+#EXTINF:-1,UNITEL HD
+http://170.246.114.52:8000/play/a03g/index.m3u8
+#EXTINF:-1,show ven
+http://170.246.114.52:8000/play/a03d/index.m3u8
+#EXTINF:-1,031 - HOGAR TV
+http://181.118.153.15:8000/play/ks82/index.m3u8
+#EXTINF:-1,046 - ANTENA 3
+http://181.118.153.15:8000/play/aa08/index.m3u8
+#EXTINF:-1,048 - TV AGRO
+http://181.118.153.15:8000/play/ta63/index.m3u8
+#EXTINF:-1,051 - TELE NOSTALGIA
+http://181.118.153.15:8000/play/mb00/index.m3u8
+#EXTINF:-1,052 - RUMBA TV
+http://181.118.153.15:8000/play/jh71/index.m3u8
+#EXTINF:-1,085 - CRISTOVISION
+http://181.118.153.15:8000/play/ar42/index.m3u8
+#EXTINF:-1,097 - TV PERU
+http://181.118.153.15:8000/play/ou61/index.m3u8
+#EXTINF:-1,Cristovisiðn
+http://181.118.153.15:8000/play/a068/index.m3u8
+#EXTINF:-1,TV PERU
+http://181.118.153.15:8000/play/a05x/index.m3u8
+#EXTINF:-1,AZCLICK
+http://181.118.150.27:8000/play/a003/index.m3u8
+#EXTINF:-1,HELICONIA
+http://181.118.150.27:8000/play/a028/index.m3u8
+#EXTINF:-1,Distrito Comedia
+http://181.78.67.171:8000/play/a0dl/index.m3u8
+#EXTINF:-1,ENLACE 10 TELEVISIÓN BARRANCABERMEJA
+http://181.78.67.171:8000/play/a0h2/index.m3u8
+#EXTINF:-1,Golden Edge
+http://181.78.67.171:8000/play/a0co/index.m3u8
+#EXTINF:-1,Golden HD
+http://181.78.67.171:8000/play/a0cn/index.m3u8
+#EXTINF:-1,HTV
+http://181.78.67.171:8000/play/a0ea/index.m3u8
+#EXTINF:-1,History 2
+http://181.78.67.171:8000/play/a0us/index.m3u8
+#EXTINF:-1,NTN24
+http://181.78.67.171:8000/play/a0xg/index.m3u8
+#EXTINF:-1,Nuestra Tele
+http://181.78.67.171:8000/play/a0xe/index.m3u8
+#EXTINF:-1,OROMAR TV
+http://181.78.67.171:8000/play/a0y5/index.m3u8
+#EXTINF:-1,TELEPETROLEO Barrancabermeja
+http://181.78.67.171:8000/play/a0h7/index.m3u8
+#EXTINF:-1,TELEREDES TV
+http://181.78.67.171:8000/play/a0xv/index.m3u8
 #EXTINF:-1,Las Estrellas HD
 http://181.78.74.68:8000/play/a04g/index.m3u8
+#EXTINF:-1,ENLACE JUVENIL
+http://181.78.98.214:8000/play/a011/index.m3u8
+#EXTINF:-1,ESPN 2
+http://181.78.98.214:8000/play/a005/index.m3u8
+#EXTINF:-1,CANAL 100 CHINIQUE
+http://45.5.118.152:8000/play/a05x/index.m3u8
+#EXTINF:-1,CANAL 100 CHINIQUE (clone)
+http://45.5.118.152:8000/play/a0cs/index.m3u8
+#EXTINF:-1,CANAL 21 RUDY VISION
+http://45.5.118.152:8000/play/a0co/index.m3u8
+#EXTINF:-1,CANAL 5
+http://45.5.118.152:8000/play/a01g/index.m3u8
+#EXTINF:-1,CANAL 70 Vision Tv
+http://45.5.118.152:8000/play/a05n/index.m3u8
+#EXTINF:-1,clon 10
+http://45.5.118.152:8000/play/a0c9/index.m3u8
