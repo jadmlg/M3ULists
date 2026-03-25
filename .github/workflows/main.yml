@@ -31,4 +31,6 @@ jobs:
           git config --local user.name "GitHub Action"
           git add lista_final_perfecta.m3u canales_invalidos.m3u
           git commit -m "Lista actualizada automáticamente" || echo "No hay cambios"
+          # Esta es la línea mágica que evita el error:
+          git pull --rebase origin main
           git push
