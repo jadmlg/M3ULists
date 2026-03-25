@@ -1,0 +1,16 @@
+http://181.78.79.63:1010/playlist.m3u
+http://181.78.8.199:8000/playlist.m3u
+http://190.60.32.186:1010/playlist.m3u
+http://190.60.33.237:1010/playlist.m3u
+http://190.60.40.165:1010/playlist.m3u
+http://181.78.64.21:1010/playlist.m3u
+http://38.211.145.109:8000/playlist.m3u
+http://138.117.110.151:8000/playlist.m3u
+http://170.246.114.52:8000/playlist.m3u
+http://181.118.153.15:8000/playlist.m3u
+http://181.118.150.27:8000/playlist.m3u
+http://181.78.79.131:8000/playlist.m3u
+http://181.78.67.171:8000/playlist.m3u
+http://181.78.74.68:8000/playlist.m3u
+http://181.78.98.214:8000/playlist.m3u
+http://45.5.118.152:8000/playlist.m3u
