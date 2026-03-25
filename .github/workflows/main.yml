@@ -29,8 +29,15 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          
+          # 1. Traer cambios de la nube para estar al día
+          git pull origin main --rebase
+          
+          # 2. Agregar los archivos generados
           git add lista_final_perfecta.m3u canales_invalidos.m3u
-          git commit -m "Lista actualizada automáticamente" || echo "No hay cambios"
-          # Esta es la línea mágica que evita el error:
-          git pull --rebase origin main
-          git push
+          
+          # 3. Intentar el commit (solo si hay cambios reales)
+          git commit -m "Lista actualizada automáticamente" || echo "No hay cambios para subir"
+          
+          # 4. Empujar los cambios con seguridad
+          git push origin main
