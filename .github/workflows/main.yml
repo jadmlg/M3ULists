@@ -1,0 +1,31 @@
+name: Actualizar Lista Semanal
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Corre cada domingo a las 00:00
+  workflow_dispatch: # Permite correrlo manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del código
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar script
+        run: python actualizar_lista.py
+
+      - name: Guardar cambios en GitHub
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add lista_final_perfecta.m3u canales_invalidos.m3u
+          git commit -m "Lista actualizada automáticamente" || echo "No hay cambios"
+          git push
