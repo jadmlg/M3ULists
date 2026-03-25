@@ -2,20 +2,18 @@ name: Actualizar Lista Semanal
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # Se ejecuta automáticamente todos los domingos a las 00:00 UTC
-  workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
 
 permissions:
-  contents: write # Permite al robot modificar y guardar archivos en tu repositorio
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     
     env:
-      # Forzamos el uso de Node 24 para eliminar los avisos de depreciación
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-      # Pasamos tus credenciales de correo desde Secrets al Script
       EMAIL_USER: ${{ secrets.EMAIL_USER }}
       EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
 
@@ -40,14 +38,14 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # 1. Nos aseguramos de estar al día con la nube para evitar errores de push
-          git pull origin main --rebase
-          
-          # 2. Agregamos los archivos generados y actualizados
+          # PASO 1: Agregamos los archivos modificados por el robot (Cerrar las puertas)
           git add lista_final_perfecta.m3u canales_invalidos.m3u servidores.txt servidores_out.txt
           
-          # 3. Confirmamos los cambios (si no hay cambios, el script no fallará)
+          # PASO 2: Hacemos el commit LOCAL primero
           git commit -m "Actualización automática: Listas, Historial y Alertas" || echo "No hay cambios para subir"
           
-          # 4. Subimos los archivos finales a tu perfil
+          # PASO 3: Ahora sí, traemos lo de la nube y lo combinamos (Sincronizar)
+          git pull origin main --rebase
+          
+          # PASO 4: Subimos todo finalmente
           git push origin main
