@@ -1,17 +1,24 @@
 name: Actualizar Lista Semanal
+
 on:
   schedule:
-    - cron: '0 0 * * 0' # Se ejecuta todos los domingos a las 00:00 UTC
-  workflow_dispatch: # Permite ejecución manual desde la pestaña Actions
+    - cron: '0 0 * * 0' # Se ejecuta automáticamente todos los domingos a las 00:00 UTC
+  workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions
 
 permissions:
-  contents: write # Permiso crucial para que el robot edite tus archivos TXT y M3U
+  contents: write # Permite al robot modificar y guardar archivos en tu repositorio
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
     env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # Silencia el warning de Node.js
+      # Forzamos el uso de Node 24 para eliminar los avisos de depreciación
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      # Pasamos tus credenciales de correo desde Secrets al Script
+      EMAIL_USER: ${{ secrets.EMAIL_USER }}
+      EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+
     steps:
       - name: Checkout del código
         uses: actions/checkout@v4
@@ -33,14 +40,14 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # Sincronizamos con la nube para evitar errores de "rejected"
+          # 1. Nos aseguramos de estar al día con la nube para evitar errores de push
           git pull origin main --rebase
           
-          # Añadimos los 4 archivos clave al seguimiento
+          # 2. Agregamos los archivos generados y actualizados
           git add lista_final_perfecta.m3u canales_invalidos.m3u servidores.txt servidores_out.txt
           
-          # Guardamos los cambios (si los hay)
-          git commit -m "Actualización automática: Listas y rastro de servidores" || echo "No se detectaron cambios"
+          # 3. Confirmamos los cambios (si no hay cambios, el script no fallará)
+          git commit -m "Actualización automática: Listas, Historial y Alertas" || echo "No hay cambios para subir"
           
-          # Subimos todo al repositorio
+          # 4. Subimos los archivos finales a tu perfil
           git push origin main
