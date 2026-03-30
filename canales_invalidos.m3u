@@ -2,6 +2,8 @@
 # FALLOS
 #EXTINF:-1,CINEMAPLATINO - BARRANCA
 http://181.78.79.63:1010/play/CINEMAPLATINO/index.m3u8
+#EXTINF:-1,TELEVISA CON ENTRETEIMENT
+http://181.78.8.199:8000/play/a0av/index.m3u8
 #EXTINF:-1,CANAL 1
 http://190.60.32.186:1010/play/a0mr/index.m3u8
 #EXTINF:-1,CARTUNITO
@@ -26,12 +28,14 @@ http://190.60.33.237:1010/play/a0d4a/index.m3u8
 http://190.60.33.237:1010/play/a0dw/index.m3u8
 #EXTINF:-1,UNIVISION
 http://190.60.33.237:1010/play/a09na/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://190.60.40.165:1010/play/a0g0/index.m3u8
+#EXTINF:-1,Win Sports +
+http://190.60.33.237:1010/play/a01g/index.m3u8
 #EXTINF:-1,Win Sports+
 http://190.60.40.165:1010/play/a0nz/index.m3u8
 #EXTINF:-1,Win Sports+ HD
 http://190.60.40.165:1010/play/a0n6/index.m3u8
+#EXTINF:-1,tvagro
+http://181.78.64.21:1010/play/a0ld/index.m3u8
 #EXTINF:-1,ANIMAL PLANET SRT
 http://38.211.145.109:8000/play/a05g/index.m3u8
 #EXTINF:-1,BANDAMAX SRT
@@ -54,8 +58,6 @@ http://38.211.145.109:8000/play/a05l/index.m3u8
 http://38.211.145.109:8000/play/a02t/index.m3u8
 #EXTINF:-1,FOOD NETWORK SRT
 http://38.211.145.109:8000/play/a05o/index.m3u8
-#EXTINF:-1,NUESTRA TELE
-http://38.211.145.109:8000/play/a039/index.m3u8
 #EXTINF:-1,OROMAR
 http://38.211.145.109:8000/play/a030/index.m3u8
 #EXTINF:-1,UNITEL HD
@@ -84,8 +86,6 @@ http://170.246.114.52:8000/play/a05l/index.m3u8
 http://170.246.114.52:8000/play/a02t/index.m3u8
 #EXTINF:-1,FOOD NETWORK SRT
 http://170.246.114.52:8000/play/a05o/index.m3u8
-#EXTINF:-1,NUESTRA TELE
-http://170.246.114.52:8000/play/a039/index.m3u8
 #EXTINF:-1,OROMAR
 http://170.246.114.52:8000/play/a030/index.m3u8
 #EXTINF:-1,UNITEL HD
@@ -94,60 +94,28 @@ http://170.246.114.52:8000/play/a03g/index.m3u8
 http://170.246.114.52:8000/play/a03d/index.m3u8
 #EXTINF:-1,008 - CARTOON NITO
 http://181.118.153.15:8000/play/ai30/index.m3u8
-#EXTINF:-1,031 - HOGAR TV
-http://181.118.153.15:8000/play/ks82/index.m3u8
 #EXTINF:-1,046 - ANTENA 3
 http://181.118.153.15:8000/play/aa08/index.m3u8
-#EXTINF:-1,048 - TV AGRO
-http://181.118.153.15:8000/play/ta63/index.m3u8
-#EXTINF:-1,051 - TELE NOSTALGIA
-http://181.118.153.15:8000/play/mb00/index.m3u8
-#EXTINF:-1,052 - RUMBA TV
-http://181.118.153.15:8000/play/jh71/index.m3u8
+#EXTINF:-1,085 - CRISTOVISION
+http://181.118.153.15:8000/play/ar42/index.m3u8
 #EXTINF:-1,097 - TV PERU
 http://181.118.153.15:8000/play/ou61/index.m3u8
+#EXTINF:-1,Cristovisiðn
+http://181.118.153.15:8000/play/a068/index.m3u8
 #EXTINF:-1,TV PERU
 http://181.118.153.15:8000/play/a05x/index.m3u8
-#EXTINF:-1,HELICONIA
-http://181.118.150.27:8000/play/a028/index.m3u8
-#EXTINF:-1,Antena 3
-http://181.78.67.171:8000/play/a0wi/index.m3u8
-#EXTINF:-1,Clover
-http://181.78.67.171:8000/play/a0vg/index.m3u8
 #EXTINF:-1,ENLACE 10 TELEVISIÓN BARRANCABERMEJA
 http://181.78.67.171:8000/play/a0h2/index.m3u8
-#EXTINF:-1,ET Canal El Tiempo
-http://181.78.67.171:8000/play/a0wt/index.m3u8
-#EXTINF:-1,ET Canal El Tiempo
-http://181.78.67.171:8000/play/a0wh/index.m3u8
-#EXTINF:-1,Kanal D Drama
-http://181.78.67.171:8000/play/a0wg/index.m3u8
-#EXTINF:-1,NTV
-http://181.78.67.171:8000/play/a0vn/index.m3u8
-#EXTINF:-1,Plim Plim TV
-http://181.78.67.171:8000/play/a0xi/index.m3u8
-#EXTINF:-1,REC TV
-http://181.78.67.171:8000/play/a0vf/index.m3u8
 #EXTINF:-1,TELEPETROLEO Barrancabermeja
 http://181.78.67.171:8000/play/a0h7/index.m3u8
 #EXTINF:-1,TELEREDES TV
 http://181.78.67.171:8000/play/a0xv/index.m3u8
-#EXTINF:-1,TVE
-http://181.78.67.171:8000/play/a0vl/index.m3u8
-#EXTINF:-1,Telecanal
-http://181.78.67.171:8000/play/a0vc/index.m3u8
-#EXTINF:-1,TelefØ
-http://181.78.67.171:8000/play/a0vk/index.m3u8
-#EXTINF:-1,Telesur
-http://181.78.67.171:8000/play/a0xh/index.m3u8
-#EXTINF:-1,Teletrak
-http://181.78.67.171:8000/play/a0vm/index.m3u8
-#EXTINF:-1,UCL
-http://181.78.67.171:8000/play/a0vh/index.m3u8
 #EXTINF:-1,Win Sports+ HD
 http://181.78.67.171:8000/play/a0yo/index.m3u8
 #EXTINF:-1,Las Estrellas HD
 http://181.78.74.68:8000/play/a04g/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+http://181.78.74.68:8000/play/a04z/index.m3u8
 #EXTINF:-1,ENLACE JUVENIL
 http://181.78.98.214:8000/play/a011/index.m3u8
 #EXTINF:-1,ESPN 2
@@ -156,6 +124,10 @@ http://181.78.98.214:8000/play/a005/index.m3u8
 http://45.5.118.152:8000/play/a05x/index.m3u8
 #EXTINF:-1,CANAL 100 CHINIQUE (clone)
 http://45.5.118.152:8000/play/a0cs/index.m3u8
+#EXTINF:-1,CANAL 117 ROCK TV
+http://45.5.118.152:8000/play/a03h/index.m3u8
+#EXTINF:-1,CANAL 17 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0cd/index.m3u8
 #EXTINF:-1,CANAL 21 RUDY VISION
 http://45.5.118.152:8000/play/a0co/index.m3u8
 #EXTINF:-1,CANAL 44
@@ -172,3 +144,39 @@ http://45.5.118.152:8000/play/a05n/index.m3u8
 http://45.5.118.152:8000/play/a08j/index.m3u8
 #EXTINF:-1,clon 10
 http://45.5.118.152:8000/play/a0c9/index.m3u8
+#EXTINF:-1,CANAL 1
+http://201.219.193.210:25461/1/1/12
+#EXTINF:-1,ESPN
+http://201.219.193.210:25461/1/1/35
+#EXTINF:-1,ETC
+http://201.219.193.210:25461/1/1/42
+#EXTINF:-1,Ecuavisa
+http://201.219.193.210:25461/1/1/45
+#EXTINF:-1,Gamavisiðn
+http://201.219.193.210:25461/1/1/53
+#EXTINF:-1,INSTITUCIONAL
+http://201.219.193.210:25461/1/1/63
+#EXTINF:-1,L1 MAX
+http://201.219.193.210:25461/1/1/64
+#EXTINF:-1,Lifetime
+http://201.219.193.210:25461/1/1/67
+#EXTINF:-1,PARAVISION
+http://201.219.193.210:25461/1/1/74
+#EXTINF:-1,RCN HD
+http://201.219.193.210:25461/1/1/79
+#EXTINF:-1,SEÑAL COLOMBIA
+http://201.219.193.210:25461/1/1/82
+#EXTINF:-1,TELECARIBE
+http://201.219.193.210:25461/1/1/88
+#EXTINF:-1,Teleamazonas
+http://201.219.193.210:25461/1/1/96
+#EXTINF:-1,TelefØ
+http://201.219.193.210:25461/1/1/97
+#EXTINF:-1,Televicentro
+http://201.219.193.210:25461/1/1/99
+#EXTINF:-1,Tlnovelas
+http://201.219.193.210:25461/1/1/100
+#EXTINF:-1,Win Sports+ HD
+http://201.219.193.210:25461/1/1/107
+#EXTINF:-1,WIN SPORT + HD
+http://190.60.52.28:5001/play/a0fu/index.m3u8
