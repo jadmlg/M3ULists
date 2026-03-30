@@ -14,3 +14,5 @@ http://181.78.67.171:8000/playlist.m3u
 http://181.78.74.68:8000/playlist.m3u
 http://181.78.98.214:8000/playlist.m3u
 http://45.5.118.152:8000/playlist.m3u
+http://201.219.193.210:25461/get.php?username=1&password=1&type=m3u_plus&output=ts
+http://190.60.52.28:5001/playlist.m3u
