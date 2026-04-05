@@ -3,3 +3,8 @@ http://205.235.6.29:8000/playlist.m3u - OUT: 2026-03-30 14:53
 http://181.78.64.158:45000/playlist.m3u - OUT: 2026-03-30 14:53
 http://45.173.12.70:8000/playlist.m3u - OUT: 2026-03-30 14:53
 http://181.78.74.226:45000/playlist.m3u - OUT: 2026-03-30 14:53
+http://190.60.32.186:1010/playlist.m3u - OUT: 2026-04-05 02:43
+http://181.78.67.171:8000/playlist.m3u - OUT: 2026-04-05 02:43
+http://181.78.74.68:8000/playlist.m3u - OUT: 2026-04-05 02:43
+http://201.219.193.210:25461/get.php?username=1&password=1&type=m3u_plus&output=ts - OUT: 2026-04-05 02:43
+http://201.219.193.210:3002/playlist.m3u - OUT: 2026-04-05 02:43
