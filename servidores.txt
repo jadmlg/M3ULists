@@ -1,6 +1,5 @@
 http://181.78.79.63:1010/playlist.m3u
 http://181.78.8.199:8000/playlist.m3u
-http://190.60.33.237:1010/playlist.m3u
 http://190.60.40.165:1010/playlist.m3u
 http://181.78.64.21:1010/playlist.m3u
 http://38.211.145.109:8000/playlist.m3u

@@ -10,3 +10,4 @@ http://201.219.193.210:25461/get.php?username=1&password=1&type=m3u_plus&output=
 http://201.219.193.210:3002/playlist.m3u - OUT: 2026-04-05 02:43
 http://170.246.114.52:8000/playlist.m3u - OUT: 2026-04-12 02:49
 http://181.78.98.214:8000/playlist.m3u - OUT: 2026-04-12 02:49
+http://190.60.33.237:1010/playlist.m3u - OUT: 2026-04-19 02:54
