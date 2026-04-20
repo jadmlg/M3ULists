@@ -37,7 +37,8 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add server.txt lista.m3u
+          git add server.txt 
+          git add lista.m3u || true
           
           # Si el archivo server.txt fue modificado, hace un commit y push
           git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Servidor IPTV actualizado" && git push)
