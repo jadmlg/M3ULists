@@ -28,9 +28,9 @@ jobs:
 
       - name: Ejecutar script de búsqueda
         env:
-          API_ID: ${{ secrets.API_ID }}
-          API_HASH: ${{ secrets.API_HASH }}
-          SESSION_STR: ${{ secrets.SESSION_STR }}
+          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+          TELEGRAM_SESSION: ${{ secrets.TELEGRAM_SESSION }}
         run: python cardshare_telegram.py
 
       - name: Guardar nueva URL (Commit automático)
