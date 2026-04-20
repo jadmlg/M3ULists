@@ -19,7 +19,7 @@ from telethon.sessions import StringSession
 API_ID = int(os.getenv('TELEGRAM_API_ID', '0')) 
 API_HASH = os.getenv('TELEGRAM_API_HASH')
 SESSION_STR = os.getenv('TELEGRAM_SESSION')
-CHANNEL_ID = 'NewcamdCccamIptv
+CHANNEL_ID = 'NewcamdCccamIptv'
 
 CURRENT_URL = 'http://redworld.pro:8880/get.php?username=jhon670&pasword=eMwQGD7QrzBk&type=m3u_plus&output=ts'
 #'http://zeurope.xyz:8080/get.php?username=EshkaAytos&password=AytosEshka&type=m3u_plus&output=ts'
