@@ -1,0 +1,1 @@
+http://redworld.pro:8880/get.php?username=jhon670&pasword=eMwQGD7QrzBk&type=m3u_plus&output=ts
