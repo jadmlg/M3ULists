@@ -31,7 +31,7 @@ jobs:
           API_ID: ${{ secrets.API_ID }}
           API_HASH: ${{ secrets.API_HASH }}
           SESSION_STR: ${{ secrets.SESSION_STR }}
-        run: python main.py
+        run: python cardshare_telegram.py
 
       - name: Guardar nueva URL (Commit automático)
         run: |
