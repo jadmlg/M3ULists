@@ -11,6 +11,7 @@ import os
 import re
 import unicodedata
 import requests
+import asyncio
 from telethon import TelegramClient
 from telethon.sessions import StringSession
 
@@ -107,4 +108,5 @@ async def main():
                 else:
                     print("No cumple requisitos.")
   # 4. En Colab, ejecutamos directamente con await
-await main()
+if __name__ == '__main__':
+    asyncio.run(main())
