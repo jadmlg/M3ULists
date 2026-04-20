@@ -81,6 +81,25 @@ def validar_calidad_servidor(host, user, pwd):
         pass
     return False
 
+def guardar_todo(url):
+    """Guarda la URL en server.txt y descarga la lista completa en lista.m3u"""
+    try:
+        with open(SERVER_FILE, 'w', encoding='utf-8') as f:
+            f.write(url)
+        
+        print("Descargando la lista completa de canales. Esto puede tardar unos segundos...")
+        # Añadimos los HEADERS para evitar bloqueos antibot al descargar
+        response = requests.get(url, headers=HEADERS, timeout=30)
+        
+        if response.status_code == 200:
+            with open(PLAYLIST_FILE, 'w', encoding='utf-8') as f:
+                f.write(response.text)
+            print(f"✅ Archivos {SERVER_FILE} y {PLAYLIST_FILE} guardados exitosamente.")
+        else:
+            print(f"⚠️ El servidor funciona (API), pero bloqueó la descarga del archivo m3u. Error HTTP: {response.status_code}")
+    except Exception as e:
+        print(f"❌ Error crítico al descargar o guardar archivos: {e}")
+
 async def main():
     current_url = leer_url_actual()
     host, user, pwd = extraer_credenciales(current_url)
@@ -89,8 +108,10 @@ async def main():
         print(f"Verificando servidor actual: {host}...")
         if validar_calidad_servidor(host, user, pwd):
             print("✅ El servidor actual sigue siendo válido.")
-            # Aseguramos que lista.m3u exista aunque el servidor no haya cambiado
-            if not os.path.exists(PLAYLIST_FILE):
+            
+            # EL CAMBIO CLAVE: Verifica si no existe o si está vacío (pesa menos de 100 bytes)
+            if not os.path.exists(PLAYLIST_FILE) or os.path.getsize(PLAYLIST_FILE) < 100:
+                print("⚠️ El archivo lista.m3u está vacío o no existe en este entorno. Forzando descarga...")
                 guardar_todo(current_url)
             return
 
@@ -109,6 +130,6 @@ async def main():
                         guardar_todo(final_url)
                         return
                     print("No sirve.")
-
+                    
 if __name__ == '__main__':
     asyncio.run(main())
