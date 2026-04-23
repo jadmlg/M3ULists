@@ -17,7 +17,7 @@ PLAYLIST_FILE = 'lista.m3u'
 
 # --- TUS REQUISITOS ESTRICTOS ---
 REQUISITOS_SERIES = ['fantastico', 'magnificos', 'pantera rosa', 'conde patula']
-REQUISITOS_VOD = ['rocky', 'volver al futuro', 'shrek']
+REQUISITOS_VOD = ['rocky', 'volver al futuro', 'shrek para siempre']
 
 # ¡VARIABLE CORREGIDA!
 REQUISITOS_REGION = ['colombia', 'chile', 'mexic']
