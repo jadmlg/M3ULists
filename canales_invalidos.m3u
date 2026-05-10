@@ -1,13 +1,71 @@
 #EXTM3U
 # FALLOS
-#EXTINF:-1,EWTN
-http://181.78.8.199:8000/play/a0ee/index.m3u8
+#EXTINF:-1,AZ CINEMA - TRASN
+http://181.78.79.63:1010/play/a02k/index.m3u8
+#EXTINF:-1,AZ CLIC - TRANS - BARRANCA
+http://181.78.79.63:1010/play/a02l/index.m3u8
+#EXTINF:-1,AZ CORAZON - TRANS - BARRANCA
+http://181.78.79.63:1010/play/a02j/index.m3u8
+#EXTINF:-1,AZ MUNDO - TRANS - BARRANCA
+http://181.78.79.63:1010/play/a02i/index.m3u8
+#EXTINF:-1,FREE TV ACCION
+http://181.78.79.63:1010/play/a0o0/index.m3u8
+#EXTINF:-1,FREE TV BANDA
+http://181.78.79.63:1010/play/a0o1/index.m3u8
+#EXTINF:-1,FREE TV DRAMA
+http://181.78.79.63:1010/play/a0o2/index.m3u8
+#EXTINF:-1,HBO 2
+http://181.78.79.63:1010/play/a0fw/index.m3u8
+#EXTINF:-1,TV TERROR
+http://181.78.79.63:1010/play/a02o/index.m3u8
+#EXTINF:-1,ANTV
+http://181.78.8.199:8000/play/a0fo/index.m3u8
+#EXTINF:-1,CANAL VENEVICION LOCAL
+http://181.78.8.199:8000/play/a091/index.m3u8
+#EXTINF:-1,CANAL VENEVICION LOCAL VERDADERO
+http://181.78.8.199:8000/play/a0if/index.m3u8
+#EXTINF:-1,COLOMBEIA
+http://181.78.8.199:8000/play/a0fn/index.m3u8
+#EXTINF:-1,CONCIENCIA TV
+http://181.78.8.199:8000/play/a0fq/index.m3u8
+#EXTINF:-1,GLOBOVISION
+http://181.78.8.199:8000/play/a09k/index.m3u8
+#EXTINF:-1,Globovision
+http://181.78.8.199:8000/play/a0co/index.m3u8
+#EXTINF:-1,MERIDIANO
+http://181.78.8.199:8000/play/a0fr/index.m3u8
+#EXTINF:-1,TELESUR
+http://181.78.8.199:8000/play/a0fm/index.m3u8
+#EXTINF:-1,TELEVEN
+http://181.78.8.199:8000/play/a09j/index.m3u8
 #EXTINF:-1,TELEVISA CON ENTRETEIMENT
 http://181.78.8.199:8000/play/a0av/index.m3u8
+#EXTINF:-1,TLT
+http://181.78.8.199:8000/play/a0fs/index.m3u8
+#EXTINF:-1,TV FAMB
+http://181.78.8.199:8000/play/a0fp/index.m3u8
+#EXTINF:-1,TVES
+http://181.78.8.199:8000/play/a0ft/index.m3u8
 #EXTINF:-1,VENUS
 http://181.78.8.199:8000/play/a0a4/index.m3u8
+#EXTINF:-1,Venevision
+http://181.78.8.199:8000/play/a0cp/index.m3u8
+#EXTINF:-1,ZONA TV PLUS
+http://181.78.8.199:8000/play/a0ie/index.m3u8
 #EXTINF:-1,ZOOM
 http://181.78.8.199:8000/play/a0dw/index.m3u8
+#EXTINF:-1,televen
+http://181.78.8.199:8000/play/a0cd/index.m3u8
+#EXTINF:-1,020 - CARTOONITO HD
+http://190.60.40.165:1010/play/vme5/index.m3u8
+#EXTINF:-1,102- EUROCHANNEL
+http://190.60.40.165:1010/play/a0mk/index.m3u8
+#EXTINF:-1,Cartoonito
+http://190.60.40.165:1010/play/a0nm/index.m3u8
+#EXTINF:-1,Eurochannel
+http://190.60.40.165:1010/play/a0kc/index.m3u8
+#EXTINF:-1,HBO 2
+http://190.60.40.165:1010/play/a0ns/index.m3u8
 #EXTINF:-1,Win Sports+
 http://190.60.40.165:1010/play/a0nz/index.m3u8
 #EXTINF:-1,Win Sports+ HD
@@ -18,6 +76,10 @@ http://190.60.40.165:1010/play/a0n6/index.m3u8
 http://181.78.64.21:1010/play/a0jd/index.m3u8
 #EXTINF:-1,Cartoon Network HD
 http://181.78.64.21:1010/play/a0ow/index.m3u8
+#EXTINF:-1,Cartoonito
+http://181.78.64.21:1010/play/a0pj/index.m3u8
+#EXTINF:-1,Eurochannel
+http://181.78.64.21:1010/play/a0nm/index.m3u8
 #EXTINF:-1,Food Network
 http://181.78.64.21:1010/play/a0o7/index.m3u8
 #EXTINF:-1,Home & Health HD
@@ -36,16 +98,18 @@ http://38.211.145.109:8000/play/a02t/index.m3u8
 http://38.211.145.109:8000/play/a030/index.m3u8
 #EXTINF:-1,UNITEL HD
 http://38.211.145.109:8000/play/a03g/index.m3u8
-#EXTINF:-1,027 - BETHEL
-http://181.118.153.15:8000/play/a07a/index.m3u8
 #EXTINF:-1,046 - ANTENA 3
 http://181.118.153.15:8000/play/aa08/index.m3u8
 #EXTINF:-1,050 - CANAL 13
 http://181.118.153.15:8000/play/wp92/index.m3u8
+#EXTINF:-1,056 - GLOBO VISION
+http://181.118.153.15:8000/play/qs16/index.m3u8
 #EXTINF:-1,064 - GAMA VISIOM
 http://181.118.153.15:8000/play/hs52/index.m3u8
 #EXTINF:-1,075 - ENLACE
 http://181.118.153.15:8000/play/kj87/index.m3u8
+#EXTINF:-1,077 - ANIMAL PLANET
+http://181.118.153.15:8000/play/wz66/index.m3u8
 #EXTINF:-1,085 - CRISTOVISION
 http://181.118.153.15:8000/play/ar42/index.m3u8
 #EXTINF:-1,091 - GLOBAL
@@ -60,12 +124,6 @@ http://181.118.153.15:8000/play/co06/index.m3u8
 http://181.118.153.15:8000/play/ou61/index.m3u8
 #EXTINF:-1,098 - TELEVICENTRO
 http://181.118.153.15:8000/play/a07b/index.m3u8
-#EXTINF:-1,099 - BETHEL ONE SECOND
-http://181.118.153.15:8000/play/a07c/index.m3u8
-#EXTINF:-1,BETHEL TV
-http://181.118.153.15:8000/play/a031/index.m3u8
-#EXTINF:-1,Bethel One Second
-http://181.118.153.15:8000/play/a032/index.m3u8
 #EXTINF:-1,Cristovisiðn
 http://181.118.153.15:8000/play/a068/index.m3u8
 #EXTINF:-1,Ecuador TV
@@ -84,22 +142,28 @@ http://181.118.153.15:8000/play/a05x/index.m3u8
 http://181.118.153.15:8000/play/a022/index.m3u8
 #EXTINF:-1,Televicentro
 http://181.118.153.15:8000/play/a07i/index.m3u8
-#EXTINF:-1,HELICONIA
-http://181.118.150.27:8000/play/a028/index.m3u8
-#EXTINF:-1,CANAL 26 (TELEVISION CHICHICASTECA)
-http://45.5.118.152:8000/play/a06n/index.m3u8
+#EXTINF:-1,NTV
+http://181.118.153.151:8000/play/a05e/index.m3u8
+#EXTINF:-1,Teleamazonas
+http://181.118.153.151:8000/play/a06k/index.m3u8
+#EXTINF:-1,CANAL 27 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a029/index.m3u8
 #EXTINF:-1,CANAL 45 (TELEVISION CHICHICASTECA)
 http://45.5.118.152:8000/play/a06k/index.m3u8
+#EXTINF:-1,CANAL 48 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a041/index.m3u8
 #EXTINF:-1,CANAL 5 (TELEVISION CHICHICASTECA)
 http://45.5.118.152:8000/play/a01g/index.m3u8
 #EXTINF:-1,CANAL 56 (TELEVISION CHICHICASTECA)
 http://45.5.118.152:8000/play/a08z/index.m3u8
-#EXTINF:-1,CANAL 65 PRODUCCIONES GARCIA
-http://45.5.118.152:8000/play/a0c3/index.m3u8
+#EXTINF:-1,CANAL 60 RUDDY VISION 12 QUICHE
+http://45.5.118.152:8000/play/a060/index.m3u8
 #EXTINF:-1,CANAL 99 (TELEVISION CHICHICASTECA)
 http://45.5.118.152:8000/play/a0co/index.m3u8
-#EXTINF:-1,CANAL64 CineMax
-http://45.5.118.152:8000/play/a07a/index.m3u8
+#EXTINF:-1,AMC
+http://190.60.52.28:5001/play/a0eo/index.m3u8
+#EXTINF:-1,AMC Series
+http://190.60.52.28:5001/play/a0fi/index.m3u8
 #EXTINF:-1,America TV HD
 http://190.60.52.28:5001/play/a09c/index.m3u8
 #EXTINF:-1,BBC NEWS
@@ -108,8 +172,6 @@ http://190.60.52.28:5001/play/a0h6/index.m3u8
 http://190.60.52.28:5001/play/a08z/index.m3u8
 #EXTINF:-1,Canal 13 HD
 http://190.60.52.28:5001/play/a09i/index.m3u8
-#EXTINF:-1,DISTRITO COMEDIA ACC
-http://190.60.52.28:5001/play/a0gb/index.m3u8
 #EXTINF:-1,DW Espaæol
 http://190.60.52.28:5001/play/a0hd/index.m3u8
 #EXTINF:-1,Discovery H&H HD
@@ -118,8 +180,6 @@ http://190.60.52.28:5001/play/a0h1/index.m3u8
 http://190.60.52.28:5001/play/a09z/index.m3u8
 #EXTINF:-1,Discovery World HD
 http://190.60.52.28:5001/play/a09l/index.m3u8
-#EXTINF:-1,Distrito Comedia
-http://190.60.52.28:5001/play/a0ba/index.m3u8
 #EXTINF:-1,ESPN HD
 http://190.60.52.28:5001/play/a0hk/index.m3u8
 #EXTINF:-1,ET Canal El Tiempo
@@ -134,8 +194,6 @@ http://190.60.52.28:5001/play/a09s/index.m3u8
 http://190.60.52.28:5001/play/a0hg/index.m3u8
 #EXTINF:-1,HBO POP HD
 http://190.60.52.28:5001/play/a09u/index.m3u8
-#EXTINF:-1,HISTORY CHANNEL HD ACC
-http://190.60.52.28:5001/play/a0gr/index.m3u8
 #EXTINF:-1,History 2
 http://190.60.52.28:5001/play/a0h5/index.m3u8
 #EXTINF:-1,Kanal D Drama
