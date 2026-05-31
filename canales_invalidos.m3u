@@ -1,17 +1,19 @@
 #EXTM3U
 # FALLOS
+#EXTINF:-1,CANAL 12 VALLEDUPAR
+http://181.78.8.199:8000/play/a0e4/index.m3u8
 #EXTINF:-1,VENUS
 http://181.78.8.199:8000/play/a0a4/index.m3u8
-#EXTINF:-1,ZOOM
-http://181.78.8.199:8000/play/a0dw/index.m3u8
+#EXTINF:-1,WIN SPORT MAS  LOCAL
+http://181.78.8.199:8000/play/a0hz/index.m3u8
 #EXTINF:-1,079 - TELESUR HD
 http://190.60.40.165:1010/play/ym4t/index.m3u8
 #EXTINF:-1,CableNoticias
 http://190.60.40.165:1010/play/a0nw/index.m3u8
 #EXTINF:-1,Telesur
 http://190.60.40.165:1010/play/a0g8/index.m3u8
-#EXTINF:-1,WIN SPORT +
-http://181.78.64.21:1010/play/a0qg/index.m3u8
+#EXTINF:-1,tvagro
+http://181.78.64.21:1010/play/a0ld/index.m3u8
 #EXTINF:-1,ANIMAL PLANET SRT
 http://38.211.145.109:8000/play/a05g/index.m3u8
 #EXTINF:-1,BANDAMAX SRT
@@ -22,10 +24,14 @@ http://38.211.145.109:8000/play/a05i/index.m3u8
 http://38.211.145.109:8000/play/a02t/index.m3u8
 #EXTINF:-1,PLIMPLIM
 http://38.211.145.109:8000/play/a050/index.m3u8
+#EXTINF:-1,WIN+
+http://38.211.145.109:8000/play/a02p/index.m3u8
+#EXTINF:-1,show ven
+http://38.211.145.109:8000/play/a03d/index.m3u8
+#EXTINF:-1,008 - CARTOON NITO
+http://181.118.153.15:8000/play/ai30/index.m3u8
 #EXTINF:-1,046 - ANTENA 3
 http://181.118.153.15:8000/play/aa08/index.m3u8
-#EXTINF:-1,052 - RUMBA TV
-http://181.118.153.15:8000/play/jh71/index.m3u8
 #EXTINF:-1,085 - CRISTOVISION
 http://181.118.153.15:8000/play/ar42/index.m3u8
 #EXTINF:-1,097 - TV PERU
@@ -34,68 +40,14 @@ http://181.118.153.15:8000/play/ou61/index.m3u8
 http://181.118.153.15:8000/play/a068/index.m3u8
 #EXTINF:-1,TV PERU
 http://181.118.153.15:8000/play/a05x/index.m3u8
-#EXTINF:-1,AE Mundo
-http://181.118.153.151:8000/play/a01a/index.m3u8
-#EXTINF:-1,AXN
-http://181.118.153.151:8000/play/a06s/index.m3u8
-#EXTINF:-1,AXN
-http://181.118.153.151:8000/play/a02m/index.m3u8
-#EXTINF:-1,America TV PY
-http://181.118.153.151:8000/play/a01v/index.m3u8
-#EXTINF:-1,Animal Planet
-http://181.118.153.151:8000/play/a05x/index.m3u8
-#EXTINF:-1,Cinemax
-http://181.118.153.151:8000/play/a02k/index.m3u8
-#EXTINF:-1,Claro Cinema
-http://181.118.153.151:8000/play/a02v/index.m3u8
-#EXTINF:-1,DW Espaæol
-http://181.118.153.151:8000/play/a06v/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://181.118.153.151:8000/play/a02x/index.m3u8
-#EXTINF:-1,E Entertainment
-http://181.118.153.151:8000/play/a013/index.m3u8
-#EXTINF:-1,ESPN
-http://181.118.153.151:8000/play/a02b/index.m3u8
-#EXTINF:-1,ESPN 2
-http://181.118.153.151:8000/play/a015/index.m3u8
-#EXTINF:-1,ESPN 3
-http://181.118.153.151:8000/play/a02y/index.m3u8
-#EXTINF:-1,ESPN 5
-http://181.118.153.151:8000/play/a01r/index.m3u8
-#EXTINF:-1,ESPN 6
-http://181.118.153.151:8000/play/a01g/index.m3u8
-#EXTINF:-1,ESPN 7
-http://181.118.153.151:8000/play/a01f/index.m3u8
-#EXTINF:-1,Esne
-http://181.118.153.151:8000/play/a049/index.m3u8
-#EXTINF:-1,FX
-http://181.118.153.151:8000/play/a02o/index.m3u8
-#EXTINF:-1,HBO
-http://181.118.153.151:8000/play/a05l/index.m3u8
-#EXTINF:-1,HTV
-http://181.118.153.151:8000/play/a06m/index.m3u8
-#EXTINF:-1,History 2
-http://181.118.153.151:8000/play/a06o/index.m3u8
-#EXTINF:-1,Home and Health
-http://181.118.153.151:8000/play/a01m/index.m3u8
-#EXTINF:-1,ID
-http://181.118.153.151:8000/play/a01j/index.m3u8
-#EXTINF:-1,Love Nature
-http://181.118.153.151:8000/play/a06r/index.m3u8
-#EXTINF:-1,NTN24
-http://181.118.153.151:8000/play/a06n/index.m3u8
-#EXTINF:-1,Plim Plim TV
-http://181.118.153.151:8000/play/a06p/index.m3u8
-#EXTINF:-1,Sin Limites
-http://181.118.153.151:8000/play/a01u/index.m3u8
-#EXTINF:-1,Sony
-http://181.118.153.151:8000/play/a06t/index.m3u8
-#EXTINF:-1,Sony
-http://181.118.153.151:8000/play/a02l/index.m3u8
 #EXTINF:-1,Teleamazonas
 http://181.118.153.151:8000/play/a06k/index.m3u8
-#EXTINF:-1,TelefØ
-http://181.118.153.151:8000/play/a06u/index.m3u8
+#EXTINF:-1,CARTOONITO
+http://181.118.150.27:8000/play/a036/index.m3u8
+#EXTINF:-1,CARTOONITO
+http://181.118.150.27:8000/play/a04c/index.m3u8
+#EXTINF:-1,CANAL 27 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a029/index.m3u8
 #EXTINF:-1,CANAL 44 (TELEVISION CHICHICASTECA)
 http://45.5.118.152:8000/play/a01o/index.m3u8
 #EXTINF:-1,CANAL 45 (TELEVISION CHICHICASTECA)
@@ -106,34 +58,38 @@ http://45.5.118.152:8000/play/a041/index.m3u8
 http://45.5.118.152:8000/play/a01g/index.m3u8
 #EXTINF:-1,CANAL 56 (TELEVISION CHICHICASTECA)
 http://45.5.118.152:8000/play/a08z/index.m3u8
-#EXTINF:-1,CANAL 78 TDS Solola
-http://45.5.118.152:8000/play/a09c/index.m3u8
+#EXTINF:-1,CANAL 83 12 TV MAYA
+http://45.5.118.152:8000/play/a0c4/index.m3u8
+#EXTINF:-1,CANAL 88 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0ch/index.m3u8
 #EXTINF:-1,CANAL 99 TELEVISION CHICHICASTECA
 http://45.5.118.152:8000/play/a0cy/index.m3u8
-#EXTINF:-1,canal 10 (TELEVISION CHICHICASTECA)
-http://45.5.118.152:8000/play/a06p/index.m3u8
 #EXTINF:-1,Distrito Comedia
 http://190.61.41.181:8000/play/a0nu/index.m3u8
-#EXTINF:-1,Golden HD
-http://190.61.41.181:8000/play/a0nj/index.m3u8
 #EXTINF:-1,HBO 2 HD
 http://190.61.41.181:8000/play/a0rf/index.m3u8
 #EXTINF:-1,HBO Family HD
 http://190.61.41.181:8000/play/a0l6/index.m3u8
 #EXTINF:-1,HBO Xtreme HD
 http://190.61.41.181:8000/play/a0l7/index.m3u8
-#EXTINF:-1,HBO+ HD
-http://190.61.41.181:8000/play/a0re/index.m3u8
 #EXTINF:-1,TCM
 http://190.61.41.181:8000/play/a0ns/index.m3u8
+#EXTINF:-1,37-CANAL N
+http://8.243.126.131:8000/play/a058/index.m3u8
+#EXTINF:-1,Canal N
+http://8.243.126.131:8000/play/a0of/index.m3u8
 #EXTINF:-1,DOBLE C RADIO
 http://148.222.230.201:8000/play/a0gx/index.m3u8
+#EXTINF:-1,HBO
+http://148.222.230.201:8000/play/a0uh/index.m3u8
 #EXTINF:-1,Doble C Radio
 http://148.222.230.197:8000/play/a0j3/index.m3u8
+#EXTINF:-1,GOLF CHANNEL
+http://148.222.230.197:8000/play/a0pi/index.m3u8
+#EXTINF:-1,HBO
+http://148.222.230.197:8000/play/a0pg/index.m3u8
 #EXTINF:-1,CableNoticias
 http://45.173.12.70:8000/play/a0cn/index.m3u8
-#EXTINF:-1,Caracol SD
-http://45.173.12.70:8000/play/a0dv/index.m3u8
 #EXTINF:-1,ET Canal El Tiempo
 http://45.173.12.70:8000/play/a07g/index.m3u8
 #EXTINF:-1,Fox News
