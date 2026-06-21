@@ -1,7 +1,11 @@
 #EXTM3U
 # FALLOS
-#EXTINF:-1,INSTITUCIONAL TRANS
-http://181.78.8.199:8000/play/a0db/index.m3u8
+#EXTINF:-1,Kanal D Drama HD
+http://181.78.8.199:8000/play/a083/index.m3u8
+#EXTINF:-1,KanalDrama
+http://181.78.8.199:8000/play/a0c6/index.m3u8
+#EXTINF:-1,TELEVISA CON ENTRETEIMENT
+http://181.78.8.199:8000/play/a0av/index.m3u8
 #EXTINF:-1,ESPN HD
 http://181.78.64.21:1010/play/a0qt/index.m3u8
 #EXTINF:-1,ESPN HD
@@ -14,38 +18,32 @@ http://38.211.145.109:8000/play/a05h/index.m3u8
 http://38.211.145.109:8000/play/a05i/index.m3u8
 #EXTINF:-1,ESPN2HD
 http://38.211.145.109:8000/play/a02t/index.m3u8
-#EXTINF:-1,FMH_MEMORIAS_POP
-http://38.211.145.109:8000/play/a04h/index.m3u8
+#EXTINF:-1,TELENOVELAS
+http://38.211.145.109:8000/play/a05u/index.m3u8
 #EXTINF:-1,046 - ANTENA 3
 http://181.118.153.15:8000/play/aa08/index.m3u8
 #EXTINF:-1,047 - EL MUNDO DEL CAMPO
 http://181.118.153.15:8000/play/a07d/index.m3u8
+#EXTINF:-1,075 - ENLACE
+http://181.118.153.15:8000/play/kj87/index.m3u8
 #EXTINF:-1,079 - DISTRITO COMEDIA
 http://181.118.153.15:8000/play/cr60/index.m3u8
+#EXTINF:-1,091 - GLOBAL
+http://181.118.153.15:8000/play/pb55/index.m3u8
 #EXTINF:-1,097 - TV PERU
 http://181.118.153.15:8000/play/ou61/index.m3u8
+#EXTINF:-1,Enlace
+http://181.118.153.15:8000/play/a02v/index.m3u8
+#EXTINF:-1,Global
+http://181.118.153.15:8000/play/a04t/index.m3u8
 #EXTINF:-1,TV PERU
 http://181.118.153.15:8000/play/a05x/index.m3u8
-#EXTINF:-1,CANAL 27 (TELEVISION CHICHICASTECA)
-http://45.5.118.152:8000/play/a029/index.m3u8
-#EXTINF:-1,CANAL 38 (TELEVISION CHICHICASTECA)
-http://45.5.118.152:8000/play/a06r/index.m3u8
-#EXTINF:-1,CANAL 44 (TELEVISION CHICHICASTECA)
-http://45.5.118.152:8000/play/a01o/index.m3u8
-#EXTINF:-1,CANAL 48 (TELEVISION CHICHICASTECA)
-http://45.5.118.152:8000/play/a041/index.m3u8
-#EXTINF:-1,CANAL 5 (TELEVISION CHICHICASTECA)
-http://45.5.118.152:8000/play/a01g/index.m3u8
-#EXTINF:-1,CANAL 55 PANA TV
-http://45.5.118.152:8000/play/a0c2/index.m3u8
-#EXTINF:-1,CANAL 60 RUDDY VISION 12 QUICHE
-http://45.5.118.152:8000/play/a060/index.m3u8
-#EXTINF:-1,CANAL 78 TDS Solola
-http://45.5.118.152:8000/play/a09c/index.m3u8
+#EXTINF:-1,CANAL 117 ROCK TV
+http://45.5.118.152:8000/play/a03h/index.m3u8
+#EXTINF:-1,CANAL 5 SOLOLA
+http://45.5.118.152:8000/play/a09y/index.m3u8
 #EXTINF:-1,CANAL 99 TELEVISION CHICHICASTECA
 http://45.5.118.152:8000/play/a0cy/index.m3u8
-#EXTINF:-1,D-SPORT 2
-http://190.61.41.181:8000/play/a0r4/index.m3u8
 #EXTINF:-1,Distrito Comedia
 http://190.61.41.181:8000/play/a0nu/index.m3u8
 #EXTINF:-1,HBO 2 HD
@@ -56,47 +54,17 @@ http://190.61.41.181:8000/play/a0l6/index.m3u8
 http://190.61.41.181:8000/play/a0l7/index.m3u8
 #EXTINF:-1,TCM
 http://190.61.41.181:8000/play/a0ns/index.m3u8
-#EXTINF:-1,61-FOOD NETWORD
-http://8.243.126.131:8000/play/a05w/index.m3u8
 #EXTINF:-1,Canal N
 http://8.243.126.131:8000/play/a0of/index.m3u8
-#EXTINF:-1,DOBLE C RADIO
-http://148.222.230.201:8000/play/a0gx/index.m3u8
-#EXTINF:-1,HBO
-http://148.222.230.201:8000/play/a0uh/index.m3u8
-#EXTINF:-1,PBO
-http://148.222.230.201:8000/play/a050/index.m3u8
-#EXTINF:-1,NATIVA 16
-http://148.222.230.197:8000/play/a0ls/index.m3u8
-#EXTINF:-1,Star TVE
-http://148.222.230.197:8000/play/a0iu/index.m3u8
-#EXTINF:-1,Doble C Radio
-http://148.222.230.197:8000/play/a0j3/index.m3u8
-#EXTINF:-1,PBO
-http://148.222.230.197:8000/play/a0j5/index.m3u8
-#EXTINF:-1,HBO
-http://148.222.230.197:8000/play/a0pg/index.m3u8
-#EXTINF:-1,Baby First HD
-http://45.173.12.70:8000/play/a0hu/index.m3u8
-#EXTINF:-1,C InstitucionalHD
-http://45.173.12.70:8000/play/a0hy/index.m3u8
-#EXTINF:-1,Canal Uno HD
-http://45.173.12.70:8000/play/a0hx/index.m3u8
-#EXTINF:-1,Caracol HD
-http://45.173.12.70:8000/play/a0hs/index.m3u8
+#EXTINF:-1,Clover
+http://8.243.126.131:8000/play/a0lb/index.m3u8
+#EXTINF:-1,ESPN PRIMUN HD
+http://8.243.126.131:8000/play/a0lu/index.m3u8
+#EXTINF:-1,Win Sports+
+http://8.243.126.131:8000/play/a025/index.m3u8
 #EXTINF:-1,Caracol_New
 http://45.173.12.70:8000/play/a0i1/index.m3u8
-#EXTINF:-1,ECDF HD
-http://45.173.12.70:8000/play/a0i0/index.m3u8
-#EXTINF:-1,Gen HD
-http://45.173.12.70:8000/play/a0hv/index.m3u8
-#EXTINF:-1,RCN HD
-http://45.173.12.70:8000/play/a0ht/index.m3u8
+#EXTINF:-1,RCN SD
+http://45.173.12.70:8000/play/a0ds/index.m3u8
 #EXTINF:-1,Rcn_New
 http://45.173.12.70:8000/play/a0i2/index.m3u8
-#EXTINF:-1,Red Mas HD
-http://45.173.12.70:8000/play/a0hw/index.m3u8
-#EXTINF:-1,Senal Colombia HD
-http://45.173.12.70:8000/play/a0hz/index.m3u8
-#EXTINF:-1,Win +_New
-http://45.173.12.70:8000/play/a0i3/index.m3u8
