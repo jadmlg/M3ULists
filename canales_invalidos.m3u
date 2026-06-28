@@ -1,67 +1,81 @@
 #EXTM3U
 # FALLOS
-#EXTINF:-1,Kanal D Drama HD
-http://181.78.8.199:8000/play/a083/index.m3u8
-#EXTINF:-1,KanalDrama
-http://181.78.8.199:8000/play/a0c6/index.m3u8
-#EXTINF:-1,TELEVISA CON ENTRETEIMENT
-http://181.78.8.199:8000/play/a0av/index.m3u8
+#EXTINF:-1,RCN DIRECTO PARA SENCORE
+http://181.78.8.199:8000/play/a0hx/index.m3u8
+#EXTINF:-1,TLC
+http://181.78.8.199:8000/play/a0a3/index.m3u8
+#EXTINF:-1,TLC
+http://181.78.8.199:8000/play/a0ch/index.m3u8
+#EXTINF:-1,TURBO
+http://181.78.8.199:8000/play/a0a5/index.m3u8
 #EXTINF:-1,ESPN HD
 http://181.78.64.21:1010/play/a0qt/index.m3u8
 #EXTINF:-1,ESPN HD
 http://181.78.64.21:1010/play/a0qs/index.m3u8
-#EXTINF:-1,ANIMAL PLANET SRT
-http://38.211.145.109:8000/play/a05g/index.m3u8
-#EXTINF:-1,BANDAMAX SRT
-http://38.211.145.109:8000/play/a05h/index.m3u8
-#EXTINF:-1,BITMEN SRT
-http://38.211.145.109:8000/play/a05i/index.m3u8
-#EXTINF:-1,ESPN2HD
-http://38.211.145.109:8000/play/a02t/index.m3u8
-#EXTINF:-1,TELENOVELAS
-http://38.211.145.109:8000/play/a05u/index.m3u8
+#EXTINF:-1,BETHEL
+http://38.211.145.109:8000/play/a03h/index.m3u8
 #EXTINF:-1,046 - ANTENA 3
 http://181.118.153.15:8000/play/aa08/index.m3u8
 #EXTINF:-1,047 - EL MUNDO DEL CAMPO
 http://181.118.153.15:8000/play/a07d/index.m3u8
+#EXTINF:-1,050 - CANAL 13
+http://181.118.153.15:8000/play/wp92/index.m3u8
+#EXTINF:-1,064 - GAMA VISIOM
+http://181.118.153.15:8000/play/hs52/index.m3u8
 #EXTINF:-1,075 - ENLACE
 http://181.118.153.15:8000/play/kj87/index.m3u8
 #EXTINF:-1,079 - DISTRITO COMEDIA
 http://181.118.153.15:8000/play/cr60/index.m3u8
 #EXTINF:-1,091 - GLOBAL
 http://181.118.153.15:8000/play/pb55/index.m3u8
+#EXTINF:-1,094 - RTS
+http://181.118.153.15:8000/play/gy38/index.m3u8
 #EXTINF:-1,097 - TV PERU
 http://181.118.153.15:8000/play/ou61/index.m3u8
+#EXTINF:-1,098 - TELEVICENTRO
+http://181.118.153.15:8000/play/a07b/index.m3u8
 #EXTINF:-1,Enlace
 http://181.118.153.15:8000/play/a02v/index.m3u8
+#EXTINF:-1,Gamavisiðn
+http://181.118.153.15:8000/play/a024/index.m3u8
 #EXTINF:-1,Global
 http://181.118.153.15:8000/play/a04t/index.m3u8
+#EXTINF:-1,RTS
+http://181.118.153.15:8000/play/a027/index.m3u8
 #EXTINF:-1,TV PERU
 http://181.118.153.15:8000/play/a05x/index.m3u8
-#EXTINF:-1,CANAL 117 ROCK TV
-http://45.5.118.152:8000/play/a03h/index.m3u8
+#EXTINF:-1,Televicentro
+http://181.118.153.15:8000/play/a07i/index.m3u8
+#EXTINF:-1,CANAL 5 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a01g/index.m3u8
 #EXTINF:-1,CANAL 5 SOLOLA
 http://45.5.118.152:8000/play/a09y/index.m3u8
+#EXTINF:-1,CANAL 6 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06s/index.m3u8
+#EXTINF:-1,CANAL 60 RUDDY VISION 12 QUICHE
+http://45.5.118.152:8000/play/a060/index.m3u8
 #EXTINF:-1,CANAL 99 TELEVISION CHICHICASTECA
 http://45.5.118.152:8000/play/a0cy/index.m3u8
-#EXTINF:-1,Distrito Comedia
-http://190.61.41.181:8000/play/a0nu/index.m3u8
-#EXTINF:-1,HBO 2 HD
-http://190.61.41.181:8000/play/a0rf/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://190.61.41.181:8000/play/a0l6/index.m3u8
+#EXTINF:-1,prueba de Canal Oscatr
+http://45.5.118.152:8000/play/a01b/index.m3u8
 #EXTINF:-1,HBO Xtreme HD
 http://190.61.41.181:8000/play/a0l7/index.m3u8
 #EXTINF:-1,TCM
 http://190.61.41.181:8000/play/a0ns/index.m3u8
+#EXTINF:-1,57-GOLDEN HD
+http://8.243.126.131:8000/play/a05s/index.m3u8
+#EXTINF:-1,59-HISTORY 2
+http://8.243.126.131:8000/play/a05u/index.m3u8
+#EXTINF:-1,81-ESPN 5 HD
+http://8.243.126.131:8000/play/a0jz/index.m3u8
 #EXTINF:-1,Canal N
 http://8.243.126.131:8000/play/a0of/index.m3u8
 #EXTINF:-1,Clover
 http://8.243.126.131:8000/play/a0lb/index.m3u8
-#EXTINF:-1,ESPN PRIMUN HD
-http://8.243.126.131:8000/play/a0lu/index.m3u8
-#EXTINF:-1,Win Sports+
-http://8.243.126.131:8000/play/a025/index.m3u8
+#EXTINF:-1,Film & Arts
+http://148.222.230.197:8000/play/a0mo/index.m3u8
+#EXTINF:-1,DE PELICULA
+http://148.222.230.197:8000/play/a0on/index.m3u8
 #EXTINF:-1,Caracol_New
 http://45.173.12.70:8000/play/a0i1/index.m3u8
 #EXTINF:-1,RCN SD
