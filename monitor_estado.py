@@ -3,7 +3,7 @@ import aiohttp
 import os
 import random
 
-ARCHIVO_LISTA = "27_7.m3u"
+ARCHIVO_LISTA = "24_7.m3u"
 UMBRAL_SUPERVIVENCIA = 0.60
 MUESTRA_CANALES = 20
 
