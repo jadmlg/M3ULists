@@ -9,8 +9,9 @@ ARCHIVO_ENTRADA = "24_7.m3u"
 ARCHIVO_SALIDA = "24_7.m3u" # Sobrescribimos sobre el mismo archivo
 
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) VLC/3.0.18',
-    'Range': 'bytes=0-1024'  
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+    'Range': 'bytes=0-1048576',
+    'Connection': 'keep-alive'
 }
 
 canales_procesados = 0
@@ -98,15 +99,16 @@ async def ejecutar_depuracion_total():
     async with aiohttp.ClientSession() as session:
         tareas = [validar_trabajador(session, url, metadata, sem, total_objetivo) for url, metadata in candidatos_totales.items()]
         await asyncio.gather(*tareas)
-        
     try:
         with open(ARCHIVO_SALIDA, 'w', encoding='utf-8') as f:
             f.write("#EXTM3U\n")
             for metadata, url in canales_vivos:
-                f.write(f"{metadata.strip()}\n{url}\n")
+                # Quitamos el posible salto de línea, agregamos buffer y reescribimos
+                base_meta = metadata.strip().replace('tvg-shift="0"', '').replace('cache="1000"', '').replace('buffer-size="5000"', '')
+                meta_estabilidad = base_meta + ' cache="1000" buffer-size="5000"'
+                f.write(f"{meta_estabilidad}\n{url}\n")
                 
-        print(f"\n🏆 Depuración terminada. Archivo '{ARCHIVO_SALIDA}' reescrito con {len(canales_vivos)} canales estables.")
-                
+        print(f"\n🏆 Depuración terminada. Archivo '{ARCHIVO_SALIDA}' reescrito con {len(canales_vivos)} canales estables.")                    
     except Exception as e:
         print(f"❌ Error al escribir el archivo: {e}")
 
