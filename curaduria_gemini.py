@@ -17,7 +17,7 @@ modelo = genai.GenerativeModel(
 )
 
 ARCHIVO_ENTRADA = "24_7.m3u"
-ARCHIVO_SALIDA = "Latino_Premium_Curado.m3u"
+ARCHIVO_SALIDA = "24_7.m3u"
 
 # --- FUNCIONES DE LIMPIEZA PREVIA ---
 def normalizar_nombre(nombre):
