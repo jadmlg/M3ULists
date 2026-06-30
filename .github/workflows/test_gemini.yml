@@ -1,15 +1,58 @@
-name: Prueba Curaduria IA
-on: [workflow_dispatch]
+name: Actualización Inteligente IPTV
+
+on:
+  schedule:
+    # Se ejecuta todos los domingos a las 3:00 AM (Hora Colombia / UTC-5)
+    - cron: '0 8 * * 0' 
+  workflow_dispatch: # Permite ejecución manual desde la pestaña Actions
+
 jobs:
-  test:
+  evaluacion_y_actualizacion:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write 
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with: {python-version: '3.10'}
-      - run: pip install google-generativeai
-      - env:
+      - name: Descargar Repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar Dependencias
+        run: pip install telethon aiohttp pandas google-generativeai
+
+      - name: Ejecutar Monitor de Estado
+        id: watchdog
+        env:
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+        run: |
+          RESULTADO=$(python monitor_estado.py)
+          echo "$RESULTADO" >> $GITHUB_OUTPUT
+
+      - name: Fase 1 (Extracción Telegram)
+        if: steps.watchdog.outputs.update_required == 'true' || github.event_name == 'workflow_dispatch'
+        env:
+          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+          TELEGRAM_SESSION: ${{ secrets.TELEGRAM_SESSION }}
+        run: python extraccion_telegram.py
+
+      - name: Fase 2 (Validación de Señal)
+        if: steps.watchdog.outputs.update_required == 'true' || github.event_name == 'workflow_dispatch'
+        run: python validacion_canales.py
+
+      - name: Fase 3 (Curaduría con Gemini)
+        if: steps.watchdog.outputs.update_required == 'true' || github.event_name == 'workflow_dispatch'
+        env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python curaduria_gemini.py
-      - name: Mostrar resultado
-        run: cat Latino_Premium_Curado.m3u
+
+      - name: Guardar Cambios en GitHub
+        if: steps.watchdog.outputs.update_required == 'true' || github.event_name == 'workflow_dispatch'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Actualización automática M3U: Canales renovados"
+          file_pattern: "*.m3u"
