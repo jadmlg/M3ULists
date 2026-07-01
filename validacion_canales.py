@@ -103,9 +103,16 @@ async def ejecutar_depuracion_total():
         with open(ARCHIVO_SALIDA, 'w', encoding='utf-8') as f:
             f.write("#EXTM3U\n")
             for metadata, url in canales_vivos:
-                # Quitamos el posible salto de línea, agregamos buffer y reescribimos
+                # Limpiamos parámetros viejos si existieran
                 base_meta = metadata.strip().replace('tvg-shift="0"', '').replace('cache="1000"', '').replace('buffer-size="5000"', '')
-                meta_estabilidad = base_meta + ' cache="1000" buffer-size="5000"'
+                
+                # CORRECCIÓN: Inyectamos los parámetros de estabilidad estrictamente antes de la coma
+                if ',' in base_meta:
+                    meta_tags, nombre_canal = base_meta.split(',', 1)
+                    meta_estabilidad = f'{meta_tags} cache="1000" buffer-size="5000",{nombre_canal}'
+                else:
+                    meta_estabilidad = f'{base_meta} cache="1000" buffer-size="5000"'
+                    
                 f.write(f"{meta_estabilidad}\n{url}\n")
                 
         print(f"\n🏆 Depuración terminada. Archivo '{ARCHIVO_SALIDA}' reescrito con {len(canales_vivos)} canales estables.")                    
