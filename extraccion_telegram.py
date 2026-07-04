@@ -22,7 +22,7 @@ API_ID = int(os.getenv('TELEGRAM_API_ID', '0'))
 API_HASH = os.getenv('TELEGRAM_API_HASH', '')
 SESSION_STR = os.getenv('TELEGRAM_SESSION', '')
 
-CANALES = [-1003247113086, -1003819596996, 'ListIptvWorld', 'iptvplayerlist', 'iptv270']
+CANALES = [-1003247113086, -1003819596996, 'zigasat','zigaschat','ListIptvWorld', 'iptvplayerlist', 'iptv270']
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
     'Accept': 'application/json'
