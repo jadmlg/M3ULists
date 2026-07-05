@@ -1,19 +1,19 @@
 #EXTM3U
 # FALLOS
-#EXTINF:-1,RCN DIRECTO PARA SENCORE
-http://181.78.8.199:8000/play/a0hx/index.m3u8
-#EXTINF:-1,TLC
-http://181.78.8.199:8000/play/a0a3/index.m3u8
-#EXTINF:-1,TLC
-http://181.78.8.199:8000/play/a0ch/index.m3u8
-#EXTINF:-1,TURBO
-http://181.78.8.199:8000/play/a0a5/index.m3u8
+#EXTINF:-1,ENLACE
+http://181.78.8.199:8000/play/a0dq/index.m3u8
+#EXTINF:-1,TELEVISA CON ENTRETEIMENT
+http://181.78.8.199:8000/play/a0av/index.m3u8
 #EXTINF:-1,ESPN HD
 http://181.78.64.21:1010/play/a0qt/index.m3u8
 #EXTINF:-1,ESPN HD
 http://181.78.64.21:1010/play/a0qs/index.m3u8
 #EXTINF:-1,BETHEL
 http://38.211.145.109:8000/play/a03h/index.m3u8
+#EXTINF:-1,BITMEN SRT
+http://38.211.145.109:8000/play/a05i/index.m3u8
+#EXTINF:-1,DISCOVERYTEATHER
+http://38.211.145.109:8000/play/a03i/index.m3u8
 #EXTINF:-1,046 - ANTENA 3
 http://181.118.153.15:8000/play/aa08/index.m3u8
 #EXTINF:-1,047 - EL MUNDO DEL CAMPO
@@ -46,16 +46,16 @@ http://181.118.153.15:8000/play/a027/index.m3u8
 http://181.118.153.15:8000/play/a05x/index.m3u8
 #EXTINF:-1,Televicentro
 http://181.118.153.15:8000/play/a07i/index.m3u8
+#EXTINF:-1,CANAL 21 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a07c/index.m3u8
+#EXTINF:-1,CANAL 45 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06k/index.m3u8
 #EXTINF:-1,CANAL 5 (TELEVISION CHICHICASTECA)
 http://45.5.118.152:8000/play/a01g/index.m3u8
-#EXTINF:-1,CANAL 5 SOLOLA
-http://45.5.118.152:8000/play/a09y/index.m3u8
-#EXTINF:-1,CANAL 6 (TELEVISION CHICHICASTECA)
-http://45.5.118.152:8000/play/a06s/index.m3u8
 #EXTINF:-1,CANAL 60 RUDDY VISION 12 QUICHE
 http://45.5.118.152:8000/play/a060/index.m3u8
-#EXTINF:-1,CANAL 99 TELEVISION CHICHICASTECA
-http://45.5.118.152:8000/play/a0cy/index.m3u8
+#EXTINF:-1,CANAL 92 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0cj/index.m3u8
 #EXTINF:-1,prueba de Canal Oscatr
 http://45.5.118.152:8000/play/a01b/index.m3u8
 #EXTINF:-1,HBO Xtreme HD
@@ -66,19 +66,13 @@ http://190.61.41.181:8000/play/a0ns/index.m3u8
 http://8.243.126.131:8000/play/a05s/index.m3u8
 #EXTINF:-1,59-HISTORY 2
 http://8.243.126.131:8000/play/a05u/index.m3u8
-#EXTINF:-1,81-ESPN 5 HD
-http://8.243.126.131:8000/play/a0jz/index.m3u8
 #EXTINF:-1,Canal N
 http://8.243.126.131:8000/play/a0of/index.m3u8
 #EXTINF:-1,Clover
 http://8.243.126.131:8000/play/a0lb/index.m3u8
-#EXTINF:-1,Film & Arts
-http://148.222.230.197:8000/play/a0mo/index.m3u8
-#EXTINF:-1,DE PELICULA
-http://148.222.230.197:8000/play/a0on/index.m3u8
+#EXTINF:-1,KANALD  DRAMA
+http://8.243.126.131:8000/play/a0m3/index.m3u8
 #EXTINF:-1,Caracol_New
 http://45.173.12.70:8000/play/a0i1/index.m3u8
-#EXTINF:-1,RCN SD
-http://45.173.12.70:8000/play/a0ds/index.m3u8
 #EXTINF:-1,Rcn_New
 http://45.173.12.70:8000/play/a0i2/index.m3u8
