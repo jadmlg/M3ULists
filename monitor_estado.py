@@ -5,7 +5,7 @@ import random
 import smtplib
 from email.mime.text import MIMEText
 
-ARCHIVO_LISTA = "24/7.m3u"
+ARCHIVO_LISTA = "24_7.m3u"
 UMBRAL_SUPERVIVENCIA = 0.60
 MUESTRA_CANALES = 20
 
