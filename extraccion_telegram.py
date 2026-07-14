@@ -30,7 +30,7 @@ HEADERS = {
 }
 
 REQUISITOS_REGION = ['colombia', 'chile', 'mexic']
-BASURA_EUROPEA = ['de ✨', 'tr ✨', 'alb ✨', 'uk/us ✨', 'ex-yu ✨']
+BASURA_EUROPEA = ['de ✨', 'tr ✨', 'alb ✨', 'uk/us ✨', 'ex-yu ✨','IT']
 
 mis_busquedas = ['magnificos', 'pantera rosa', 'conde patula', 'volver al futuro', 'shrek para siempre']
 regex_clasicos = r'(' + '|'.join(mis_busquedas) + r')'
@@ -95,7 +95,7 @@ async def auditar_un_servidor(session, row, sem):
 
     async with sem:
         try:
-            timeout = aiohttp.ClientTimeout(total=8)
+            timeout = aiohttp.ClientTimeout(total=6)
             async with session.get(url_live, headers=HEADERS, timeout=timeout) as res_live, \
                        session.get(url_series, headers=HEADERS, timeout=timeout) as res_series:
 
