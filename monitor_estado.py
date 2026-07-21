@@ -7,7 +7,7 @@ from email.mime.text import MIMEText
 
 ARCHIVO_LISTA = "24_7.m3u"
 UMBRAL_SUPERVIVENCIA = 0.60
-MUESTRA_CANALES = 20
+MUESTRA_CANALES = 100
 
 def enviar_alerta(asunto, cuerpo):
     user = os.environ.get('EMAIL_USER')
