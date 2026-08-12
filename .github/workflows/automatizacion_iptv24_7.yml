@@ -21,7 +21,7 @@ jobs:
           python-version: '3.11'
 
       - name: Instalar Dependencias
-        run: pip install telethon aiohttp pandas google-generativeai
+        run: pip install telethon aiohttp pandas google-generativeai tqdm nest_asyncio
 
       - name: Ejecutar Monitor de Estado
         id: watchdog
