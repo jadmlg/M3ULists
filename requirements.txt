@@ -3,3 +3,5 @@ thefuzz
 python-Levenshtein
 unidecode
 telethon
+tqdm
+nest_asyncio
