@@ -2,12 +2,13 @@ import os
 import re
 import asyncio
 import unicodedata
-import pandas as pd
 import aiohttp
 import logging
 from telethon import TelegramClient
 from telethon.sessions import StringSession
 from telethon.errors import FloodWaitError
+from tqdm.asyncio import tqdm
+from tqdm import tqdm as tqdm_sync
 
 # --- CONFIGURACIÓN DE LOGS ---
 logging.basicConfig(
@@ -29,8 +30,16 @@ HEADERS = {
     'Accept': 'application/json'
 }
 
+# --- NUEVOS FILTROS ESTRICTOS DE IDIOMA ---
 REQUISITOS_REGION = ['colombia', 'chile', 'mexic']
 BASURA_EUROPEA = ['de ✨', 'tr ✨', 'alb ✨', 'uk/us ✨', 'ex-yu ✨','IT']
+
+# 1. Blacklist Expandida (Lo que bloqueamos)
+BLACKLIST_GLOBAL = r'\b(br|pt|brasil|portugues|legendado|dublado|en|uk|us|usa|english|france|germany|italy|ar|arab|ru|ro|de|tr|fr|nl|pl|in|pk|can|aus|nz|za|ph|movies|kids|news|sports|action|comedy|horror|thriller|entertainment|vip uk|vip us)\b'
+BLACKLIST_PREFIJOS = r'^(?:\[|\()? *(en|uk|us|fr|de|it|ar|pt|br|ru|ro|nl|pl|tr|in|pk) *(?:\]|\))? *[:\|\- ]'
+
+# 2. Whitelist Hispana (Lo que EXIGIMOS para aceptar un canal 24/7)
+WHITELIST_HISPANA = r'\b(latino|lat|es|espanol|español|castellano|mx|co|cl|ar|pe|ec|ve|bo|uy|py|pr|do|cu|mexico|colombia|chile|argentina|peru|ecuador|venezuela|bolivia|uruguay|paraguay|cuba|puerto rico|infantil|infantiles|peliculas|pelis|series|deportes|documentales|comedia|accion|terror|animacion|novelas|telenovelas|noticias|musica|vivo|retro|clasicos)\b'
 
 mis_busquedas = ['magnificos', 'pantera rosa', 'conde patula', 'volver al futuro', 'shrek para siempre']
 regex_clasicos = r'(' + '|'.join(mis_busquedas) + r')'
@@ -88,14 +97,13 @@ def leer_historial_m3u():
 
 # --- OPTIMIZACIÓN ASÍNCRONA PARA AUDITORÍA Y EXTRACCIÓN ---
 async def auditar_un_servidor(session, row, sem):
-    """Audita un único servidor de forma asíncrona para validar región y contenido."""
     host, user, pwd = row['Host'], row['Usuario'], row['Password']
     url_live = f"{host}/player_api.php?username={user}&password={pwd}&action=get_live_categories"
     url_series = f"{host}/player_api.php?username={user}&password={pwd}&action=get_series_categories"
 
     async with sem:
         try:
-            timeout = aiohttp.ClientTimeout(total=6)
+            timeout = aiohttp.ClientTimeout(total=15, sock_connect=5, sock_read=10)
             async with session.get(url_live, headers=HEADERS, timeout=timeout) as res_live, \
                        session.get(url_series, headers=HEADERS, timeout=timeout) as res_series:
 
@@ -106,12 +114,13 @@ async def auditar_un_servidor(session, row, sem):
                     cat_texto = quitar_tildes(str(json_live).lower() + str(json_series).lower())
                     if any(req in cat_texto for req in REQUISITOS_REGION) and not any(b in cat_texto for b in BASURA_EUROPEA):
                         return row
-        except Exception as e:
-            logger.debug(f"Servidor descartado en auditoría ({host}): {type(e).__name__}")
+        except (aiohttp.ClientError, asyncio.TimeoutError):
+            pass
+        except Exception:
+            pass
         return None
 
 async def procesar_catalogo_vip(session, vip, candidatos_totales, sem):
-    """Extrae y filtra los canales de un servidor VIP de manera 100% asíncrona."""
     host, user, pwd = vip['Host'], vip['Usuario'], vip['Password']
     url_cats = f"{host}/player_api.php?username={user}&password={pwd}&action=get_live_categories"
     url_streams = f"{host}/player_api.php?username={user}&password={pwd}&action=get_live_streams"
@@ -119,12 +128,12 @@ async def procesar_catalogo_vip(session, vip, candidatos_totales, sem):
     async with sem:
         dic_cats = {}
         try:
-            timeout = aiohttp.ClientTimeout(total=12)
+            timeout = aiohttp.ClientTimeout(total=20, sock_connect=5, sock_read=15)
             # 1. Obtener categorías
             async with session.get(url_cats, headers=HEADERS, timeout=timeout) as r_cats:
                 if r_cats.status == 200:
                     json_cats = await r_cats.json()
-                    dic_cats = {str(c['category_id']): str(c['category_name']).lower() for c in json_cats}
+                    dic_cats = {str(c['category_id']): str(c['category_name']) for c in json_cats} # Guardamos nombre original con mayúsculas
 
             # 2. Obtener streams y procesar
             async with session.get(url_streams, headers=HEADERS, timeout=timeout) as r_live:
@@ -132,51 +141,79 @@ async def procesar_catalogo_vip(session, vip, candidatos_totales, sem):
                     json_live = await r_live.json()
                     for canal in json_live:
                         nombre = str(canal.get('name', '')).lower()
-                        categoria = dic_cats.get(str(canal.get('category_id', '')), "")
-                        contexto_total = f"{categoria} {nombre}"
+                        categoria_original = dic_cats.get(str(canal.get('category_id', '')), "")
+                        contexto_total = f"{categoria_original.lower()} {nombre}"
 
-                        if re.search(r'\b(br|pt|brasil|portugues|legendado|dublado|en|uk|us|usa|english|france|germany|italy)\b', contexto_total):
+                        # === 1. FILTRO BASURA (Blacklist) ===
+                        if re.search(BLACKLIST_GLOBAL, contexto_total) or re.search(BLACKLIST_PREFIJOS, nombre):
                             continue
 
+                        # === 2. IDENTIFICACIÓN ===
                         tiene_24_7 = re.search(r'(?:^|\b|:)24/7(?:\b|$)', nombre)
                         es_falso = re.search(r'not\s*24/7', nombre, re.IGNORECASE)
                         es_clasico = re.search(regex_clasicos, nombre)
                         es_win = re.search(r'win sports\s*(?:\+|plus|mas)', nombre)
                         es_directv = re.search(r'directv sports|dsports', nombre)
 
-                        if (tiene_24_7 and not es_falso) or es_clasico or es_win or es_directv:
+                        # === 3. VALIDACIÓN ESTRICTA DE HISPANIDAD ===
+                        es_hispano = re.search(WHITELIST_HISPANA, contexto_total)
+
+                        guardar_canal = False
+                        
+                        if es_clasico or es_win or es_directv:
+                            guardar_canal = True  # Son búsquedas directas tuyas, pasan directo
+                        elif tiene_24_7 and not es_falso:
+                            # Si es un canal 24/7 genérico, SOLO pasa si hay evidencia de que es en español
+                            if es_hispano:
+                                guardar_canal = True
+
+                        # === 4. GUARDADO Y ORDENAMIENTO ===
+                        if guardar_canal:
                             s_id = canal.get('stream_id')
                             url_stream = f"{host}/live/{user}/{pwd}/{s_id}.ts"
 
-                            grupo = "Deportes Premium" if (es_win or es_directv) else ("Clásicos en Vivo" if es_clasico and not tiene_24_7 else "24/7 Latino")
+                            # Mejoramiento de Categorías para el M3U
+                            if es_win or es_directv:
+                                grupo = "Deportes Premium"
+                            elif es_clasico and not tiene_24_7:
+                                grupo = "Clásicos en Vivo"
+                            else:
+                                # Toma el nombre de la categoría del servidor original (Ej: "24/7 Películas Acción")
+                                grupo = categoria_original.strip() if categoria_original else "24/7 Latino"
+
                             n_real = canal.get('name', 'Desconocido')
                             logo = canal.get('stream_icon', '')
 
-                            metadata = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{grupo}",{n_real} (Nuevos VIP)\n'
+                            metadata = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{grupo}",{n_real}\n'
                             candidatos_totales[url_stream] = metadata
+        except (aiohttp.ClientError, asyncio.TimeoutError):
+            pass 
         except Exception as e:
-            logger.error(f"⚠️ Error procesando catálogo de {host}: {e}")
+            pass
 
 # --- MOTOR DE VALIDACIÓN ASÍNCRONO ---
 async def verificar_canal(session, url, metadata, sem):
     async with sem:
         try:
-            timeout = aiohttp.ClientTimeout(total=10)
+            timeout = aiohttp.ClientTimeout(total=8, sock_connect=3, sock_read=5)
             async with session.get(url, headers=HEADERS, timeout=timeout) as response:
                 if response.status in [200, 206, 302]:
                     content_type = response.headers.get('Content-Type', '').lower()
                     if 'text/html' not in content_type:
                         return (metadata, url)
+        except (aiohttp.ClientError, asyncio.TimeoutError):
+            pass
         except Exception:
             pass
         return None
 
 async def validador_masivo(session, diccionario_canales):
     logger.info(f"⚡ Iniciando validación de señal de {len(diccionario_canales)} canales (Modo Seguro)...")
-    sem = asyncio.Semaphore(15)  # Protección anti-DDoS del servidor
+    sem = asyncio.Semaphore(15)  
 
     tareas = [verificar_canal(session, url, metadata, sem) for url, metadata in diccionario_canales.items()]
-    resultados = await asyncio.gather(*tareas)
+    
+    resultados = await tqdm.gather(*tareas, desc="Validando Señales", colour='green')
 
     canales_vivos = [res for res in resultados if res is not None]
     logger.info(f"✅ Validación completada. Se salvaron {len(canales_vivos)} canales funcionales.")
@@ -190,11 +227,12 @@ async def main_colab():
     encontrados = []
     vistos = set()
 
-    # 1. Extracción defensiva de Telegram
     async with TelegramClient(StringSession(SESSION_STR), API_ID, API_HASH) as client:
-        for canal in CANALES:
+        pbar_telegram = tqdm_sync(CANALES, desc="Escaneando Telegram", colour='blue')
+        
+        for canal in pbar_telegram:
+            pbar_telegram.set_postfix_str(f"Canal actual: {canal}")
             try:
-                logger.info(f"📡 Escaneando canal: {canal}...")
                 async for msg in client.iter_messages(canal, limit=500):
                     texto_completo = msg.text or ""
 
@@ -203,7 +241,7 @@ async def main_colab():
                             archivo_bytes = await client.download_media(msg, file=bytes)
                             texto_completo += "\n" + archivo_bytes.decode('utf-8', errors='ignore')
                         except Exception as e:
-                            logger.debug(f"No se pudo descargar archivo adjunto de Telegram: {e}")
+                            pass
 
                     if not texto_completo.strip(): continue
 
@@ -214,47 +252,43 @@ async def main_colab():
                             vistos.add(huella)
                             encontrados.append({'Host': h_clean, 'Usuario': u, 'Password': p})
 
-                # Pausa defensiva entre canales para mitigar FloodWait de Telegram
                 await asyncio.sleep(2.5)
 
             except FloodWaitError as fwe:
                 logger.warning(f"🛑 Telegram exige espera de {fwe.seconds} segundos. Pausando...")
                 await asyncio.sleep(fwe.seconds)
             except Exception as e:
-                logger.error(f"⚠️ Error accediendo al canal {canal}: {e}")
+                pass
 
-    if not encontrados:
-        logger.info("⚠️ No se extrajeron nuevas credenciales de Telegram en este ciclo.")
-        df_servidores = pd.DataFrame(columns=['Host', 'Usuario', 'Password'])
-    else:
-        df_servidores = pd.DataFrame(encontrados).drop_duplicates(subset=['Host'])
+    lista_servidores = []
+    if encontrados:
+        servidores_unicos = {}
+        for cred in encontrados:
+            host = cred['Host']
+            if host not in servidores_unicos:
+                servidores_unicos[host] = cred
+        lista_servidores = list(servidores_unicos.values())
 
-    # Sesión única y global de aiohttp para maximizar la reutilización de conexiones (Keep-Alive)
     async with aiohttp.ClientSession() as session:
+        if lista_servidores:
+            logger.info(f"🔍 Auditando {len(lista_servidores)} servidores únicos...")
+            sem_auditoria = asyncio.Semaphore(10)
 
-        # 2. Auditoría Asíncrona de Servidores Nuevos
-        if not df_servidores.empty:
-            logger.info(f"🔍 Auditando {len(df_servidores)} servidores únicos en paralelo...")
-            sem_auditoria = asyncio.Semaphore(10) # Control de concurrencia para auditoría
-
-            tareas_auditoria = [auditar_un_servidor(session, row, sem_auditoria) for _, row in df_servidores.iterrows()]
-            resultados_auditoria = await asyncio.gather(*tareas_auditoria)
+            tareas_auditoria = [auditar_un_servidor(session, row, sem_auditoria) for row in lista_servidores]
+            resultados_auditoria = await tqdm.gather(*tareas_auditoria, desc="Auditando Servidores", colour='yellow')
             servidores_vip = [res for res in resultados_auditoria if res is not None]
         else:
             servidores_vip = []
 
-        logger.info(f"💎 Se encontraron {len(servidores_vip)} servidores VIP nuevos. Extrayendo catálogos...")
+        logger.info(f"💎 Se encontraron {len(servidores_vip)} servidores VIP nuevos.")
 
-        # 3. Extracción Asíncrona de Listas de Canales
         if servidores_vip:
-            sem_catalogos = asyncio.Semaphore(5) # Max 5 descargas pesadas de catálogos concurrentes
+            sem_catalogos = asyncio.Semaphore(5) 
             tareas_catalogos = [procesar_catalogo_vip(session, vip, candidatos_totales, sem_catalogos) for vip in servidores_vip]
-            await asyncio.gather(*tareas_catalogos)
+            await tqdm.gather(*tareas_catalogos, desc="Extrayendo Catálogos", colour='magenta')
 
-        # 4. Prueba de Fuego: Validación masiva asíncrona de la lista acumulada
         canales_funcionales = await validador_masivo(session, candidatos_totales)
 
-    # 5. Ensamblaje y Guardado Final
     try:
         with open(ARCHIVO_M3U, 'w', encoding='utf-8') as f:
             f.write("#EXTM3U\n")
@@ -265,6 +299,7 @@ async def main_colab():
     except Exception as e:
         logger.error(f"❌ Error al escribir el archivo M3U de salida: {e}")
 
-# --- EJECUCIÓN ---
 if __name__ == "__main__":
+    import nest_asyncio
+    nest_asyncio.apply()
     asyncio.run(main_colab())
