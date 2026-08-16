@@ -1,38 +1,50 @@
 #EXTM3U
 # FALLOS
-#EXTINF:-1,EWTN
-http://181.78.8.199:8000/play/a0ee/index.m3u8
+#EXTINF:-1,DIRECTV
+http://181.78.8.199:8000/play/a0io/index.m3u8
 #EXTINF:-1,RCN DIRECTO PARA SENCORE
 http://181.78.8.199:8000/play/a0hx/index.m3u8
 #EXTINF:-1,TVN
 http://181.78.8.199:8000/play/a0ik/index.m3u8
+#EXTINF:-1,AMC HD
+http://181.78.82.130:8000/play/a0pv/index.m3u8
+#EXTINF:-1,D-SPORT 2
+http://181.78.82.130:8000/play/a0r4/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://181.78.82.130:8000/play/a0m4/index.m3u8
 #EXTINF:-1,HBO Xtreme HD
 http://181.78.82.130:8000/play/a0l7/index.m3u8
+#EXTINF:-1,MTV HD
+http://181.78.82.130:8000/play/a0n6/index.m3u8
 #EXTINF:-1,TCM
 http://181.78.82.130:8000/play/a0ns/index.m3u8
 #EXTINF:-1,DISCOVERYTEATHER
 http://38.211.145.109:8000/play/a03i/index.m3u8
-#EXTINF:-1,CANAL 44 (TELEVISION CHICHICASTECA)
-http://45.5.118.152:8000/play/a01o/index.m3u8
+#EXTINF:-1,CANAL 14 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a02w/index.m3u8
+#EXTINF:-1,CANAL 21 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a07c/index.m3u8
+#EXTINF:-1,CANAL 27 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a029/index.m3u8
+#EXTINF:-1,CANAL 36 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a08d/index.m3u8
+#EXTINF:-1,CANAL 38 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06r/index.m3u8
 #EXTINF:-1,CANAL 5 (TELEVISION CHICHICASTECA)
 http://45.5.118.152:8000/play/a01g/index.m3u8
-#EXTINF:-1,CANAL 55 PANA TV
-http://45.5.118.152:8000/play/a0c2/index.m3u8
-#EXTINF:-1,CANAL 78 TDS Solola
-http://45.5.118.152:8000/play/a09c/index.m3u8
-#EXTINF:-1,CANAL 83 12 TV MAYA
-http://45.5.118.152:8000/play/a0c4/index.m3u8
+#EXTINF:-1,CANAL 6 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06s/index.m3u8
 #EXTINF:-1,CANAL 99 TELEVISION CHICHICASTECA
 http://45.5.118.152:8000/play/a0cy/index.m3u8
-#EXTINF:-1,RUDDY VISION 12 QUICHE
-http://45.5.118.152:8000/play/a060/index.m3u8
-#EXTINF:-1,prueba de Canal Oscatr
-http://45.5.118.152:8000/play/a01b/index.m3u8
-#EXTINF:-1,DIRECTV
-http://45.173.12.70:8000/play/a0if/index.m3u8
 #EXTINF:-1,CINEMAX
 http://45.186.254.75:8000/play/a0bt/index.m3u8
+#EXTINF:-1,HISTORY 2
+http://45.186.254.75:8000/play/a07g/index.m3u8
+#EXTINF:-1,PARAMOUNT
+http://45.186.254.75:8000/play/a0cd/index.m3u8
 #EXTINF:-1,STUDIO UNIVERSAL
 http://45.186.254.75:8000/play/a0bs/index.m3u8
 #EXTINF:-1,TELENOVELAS
 http://45.186.254.75:8000/play/a08m/index.m3u8
+#EXTINF:-1,TNT
+http://45.186.254.75:8000/play/a0ba/index.m3u8
