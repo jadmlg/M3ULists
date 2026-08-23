@@ -1,259 +1,217 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",DSPORTS 1 ARG
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/712756.ts
-#EXTINF:-1 tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="Series",GRAN HERMANO 24/7
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/749367.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes",DSPORTS 2 ARG
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/712757.ts
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1718310567007" group-title="Deportes",DSPORTS 2
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/592038.ts
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1785741343782" group-title="Deportes",DSPORTS+
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/592039.ts
-#EXTINF:-1 tvg-logo="https://ipuntotv.com/IMAGES/Dsports-logo.jpg" group-title="Otros",DSPORTS  | CO
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/592037.ts
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCy8pHXCOFjYtmuOmPTfs0nGzTO.jpg" group-title="Infantil",LAT-24/7: Campamento Lazlo
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/783239.ts
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAfgwXs9HCEDnzPpBHVyrUeb8xi.jpg" group-title="Infantil",LAT-24/7: Bob Esponja
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/783364.ts
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRtuu43sbffvXJYl6hXi37RCDoa.jpg" group-title="Infantil",LAT-24/7: Doctora Juguetes
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/783296.ts
-#EXTINF:-1 tvg-logo="" group-title="Otros Idiomas",LAT-24/7: The Dog Y Pony Show
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/783291.ts
-#EXTINF:-1 tvg-logo="" group-title="Infantil",LAT-24/7: Rainbow Rangers
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/783286.ts
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4DfHaugLkoz1EdctDdsfxDA5w4.jpg" group-title="Series",LAT-24/7: Los vecinos Green
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/783297.ts
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5Uv3AcLG1Uce4NsqmGBhk7p477.jpg" group-title="Infantil",LAT-24/7: Billy Dilley
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/783306.ts
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x902aJJPKCcvyJySxfQsBbnjHk.jpg" group-title="Infantil",LAT-24/7: Recreo
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/783302.ts
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmUzOGIwYWMtNTQ5NS00ZGE4LWI1ZDUtMjAyZjU2NjI1NDU0XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg" group-title="Series",24/7 La Familia P. Luche
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/783517.ts
-#EXTINF:-1 tvg-logo="" group-title="Series",LAT-24/7: Muerte al anochecer
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/783421.ts
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Zsi0hWQ6SByrKjLyuD7OcjOawI.jpg" group-title="Otros Idiomas",LAT-24/7: Trabajar Eso que hacemos todo el día
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/783386.ts
-#EXTINF:-1 tvg-logo="" group-title="Series",LAT-24/7: Grandes Migraciones
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/783431.ts
-#EXTINF:-1 tvg-logo="" group-title="Otros Idiomas",LAT-24/7: ciudad ángel
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/783469.ts
-#EXTINF:-1 tvg-logo="https://mlstaticquic-a.akamaihd.net/D_NQ_NP_854811-MEC20630767060_032016-V.jpg" group-title="Anime",24/7 Iron Man: Anime (ES)
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/428524.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="Otros",##### GOLD NINOS TV | 24/7 SPAIN #####
-http://novatv.xyz:80/live/A0d05bd63067/AZ334NR/1327958.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 1 HD
-http://novatv.xyz:80/live/A0d05bd63067/AZ334NR/620993.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | NINOS 2 HD
-http://novatv.xyz:80/live/A0d05bd63067/AZ334NR/620994.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 3 HD
-http://novatv.xyz:80/live/A0d05bd63067/AZ334NR/620995.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 4 HD
 http://novatv.xyz:80/live/A0d05bd63067/AZ334NR/1013505.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 4 HD
-http://novatv.xyz:80/live/A0d05bd63067/AZ334NR/620996.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 2 HD
+http://novatv.xyz:80/live/A0d05bd63067/AZ334NR/620994.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | PELICULAS NINOS 2 HD
 http://novatv.xyz:80/live/A0d05bd63067/AZ334NR/1013503.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 1 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 1 HD
+http://novatv.xyz:80/live/A0d05bd63067/AZ334NR/620993.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | PELICULAS NINOS 1 HD
 http://novatv.xyz:80/live/A0d05bd63067/AZ334NR/1013502.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 3 HD
 http://novatv.xyz:80/live/A0d05bd63067/AZ334NR/1013504.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Otros Idiomas",ES - VIX - NOTICIAS UNIVISION 24/7
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 3 HD
+http://novatv.xyz:80/live/A0d05bd63067/AZ334NR/620995.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | NINOS 4 HD
+http://novatv.xyz:80/live/A0d05bd63067/AZ334NR/620996.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="Infantil",##### GOLD NINOS TV | 24/7 SPAIN #####
+http://novatv.xyz:80/live/A0d05bd63067/AZ334NR/1327958.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Series",ES - VIX - NOTICIAS UNIVISION 24/7
 http://novatv.xyz:80/live/A0d05bd63067/AZ334NR/1349086.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Otros",ES - VIX - NOTICIAS UNIVISION 24/7 – LOS ANGELES
-http://novatv.xyz:80/live/A0d05bd63067/AZ334NR/1349087.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Otros Idiomas",ES - VIX - NOTICIAS UNIVISION 24/7 – NUEVA YORK
 http://novatv.xyz:80/live/A0d05bd63067/AZ334NR/1349088.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Otros Idiomas",VIX - NOTICIAS UNIVISION 24/7
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Series",VIX - NOTICIAS UNIVISION 24/7
 http://novatv.xyz:80/live/A0d05bd63067/AZ334NR/1096009.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7  NINOS 3
-http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507622.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES - 24/7 NINOS 1
-http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507620.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 2
-http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507617.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES - 24/7 NINOS 2
-http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507621.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/58/48/a1/5848a17e7e5973a8c6a12e78bf5e36d5.jpg" group-title="Infantil",24/7 Johnny Test (ES)
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/428518.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Otros Idiomas",ES - VIX - NOTICIAS UNIVISION 24/7 – LOS ANGELES
+http://novatv.xyz:80/live/A0d05bd63067/AZ334NR/1349087.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 1
 http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507619.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 2
+http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507617.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 NINOS 1
+http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507620.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7  NINOS 3
+http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507622.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 NINOS 2
+http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507621.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES -  24/7  NINOS 4
 http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507623.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 4
 http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507615.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 5
 http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507614.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 7
-http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507612.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 6
 http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507613.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 10
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 10
 http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507609.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 3
-http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507616.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 7
+http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507612.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 8
 http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507611.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 13
 http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507606.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 12
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 3
+http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507616.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 12
 http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507607.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 15
+http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507603.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 16
+http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507604.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 11
 http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507608.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 17
+http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507602.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 14
 http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507605.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 15
-http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507603.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 16
-http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507604.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 17
-http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507602.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 21
 http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/770027.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 18
+http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507601.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 22
 http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/770026.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 18
-http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507601.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 19
-http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507600.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 20
 http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507597.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 23
+http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/770025.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 19
+http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/507600.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 24
 http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/770024.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png" group-title="Otros Idiomas",##### 24/7 ESPAÑA #####
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/1548520.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 23
-http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/770025.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2022 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2022 1
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924531.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 3
+http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924523.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 1
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924521.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2022 2
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924532.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2022 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2022 3
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924533.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 3
-http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924523.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 2
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924522.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 4
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924524.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 5
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924525.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 6
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924526.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 7
-http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924527.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 8
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924528.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 9
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924529.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 10
-http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924530.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2020 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 7
+http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924527.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 1
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924516.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2020 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 10
+http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924530.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 2
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924517.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2020 3
-http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924518.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 4
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924519.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2020 5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 3
+http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924518.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 5
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924520.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 1
-http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924510.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924511.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 1
+http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924510.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 3
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924512.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 4
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924513.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 5
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924514.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 6
-http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924515.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES| 24/7 PELICULAS NINOS 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS NINOS 1
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924534.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES| 24/7 PELICULAS NINOS 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 6
+http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924515.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS NINOS 3
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924536.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS NINOS 4
-http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924537.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965407.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 ᴿᴬᵂ
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/1965407.ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1615460.png" group-title="Otros Idiomas",ARG| 24/7 NOTICIAS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS NINOS 4
+http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924537.ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1615460.png" group-title="Otros",ARG| 24/7 NOTICIAS
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/1615460.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965405.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 – LOS ANGELES ᴿᴬᵂ
+http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/1965405.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965406.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 ᴿᴬᵂ
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/1965406.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965405.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7 – LOS ANGELES ᴿᴬᵂ
-http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/1965405.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965404.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7 – LOS ANGELES ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965404.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 – LOS ANGELES ᴿᴬᵂ
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/1965404.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965403.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7 – NUEVA YORK ᴿᴬᵂ
-http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/1965403.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965402.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7 – NUEVA YORK ᴿᴬᵂ
-http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/1965402.ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1461375.png" group-title="Series",VIX| LA CASA 24/7
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/1461375.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png" group-title="Otros Idiomas",##### 24/7 ESPAÑA #####
-http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1548520.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LATINO/VIX.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965403.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 – NUEVA YORK ᴿᴬᵂ
+http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/1965403.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965402.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 – NUEVA YORK ᴿᴬᵂ
+http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/1965402.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LATINO/VIX.png" group-title="Series",VIX| NOTICIAS UNIVISION 24/7
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/1461421.ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="Otros",ALB| 24/7 NARCOS MEXICO FHD
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/1539572.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2022 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png" group-title="Otros Idiomas",##### 24/7 ESPAÑA #####
+http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1548520.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2022 1
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924531.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2022 2
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924532.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 1
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924521.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2022 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2022 3
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924533.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 2
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924522.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 3
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924523.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 5
+http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924525.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 4
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924524.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 5
-http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924525.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 6
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924526.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 7
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924527.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 8
-http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924528.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 9
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924529.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 10
-http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924530.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2020 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 8
+http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924528.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 2
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924517.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2020 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 10
+http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924530.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 1
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924516.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 3
+http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924518.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 4
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924519.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2020 3
-http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924518.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2020 5
-http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924520.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 1
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924510.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 5
+http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924520.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924511.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 3
-http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924512.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 4
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924513.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 3
+http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924512.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 5
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924514.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 6
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924515.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES| 24/7 PELICULAS NINOS 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS NINOS 2
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924535.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES| 24/7 PELICULAS NINOS 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS NINOS 3
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924536.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES| 24/7 PELICULAS NINOS 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS NINOS 1
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924534.ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1615460.png" group-title="Otros Idiomas",ARG| 24/7 NOTICIAS
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1615460.png" group-title="Otros",ARG| 24/7 NOTICIAS
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1615460.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS NINOS 4
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924537.ts
@@ -261,611 +219,675 @@ http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/924537.ts
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1965407.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965406.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 ᴿᴬᵂ
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1965406.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965405.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7 – LOS ANGELES ᴿᴬᵂ
-http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1965405.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965404.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7 – LOS ANGELES ᴿᴬᵂ
-http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1965404.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965403.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7 – NUEVA YORK ᴿᴬᵂ
-http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1965403.ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1461375.png" group-title="Series",VIX| LA CASA 24/7
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1461375.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965402.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7 – NUEVA YORK ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965404.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 – LOS ANGELES ᴿᴬᵂ
+http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1965404.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965405.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 – LOS ANGELES ᴿᴬᵂ
+http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1965405.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965403.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 – NUEVA YORK ᴿᴬᵂ
+http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1965403.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965402.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 – NUEVA YORK ᴿᴬᵂ
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1965402.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LATINO/VIX.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png" group-title="Otros Idiomas",##### 24/7 ESPAÑA #####
+http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/1548520.ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LATINO/VIX.png" group-title="Series",VIX| NOTICIAS UNIVISION 24/7
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1461421.ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="Otros",ALB| 24/7 NARCOS MEXICO FHD
 http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1539572.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png" group-title="Otros Idiomas",##### 24/7 ESPAÑA #####
-http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/1548520.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2022 1
-http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924531.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2022 2
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924532.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2022 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2022 3
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924533.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2022 1
+http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924531.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 1
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924521.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 2
-http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924522.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 3
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924523.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 2
+http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924522.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 6
+http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924526.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 4
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924524.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 6
-http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924526.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 5
-http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924525.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 7
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924527.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 8
-http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924528.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 5
+http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924525.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 9
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924529.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 10
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 8
+http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924528.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 10
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924530.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2020 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 1
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924516.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2020 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 2
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924517.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2020 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 3
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924518.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 4
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924519.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2020 5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 5
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924520.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 1
-http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924510.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924511.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 1
+http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924510.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 3
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924512.ts
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="Otros",24/7 Pluto TV Embarazada a los 16
-http://hardcoremedia.xyz:80/live/tzwecpfd/1822349101/33140.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 4
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924513.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 5
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924514.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 6
-http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924515.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES| 24/7 PELICULAS NINOS 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS NINOS 1
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924534.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES| 24/7 PELICULAS NINOS 3
-http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924536.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 6
+http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924515.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS NINOS 4
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924537.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS NINOS 3
+http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924536.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="Otros",24/7 Pluto TV Embarazada a los 16
+http://hardcoremedia.xyz:80/live/tzwecpfd/1822349101/33140.ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="Otros",ALB| 24/7 NARCOS MEXICO FHD
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/1539572.ts
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f7274806621ff00072651ff/colorLogoPNG.png" group-title="Series",24/7 Pluto TV Narcos
-http://hardcoremedia.xyz:80/live/tzwecpfd/1822349101/33141.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965407.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 ᴿᴬᵂ
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/1965407.ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1615460.png" group-title="Otros Idiomas",ARG| 24/7 NOTICIAS
-http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/1615460.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965405.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7 – LOS ANGELES ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965405.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 – LOS ANGELES ᴿᴬᵂ
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/1965405.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965404.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7 – LOS ANGELES ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965404.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 – LOS ANGELES ᴿᴬᵂ
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/1965404.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965402.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7 – NUEVA YORK ᴿᴬᵂ
-http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/1965402.ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1615460.png" group-title="Otros",ARG| 24/7 NOTICIAS
+http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/1615460.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965406.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 ᴿᴬᵂ
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/1965406.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES| 24/7 PELICULAS NINOS 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965402.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 – NUEVA YORK ᴿᴬᵂ
+http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/1965402.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS NINOS 2
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/924535.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LATINO/VIX.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LATINO/VIX.png" group-title="Series",VIX| NOTICIAS UNIVISION 24/7
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/1461421.ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1461375.png" group-title="Series",VIX| LA CASA 24/7
-http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/1461375.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965403.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7 – NUEVA YORK ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965403.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 – NUEVA YORK ᴿᴬᵂ
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/1965403.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png" group-title="Otros Idiomas",##### 24/7 ESPAÑA #####
-http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1548520.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SN3bxOq.png" group-title="Deportes",URUG | DSPORTS
 http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/118553.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpgSvzWPrd847ipmyW27BLHAmbcukHq5L-O0b6qDJBfMvUDBgBp-6gQaQ&s=10" group-title="Otros Idiomas",ARG| 24/7 NOTICIAS HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpgSvzWPrd847ipmyW27BLHAmbcukHq5L-O0b6qDJBfMvUDBgBp-6gQaQ&s=10" group-title="Otros",ARG| 24/7 NOTICIAS HD
 http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/97683.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/smuy2CX.png" group-title="Deportes",URUG | DSPORTS  PREMIUM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/smuy2CX.png" group-title="Otros",URUG | DSPORTS  PREMIUM
 http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/268851.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2022 2
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924532.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2022 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2022 1
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924531.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2022 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2022 3
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924533.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 1
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924521.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 3
-http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924523.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 2
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924522.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 5
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f7274806621ff00072651ff/colorLogoPNG.png" group-title="Otros",24/7 Pluto TV Narcos
+http://hardcoremedia.xyz:80/live/tzwecpfd/1822349101/33141.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 3
+http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924523.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png" group-title="Otros Idiomas",##### 24/7 ESPAÑA #####
+http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1548520.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 5
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924525.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 6
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924526.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 7
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924527.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 10
+http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924530.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 8
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924528.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 9
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924529.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2021 10
-http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924530.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2020 1
-http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924516.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2020 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 2
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924517.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2020 3
-http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924518.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 1
+http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924516.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 4
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924519.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2020 5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 3
+http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924518.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2020 5
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924520.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 1
-http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924510.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2021 4
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924524.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 1
+http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924510.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 2
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924511.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 3
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924512.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 4
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924513.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 6
+http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924515.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS 5
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924514.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES| 24/7 PELICULAS 6
-http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924515.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES| 24/7 PELICULAS NINOS 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS NINOS 1
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924534.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES| 24/7 PELICULAS NINOS 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS NINOS 2
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924535.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES| 24/7 PELICULAS NINOS 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS NINOS 3
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924536.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Otros Idiomas",24/7 SAY I DO
-http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1942372.ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/24-7.png" group-title="Otros",ALB| 24/7 NARCOS MEXICO FHD
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1539572.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS NINOS 4
-http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924537.ts
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1615460.png" group-title="Otros Idiomas",ARG| 24/7 NOTICIAS
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1615460.png" group-title="Otros",ARG| 24/7 NOTICIAS
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1615460.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965406.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 ᴿᴬᵂ
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1965406.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS NINOS 4
+http://line.superflash.icu:80/live/cc80a5499c/06df54952403/924537.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965407.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 ᴿᴬᵂ
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1965407.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965405.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7 – LOS ANGELES ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965405.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 – LOS ANGELES ᴿᴬᵂ
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1965405.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965403.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7 – NUEVA YORK ᴿᴬᵂ
-http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1965403.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965402.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7 – NUEVA YORK ᴿᴬᵂ
-http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1965402.ts
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1461375.png" group-title="Series",VIX| LA CASA 24/7
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1461375.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LATINO/VIX.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7
-http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1461421.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965404.png" group-title="Otros Idiomas",VIX| NOTICIAS UNIVISION 24/7 – LOS ANGELES ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965403.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 – NUEVA YORK ᴿᴬᵂ
+http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1965403.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965402.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 – NUEVA YORK ᴿᴬᵂ
+http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1965402.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/1965404.png" group-title="Otros",VIX| NOTICIAS UNIVISION 24/7 – LOS ANGELES ᴿᴬᵂ
 http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1965404.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="Otros",##### GOLD NINOS TV | 24/7 SPAIN #####
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LATINO/VIX.png" group-title="Series",VIX| NOTICIAS UNIVISION 24/7
+http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1461421.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Series",VIX - NOTICIAS UNIVISION 24/7
+http://ravxenor.com:80/live/1AF694A28F299C2/Pb28K5zTQK/1096009.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="Infantil",##### GOLD NINOS TV | 24/7 SPAIN #####
 http://ravxenor.com:80/live/1AF694A28F299C2/Pb28K5zTQK/1327958.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | PELICULAS NINOS 1 HD
+http://ravxenor.com:80/live/1AF694A28F299C2/Pb28K5zTQK/1013502.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 1 HD
 http://ravxenor.com:80/live/1AF694A28F299C2/Pb28K5zTQK/620993.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Otros Idiomas",VIX - NOTICIAS UNIVISION 24/7
-http://ravxenor.com:80/live/1AF694A28F299C2/Pb28K5zTQK/1096009.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 4 HD
-http://ravxenor.com:80/live/1AF694A28F299C2/Pb28K5zTQK/620996.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 1 HD
-http://ravxenor.com:80/live/1AF694A28F299C2/Pb28K5zTQK/1013502.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 3 HD
 http://ravxenor.com:80/live/1AF694A28F299C2/Pb28K5zTQK/1013504.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | PELICULAS NINOS 2 HD
 http://ravxenor.com:80/live/1AF694A28F299C2/Pb28K5zTQK/1013503.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | NINOS 2 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | NINOS 4 HD
+http://ravxenor.com:80/live/1AF694A28F299C2/Pb28K5zTQK/620996.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 2 HD
 http://ravxenor.com:80/live/1AF694A28F299C2/Pb28K5zTQK/620994.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 3 HD
 http://ravxenor.com:80/live/1AF694A28F299C2/Pb28K5zTQK/620995.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 4 HD
 http://ravxenor.com:80/live/1AF694A28F299C2/Pb28K5zTQK/1013505.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="Otros",##### GOLD NINOS TV | 24/7 SPAIN #####
-http://rome66.xyz:80/live/GUHS2DP/T5SQ1QH/1327958.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Otros Idiomas",24/7 SAY I DO
+http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1942372.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 1 HD
 http://rome66.xyz:80/live/GUHS2DP/T5SQ1QH/620993.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 3 HD
 http://rome66.xyz:80/live/GUHS2DP/T5SQ1QH/620995.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | NINOS 2 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="Infantil",##### GOLD NINOS TV | 24/7 SPAIN #####
+http://rome66.xyz:80/live/GUHS2DP/T5SQ1QH/1327958.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 2 HD
 http://rome66.xyz:80/live/GUHS2DP/T5SQ1QH/620994.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 4 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 3 HD
+http://rome66.xyz:80/live/GUHS2DP/T5SQ1QH/1013504.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | NINOS 4 HD
 http://rome66.xyz:80/live/GUHS2DP/T5SQ1QH/620996.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 1 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | PELICULAS NINOS 1 HD
 http://rome66.xyz:80/live/GUHS2DP/T5SQ1QH/1013502.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | PELICULAS NINOS 2 HD
 http://rome66.xyz:80/live/GUHS2DP/T5SQ1QH/1013503.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 3 HD
-http://rome66.xyz:80/live/GUHS2DP/T5SQ1QH/1013504.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 4 HD
 http://rome66.xyz:80/live/GUHS2DP/T5SQ1QH/1013505.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Otros Idiomas",ES - VIX - NOTICIAS UNIVISION 24/7
-http://rome66.xyz:80/live/GUHS2DP/T5SQ1QH/1349086.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Otros",ES - VIX - NOTICIAS UNIVISION 24/7 – LOS ANGELES
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Otros Idiomas",ES - VIX - NOTICIAS UNIVISION 24/7 – LOS ANGELES
 http://rome66.xyz:80/live/GUHS2DP/T5SQ1QH/1349087.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Otros Idiomas",ES - VIX - NOTICIAS UNIVISION 24/7 – NUEVA YORK
-http://rome66.xyz:80/live/GUHS2DP/T5SQ1QH/1349088.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Otros Idiomas",VIX - NOTICIAS UNIVISION 24/7
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Series",VIX - NOTICIAS UNIVISION 24/7
 http://rome66.xyz:80/live/GUHS2DP/T5SQ1QH/1096009.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924531.png" group-title="Otros",ES: 24/7 PELICULAS 2022 1 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555348.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924533.png" group-title="Cine",ES: 24/7 PELICULAS 2022 3 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555346.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924521.png" group-title="Cine",ES: 24/7 PELICULAS 2021 1 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555345.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924523.png" group-title="Otros",ES: 24/7 PELICULAS 2021 3 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555343.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924524.png" group-title="Cine",ES: 24/7 PELICULAS 2021 4 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555342.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924525.png" group-title="Otros",ES: 24/7 PELICULAS 2021 5 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555341.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924522.png" group-title="Cine",ES: 24/7 PELICULAS 2021 2 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555344.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924532.png" group-title="Cine",ES: 24/7 PELICULAS 2022 2 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555347.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924526.png" group-title="Cine",ES: 24/7 PELICULAS 2021 6 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555340.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924528.png" group-title="Cine",ES: 24/7 PELICULAS 2021 8 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555338.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924527.png" group-title="Cine",ES: 24/7 PELICULAS 2021 7 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555339.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924529.png" group-title="Otros",ES: 24/7 PELICULAS 2021 9 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555337.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924517.png" group-title="Otros",ES: 24/7 PELICULAS 2020 2 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555334.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924530.png" group-title="Cine",ES: 24/7 PELICULAS 2021 10 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555336.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924516.png" group-title="Cine",ES: 24/7 PELICULAS 2020 1 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555335.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924518.png" group-title="Cine",ES: 24/7 PELICULAS 2020 3 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555333.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924510.png" group-title="Cine",ES: 24/7 PELICULAS 1 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555330.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924519.png" group-title="Cine",ES: 24/7 PELICULAS 2020 4 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555332.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924511.png" group-title="Cine",ES: 24/7 PELICULAS 2 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555329.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924512.png" group-title="Otros",ES: 24/7 PELICULAS 3 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555328.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Animated-Flag-Spain.gif" group-title="Otros Idiomas",##### 24/7 ESPAÑA #####
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555367.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924513.png" group-title="Cine",ES: 24/7 PELICULAS 4 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555327.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924514.png" group-title="Otros",ES: 24/7 PELICULAS 5 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555326.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924520.png" group-title="Otros",ES: 24/7 PELICULAS 2020 5 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555331.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924534.png" group-title="Otros",ES: 24/7 PELICULAS NINOS 1 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555324.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924515.png" group-title="Otros",ES: 24/7 PELICULAS 6 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555325.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924535.png" group-title="Otros",ES: 24/7 PELICULAS NINOS 2 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555323.ts
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Otros",ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴴᴰ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1887853.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924536.png" group-title="Infantil",ES: 24/7 PELICULAS NINOS 3 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555322.ts
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Deportes",ES: NFL NETWORK: LIVE 24/7 COVERAGE SD
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1887843.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924537.png" group-title="Otros",ES: 24/7 PELICULAS NINOS 4 ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1555321.ts
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Deportes",ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ
-http://cf.uplaypl.us:80/live/7a464a1b64/2527eb6c81/1887833.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 NINOS 1
+http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507620.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 NINOS 2
+http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507621.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7  NINOS 3
 http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507622.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES -  24/7  NINOS 4
-http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507623.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES - 24/7 NINOS 1
-http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507620.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES - 24/7 NINOS 2
-http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507621.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 1
 http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507619.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 2
 http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507617.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 3
 http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507616.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 5
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Series",ES - VIX - NOTICIAS UNIVISION 24/7
+http://rome66.xyz:80/live/GUHS2DP/T5SQ1QH/1349086.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Otros Idiomas",ES - VIX - NOTICIAS UNIVISION 24/7 – NUEVA YORK
+http://rome66.xyz:80/live/GUHS2DP/T5SQ1QH/1349088.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 5
 http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507614.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 4
 http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507615.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 7
-http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507612.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 8
+http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507611.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 6
 http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507613.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 8
-http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507611.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 12
-http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507607.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 10
+http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507609.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES -  24/7  NINOS 4
+http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507623.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 13
 http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507606.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 10
-http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507609.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 7
+http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507612.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 11
 http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507608.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 14
 http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507605.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 16
-http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507604.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 17
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 17
 http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507602.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 18
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 16
+http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507604.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 18
 http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507601.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 19
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 19
 http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507600.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 15
-http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507603.ts
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="Cine",24/7 Pluto TV Cine Terror
-http://hardcoremedia.xyz:80/live/tzwecpfd/1822349101/33137.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 22
 http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/770026.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 20
-http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507597.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 15
+http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507603.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 12
+http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507607.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 21
 http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/770027.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 20
+http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/507597.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 23
+http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/770025.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 24
 http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/770024.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 23
-http://apksmart.dino.ws:80/live/161d4f3271/7c4efb8f49e5/770025.ts
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-title="Novelas",24/7 Pluto TV Novelas Romance
-http://hardcoremedia.xyz:80/live/tzwecpfd/1822349101/33143.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="Otros",##### GOLD NINOS TV | 24/7 SPAIN #####
-http://raztv.online:80/live/904372067536241/RCXPgbYzpR/1327958.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 1 HD
 http://raztv.online:80/live/904372067536241/RCXPgbYzpR/620993.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | NINOS 2 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 2 HD
 http://raztv.online:80/live/904372067536241/RCXPgbYzpR/620994.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YQbC2xd/QQQ.png" group-title="Deportes",EC: Dsports Ecuador
-http://tv-275228.ifiesta.net:80/live/TV-14650030923070/116630916768/256756.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | PELICULAS NINOS 1 HD
+http://raztv.online:80/live/904372067536241/RCXPgbYzpR/1013502.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 3 HD
 http://raztv.online:80/live/904372067536241/RCXPgbYzpR/620995.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 4 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | NINOS 4 HD
 http://raztv.online:80/live/904372067536241/RCXPgbYzpR/620996.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SPAIN.png" group-title="Otros Idiomas",##### 24/7 SPANISH #####
-http://90798-cup.dn-4kott.com:80/live/98ad6545bd/39a2820c89bc/761391.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 1 HD
-http://raztv.online:80/live/904372067536241/RCXPgbYzpR/1013502.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | PELICULAS NINOS 2 HD
 http://raztv.online:80/live/904372067536241/RCXPgbYzpR/1013503.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="Otros",24/7 Pluto TV Cine Terror
+http://hardcoremedia.xyz:80/live/tzwecpfd/1822349101/33137.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Series",VIX - NOTICIAS UNIVISION 24/7
+http://raztv.online:80/live/904372067536241/RCXPgbYzpR/1096009.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 3 HD
 http://raztv.online:80/live/904372067536241/RCXPgbYzpR/1013504.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 4 HD
 http://raztv.online:80/live/904372067536241/RCXPgbYzpR/1013505.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Otros Idiomas",VIX - NOTICIAS UNIVISION 24/7
-http://raztv.online:80/live/904372067536241/RCXPgbYzpR/1096009.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES - 24/7 NINOS 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 NINOS 2
 http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507621.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES -  24/7  NINOS 4
 http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507623.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7  NINOS 3
 http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507622.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES - 24/7 NINOS 1
-http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507620.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 3
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-title="Otros",24/7 Pluto TV Novelas Romance
+http://hardcoremedia.xyz:80/live/tzwecpfd/1822349101/33143.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 3
 http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507616.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 2
-http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507617.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 1
 http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507619.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 2
+http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507617.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 4
 http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507615.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 5
-http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507614.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YQbC2xd/QQQ.png" group-title="Deportes",EC: Dsports Ecuador
+http://tv-275228.ifiesta.net:80/live/TV-14650030923070/116630916768/256756.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 6
 http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507613.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 7
-http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507612.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 10
-http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507609.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 16
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 5
+http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507614.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 16
 http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507604.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 11
 http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507608.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 8
-http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507611.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 12
-http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507607.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 7
+http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507612.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 14
 http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507605.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 12
+http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507607.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 8
+http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507611.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 15
+http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507603.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 13
 http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507606.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 15
-http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507603.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 17
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 17
 http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507602.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 19
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 19
 http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507600.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 20
-http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507597.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 21
 http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/770027.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 20
+http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507597.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 22
 http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/770026.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 18
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 18
 http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507601.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 23
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 23
 http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/770025.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 24
 http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/770024.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Animated-Flag-Spain.gif" group-title="Otros Idiomas",##### 24/7 ESPAÑA #####
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555367.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924531.png" group-title="Otros",ES: 24/7 PELICULAS 2022 1 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555348.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924532.png" group-title="Cine",ES: 24/7 PELICULAS 2022 2 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555347.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924533.png" group-title="Cine",ES: 24/7 PELICULAS 2022 3 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555346.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924521.png" group-title="Cine",ES: 24/7 PELICULAS 2021 1 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555345.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924522.png" group-title="Cine",ES: 24/7 PELICULAS 2021 2 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555344.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924523.png" group-title="Otros",ES: 24/7 PELICULAS 2021 3 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555343.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924524.png" group-title="Cine",ES: 24/7 PELICULAS 2021 4 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555342.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924525.png" group-title="Otros",ES: 24/7 PELICULAS 2021 5 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555341.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924526.png" group-title="Cine",ES: 24/7 PELICULAS 2021 6 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555340.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924527.png" group-title="Cine",ES: 24/7 PELICULAS 2021 7 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555339.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924528.png" group-title="Cine",ES: 24/7 PELICULAS 2021 8 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555338.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924529.png" group-title="Otros",ES: 24/7 PELICULAS 2021 9 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555337.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924530.png" group-title="Cine",ES: 24/7 PELICULAS 2021 10 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555336.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924516.png" group-title="Cine",ES: 24/7 PELICULAS 2020 1 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555335.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924517.png" group-title="Otros",ES: 24/7 PELICULAS 2020 2 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555334.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924518.png" group-title="Cine",ES: 24/7 PELICULAS 2020 3 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555333.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924519.png" group-title="Cine",ES: 24/7 PELICULAS 2020 4 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555332.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/924520.png" group-title="Otros",ES: 24/7 PELICULAS 2020 5 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555331.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924510.png" group-title="Cine",ES: 24/7 PELICULAS 1 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555330.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924511.png" group-title="Cine",ES: 24/7 PELICULAS 2 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555329.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924512.png" group-title="Otros",ES: 24/7 PELICULAS 3 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555328.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924513.png" group-title="Cine",ES: 24/7 PELICULAS 4 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555327.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924514.png" group-title="Otros",ES: 24/7 PELICULAS 5 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555326.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924515.png" group-title="Otros",ES: 24/7 PELICULAS 6 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555325.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924534.png" group-title="Otros",ES: 24/7 PELICULAS NINOS 1 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555324.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924535.png" group-title="Otros",ES: 24/7 PELICULAS NINOS 2 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555323.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924536.png" group-title="Infantil",ES: 24/7 PELICULAS NINOS 3 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555322.ts
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Otros",ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴴᴰ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1887853.ts
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/924537.png" group-title="Otros",ES: 24/7 PELICULAS NINOS 4 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1555321.ts
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="Deportes",ES: NFL NETWORK: LIVE 24/7 COVERAGE ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1887833.ts
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14456.jpg?ver=20107" group-title="Otros",VIX: NOTICIAS UNIVISION 24/7 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1672175.ts
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14456.jpg?ver=20107" group-title="Otros",VIX: NOTICIAS UNIVISION 24/7 ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1672174.ts
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14456.jpg?ver=20107" group-title="Otros Idiomas",VIX: NOTICIAS UNIVISION 24/7 – LOS ANGELES ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1672173.ts
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14456.jpg?ver=20107" group-title="Otros",VIX: NOTICIAS UNIVISION 24/7 – NUEVA YORK ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1672171.ts
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14456.jpg?ver=20107" group-title="Otros Idiomas",VIX: NOTICIAS UNIVISION 24/7 – LOS ANGELES ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1672172.ts
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14456.jpg?ver=20107" group-title="Otros",VIX: NOTICIAS UNIVISION 24/7 – NUEVA YORK ᴿᴬᵂ
-http://apleux.online:80/live/84eba2ffee00/a65e15d5c2/1672170.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Otros Idiomas",24/7 SAY I DO
-http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/1942372.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES| 24/7 PELICULAS NINOS 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 NINOS 1
+http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507620.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES| 24/7 PELICULAS NINOS 2
 http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/924535.ts
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/ppv.png" group-title="Deportes",UFC 24/7
 http://line.iptv-4k.cc:80/live/735AF7/DCA5AF/1451948.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES - 24/7 NINOS 2
-http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507621.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES - 24/7 NINOS 1
-http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507620.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7  NINOS 3
-http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507622.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES -  24/7  NINOS 4
 http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507623.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 10
+http://62103-styles.dn-4kott.com:80/live/3ecbc49f99/74e79d4cfff3/507609.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 2
 http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507617.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 NINOS 1
+http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507620.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 NINOS 2
+http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507621.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7  NINOS 3
+http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507622.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 1
 http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507619.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 4
 http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507615.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 5
 http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507614.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 3
-http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507616.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 7
 http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507612.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 8
+http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507611.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 3
+http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507616.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 12
+http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507607.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 6
 http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507613.ts
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/DSports.png" group-title="Deportes",DSports
-http://fibermaxx.top:80/live/85836530/57158922/250248.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 12
-http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507607.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 8
-http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507611.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 10
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 10
 http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507609.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 11
 http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507608.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 16
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 16
 http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507604.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 13
 http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507606.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 15
+http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507603.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 14
 http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507605.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 15
-http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507603.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 17
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 17
 http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507602.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 18
-http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507601.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 19
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 19
 http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507600.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 20
-http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507597.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 22
-http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/770026.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Cine",ES - 24/7 PELICULAS 23
-http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/770025.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 18
+http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507601.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 24
 http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/770024.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 23
+http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/770025.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 22
+http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/770026.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 20
+http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507597.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 21
 http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/770027.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="Otros",##### GOLD NINOS TV | 24/7 SPAIN #####
-http://goldenpass.xyz/live/PSP892FJ377EC3Z/swVyPZPFiA/1327958.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 1 HD
-http://goldenpass.xyz/live/PSP892FJ377EC3Z/swVyPZPFiA/620993.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | NINOS 2 HD
-http://goldenpass.xyz/live/PSP892FJ377EC3Z/swVyPZPFiA/620994.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 1 HD
-http://goldenpass.xyz/live/PSP892FJ377EC3Z/swVyPZPFiA/1013502.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 3 HD
-http://goldenpass.xyz/live/PSP892FJ377EC3Z/swVyPZPFiA/620995.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 4 HD
-http://goldenpass.xyz/live/PSP892FJ377EC3Z/swVyPZPFiA/620996.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | PELICULAS NINOS 2 HD
-http://goldenpass.xyz/live/PSP892FJ377EC3Z/swVyPZPFiA/1013503.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 3 HD
-http://goldenpass.xyz/live/PSP892FJ377EC3Z/swVyPZPFiA/1013504.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 4 HD
-http://goldenpass.xyz/live/PSP892FJ377EC3Z/swVyPZPFiA/1013505.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Otros Idiomas",ES - VIX - NOTICIAS UNIVISION 24/7
-http://goldenpass.xyz/live/PSP892FJ377EC3Z/swVyPZPFiA/1349086.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Otros",ES - VIX - NOTICIAS UNIVISION 24/7 – LOS ANGELES
-http://goldenpass.xyz/live/PSP892FJ377EC3Z/swVyPZPFiA/1349087.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Otros Idiomas",24/7 I DIDNT DO IT
-http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1942632.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Otros Idiomas",ES - VIX - NOTICIAS UNIVISION 24/7 – NUEVA YORK
-http://goldenpass.xyz/live/PSP892FJ377EC3Z/swVyPZPFiA/1349088.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Otros Idiomas",VIX - NOTICIAS UNIVISION 24/7
-http://goldenpass.xyz/live/PSP892FJ377EC3Z/swVyPZPFiA/1096009.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Series",24/7 NAILED IT MEXICO
-http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1942462.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Infantil",ES - 24/7 BOB ESPONJA
-http://line.dino-ott.ru/live/00e2abbe22/238d8dd59052/507598.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Series",24/7 NAILED IT MEXICO
-http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1942462.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Otros Idiomas",24/7 SOME MOTHERS DO 'AVE 'EM
-http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1943217.ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Otros Idiomas",24/7 WHAT WOULD DIPLO DO
-http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1942193.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Otros Idiomas",24/7 SOME MOTHERS DO 'AVE 'EM
 http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/1943217.ts
-#EXTINF:-1 tvg-logo="" group-title="Series",LAT-24/7: Dios salve a Texas
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/783476.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/91/ed/32/91ed3266f76790058de45b9c85ffea33.png" group-title="Infantil",24/7 ThunderCats (ES)
-http://virgencitachatuti.com:8080/live/johanrivera1/edZzz3acfW/428512.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 NINOS 1
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507620.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Otros Idiomas",24/7 WHAT WOULD DIPLO DO
+http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1942193.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 NINOS 2
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507621.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Otros Idiomas",24/7 SOME MOTHERS DO 'AVE 'EM
+http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1943217.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7  NINOS 3
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507622.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES -  24/7  NINOS 4
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507623.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 1
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507619.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 2
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507617.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 4
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507615.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 3
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507616.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 5
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507614.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 6
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507613.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 10
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507609.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 8
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507611.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 7
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507612.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 11
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507608.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 12
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507607.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 13
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507606.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 14
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507605.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 16
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507604.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 17
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507602.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 15
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507603.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 18
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507601.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 19
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507600.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 22
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/770026.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 21
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/770027.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Otros Idiomas",24/7 I DIDNT DO IT
+http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1942632.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 20
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/507597.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 24
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/770024.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 23
+http://mag.dndnscloud.ru:80/live/697799dcab98a/2acc240369/770025.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 NINOS 1
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507620.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 NINOS 2
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507621.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 1
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507619.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES -  24/7  NINOS 4
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507623.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7  NINOS 3
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507622.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/mex/flg.png" group-title="Otros",MX| (VIX) NOTICIAS UNIVISION 24/7 – NUEVA YORK
+http://xsgswkzc.msgssmart.com:80/live/DonVic/JDUDBQME/1288355.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/mex/flg.png" group-title="Otros",MX| (VIX) NOTICIAS UNIVISION 24/7
+http://xsgswkzc.msgssmart.com:80/live/DonVic/JDUDBQME/985736.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 2
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507617.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/mex/flg.png" group-title="Otros",MX| (VIX) NOTICIAS UNIVISION 24/7 – LOS ANGELES
+http://xsgswkzc.msgssmart.com:80/live/DonVic/JDUDBQME/1288356.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 4
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507615.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 5
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507614.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 6
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507613.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 3
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507616.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 10
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507609.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 11
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507608.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 7
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507612.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 12
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507607.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 8
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507611.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 13
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507606.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 14
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507605.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 17
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507602.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 16
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507604.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 15
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507603.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 20
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507597.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 19
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507600.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 18
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/507601.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 21
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/770027.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 22
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/770026.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 23
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/770025.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="Otros",ES - 24/7 PELICULAS 24
+http://line.di-nero.com/live/ba3370850a/b43d95c793fd/770024.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | NINOS 4 HD
+http://sthuuuhj.itransat.net:80/live/UDS6385/YZ23RRB/620996.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="Infantil",##### GOLD NINOS TV | 24/7 SPAIN #####
+http://sthuuuhj.itransat.net:80/live/UDS6385/YZ23RRB/1327958.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 3 HD
+http://sthuuuhj.itransat.net:80/live/UDS6385/YZ23RRB/620995.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 2 HD
+http://sthuuuhj.itransat.net:80/live/UDS6385/YZ23RRB/620994.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 4 HD
+http://sthuuuhj.itransat.net:80/live/UDS6385/YZ23RRB/1013505.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 1 HD
+http://sthuuuhj.itransat.net:80/live/UDS6385/YZ23RRB/620993.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | PELICULAS NINOS 1 HD
+http://sthuuuhj.itransat.net:80/live/UDS6385/YZ23RRB/1013502.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Series",VIX - NOTICIAS UNIVISION 24/7
+http://sthuuuhj.itransat.net:80/live/UDS6385/YZ23RRB/1096009.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | PELICULAS NINOS 2 HD
+http://sthuuuhj.itransat.net:80/live/UDS6385/YZ23RRB/1013503.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 3 HD
+http://sthuuuhj.itransat.net:80/live/UDS6385/YZ23RRB/1013504.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Otros Idiomas",24/7 I DIDNT DO IT
+http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/1942632.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Otros Idiomas",24/7 SAY I DO
+http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/1942372.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Otros Idiomas",24/7 WHAT WOULD DIPLO DO
+http://vpn.bimtrex.eu:80/live/e593f3116a/1kvyqpcgsy/1942193.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="Deportes",DSports | CO ❆
+http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/249516.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="Deportes",DSports 1 | CL ❆
+http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/249519.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="Otros",DSports 2 | CL ❆
+http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/249520.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="Otros",DSports 1 | EC ❆
+http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/249523.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="Deportes",DSports 2 | EC ❆
+http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/249524.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="Otros",DSports  1 | PE ❆
+http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/249527.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="Otros",DSports 1 | PE ❆
+http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/249528.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="Deportes",DSports 2
+http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/249531.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="Deportes",DSports + ❆
+http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/249532.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="Otros Idiomas",✨GRAN HERMANO 24/7⚡
+http://somoseluno.blog:80/live/drodrig2121/bhMDmU6VdWcy/454926.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Otros Idiomas",24/7 SAY I DO
+http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1942372.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Otros Idiomas",24/7 WHAT WOULD DIPLO DO
+http://line.trxdnscloud.ru:80/live/2c16beb3ae/b28582fcb55a/1942193.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="Otros Idiomas",✨*GRAN HE®M∆N0 24/7 ☀️⭐
+http://somoseluno.blog:80/live/drodrig2121/bhMDmU6VdWcy/453157.ts
+#EXTINF:-1 tvg-logo="http://flx.lat:8080/images/daea1a007ed18a34901f1ea896238fc3.png" group-title="Series",24/7 FUTURAMA
+http://somoseluno.blog:80/live/drodrig2121/bhMDmU6VdWcy/316942.ts
+#EXTINF:-1 tvg-logo="http://mundo2.pro:80/images/66f2e8ab629eab6cc052e831beaa21a5.png" group-title="Anime",24/7 | DRAGON BALL Z
+http://somoseluno.blog:80/live/drodrig2121/bhMDmU6VdWcy/316973.ts
+#EXTINF:-1 tvg-logo="" group-title="Otros Idiomas",24/7 l M∆H∆ ¥ EL 0S0
+http://somoseluno.blog:80/live/drodrig2121/bhMDmU6VdWcy/383312.ts
+#EXTINF:-1 tvg-logo="" group-title="Infantil",24/7 | L0s Pingüinos Madagascar
+http://somoseluno.blog:80/live/drodrig2121/bhMDmU6VdWcy/366250.ts
+#EXTINF:-1 tvg-logo="" group-title="Infantil",24/7 Pinky y Cerebro
+http://somoseluno.blog:80/live/drodrig2121/bhMDmU6VdWcy/362437.ts
+#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Series",Noticias Univision 24/7
+http://013tv.com:8080/live/F18115/068f009e/305027.ts
+#EXTINF:-1 tvg-logo="" group-title="Infantil",24/7* TlM0N & PUMB∆*
+http://somoseluno.blog:80/live/drodrig2121/bhMDmU6VdWcy/456263.ts
+#EXTINF:-1 tvg-logo="" group-title="Infantil",24/7 Pajaro Loco
+http://somoseluno.blog:80/live/drodrig2121/bhMDmU6VdWcy/362438.ts
+#EXTINF:-1 tvg-logo="" group-title="Infantil",24/7 | Bob esponja
+http://somoseluno.blog:80/live/drodrig2121/bhMDmU6VdWcy/362432.ts
+#EXTINF:-1 tvg-logo="" group-title="Infantil",24/7 | Tom y Jerry
+http://somoseluno.blog:80/live/drodrig2121/bhMDmU6VdWcy/366256.ts
+#EXTINF:-1 tvg-logo="" group-title="Otros Idiomas",24/7 Blue
+http://somoseluno.blog:80/live/drodrig2121/bhMDmU6VdWcy/362434.ts
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/bfd3667cda89eb146170ffc51eb6021c.png" group-title="Cine",24/7 | Accion
+http://somoseluno.blog:80/live/drodrig2121/bhMDmU6VdWcy/317104.ts
+#EXTINF:-1 tvg-logo="" group-title="Infantil",24/7 | LA Pantera Rosa
+http://somoseluno.blog:80/live/drodrig2121/bhMDmU6VdWcy/366251.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Otros Idiomas",24/7 SOME MOTHERS DO 'AVE 'EM
+http://iptvnow.nl:80/live/da7b864def/6a40004f00c1/1943217.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/vix.png" group-title="Series",VIX  Noticias Univision 24/7 – Los Angeles
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1890262.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/vix.png" group-title="Otros",VIX  Noticias Univision 24/7 – Nueva York
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1890263.ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/Univision-noticias-logo-10987FEBCB-seeklogo.com.png" group-title="Series",Telemundo Noticias 24/7
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1237148.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/vix.png" group-title="Otros Idiomas",VIX  Noticias Univision 24/7
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1890261.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/vix.png" group-title="Series",VIX  Noticias Univision 24/7 – Los Angeles
+http://wx78.vpn-cloud.icu:8080/live/2mu5jzpzsb/6ka5bi5ch7/1890262.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/vix.png" group-title="Otros Idiomas",VIX  Noticias Univision 24/7
+http://wx78.vpn-cloud.icu:8080/live/2mu5jzpzsb/6ka5bi5ch7/1890261.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/vix.png" group-title="Otros",VIX  Noticias Univision 24/7 – Nueva York
+http://wx78.vpn-cloud.icu:8080/live/2mu5jzpzsb/6ka5bi5ch7/1890263.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="Otros",24/7 Pluto Catfish TV Show
+http://hardcoremedia.xyz:80/live/tzwecpfd/1822349101/33139.ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/Univision-noticias-logo-10987FEBCB-seeklogo.com.png" group-title="Series",Telemundo Noticias 24/7
+http://wx78.vpn-cloud.icu:8080/live/2mu5jzpzsb/6ka5bi5ch7/1237148.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YQbC2xd/QQQ.png" group-title="Deportes",UY: Dsports Uruguay
+http://tv-275228.ifiesta.net:80/live/TV-14650030923070/116630916768/256683.ts
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="Otros",24/7 Pluto TV Novelas Drama
+http://hardcoremedia.xyz:80/live/tzwecpfd/1822349101/33142.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 1 HD
+http://jaasup.xyz:80/live/X18MNRY/7Y524G7/620993.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 3 HD
+http://jaasup.xyz:80/live/X18MNRY/7Y524G7/620995.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="Infantil",##### GOLD NINOS TV | 24/7 SPAIN #####
+http://jaasup.xyz:80/live/X18MNRY/7Y524G7/1327958.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | NINOS 2 HD
+http://jaasup.xyz:80/live/X18MNRY/7Y524G7/620994.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | PELICULAS NINOS 1 HD
+http://jaasup.xyz:80/live/X18MNRY/7Y524G7/1013502.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | PELICULAS NINOS 2 HD
+http://jaasup.xyz:80/live/X18MNRY/7Y524G7/1013503.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Otros",ES - GOLD TV 24/7 | NINOS 4 HD
+http://jaasup.xyz:80/live/X18MNRY/7Y524G7/620996.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Series",ES - VIX - NOTICIAS UNIVISION 24/7
+http://jaasup.xyz:80/live/X18MNRY/7Y524G7/1349086.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 3 HD
+http://jaasup.xyz:80/live/X18MNRY/7Y524G7/1013504.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Otros Idiomas",ES - VIX - NOTICIAS UNIVISION 24/7 – LOS ANGELES
+http://jaasup.xyz:80/live/X18MNRY/7Y524G7/1349087.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Otros Idiomas",ES - VIX - NOTICIAS UNIVISION 24/7 – NUEVA YORK
+http://jaasup.xyz:80/live/X18MNRY/7Y524G7/1349088.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="Series",VIX - NOTICIAS UNIVISION 24/7
+http://jaasup.xyz:80/live/X18MNRY/7Y524G7/1096009.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="Infantil",ES - GOLD TV 24/7 | PELICULAS NINOS 4 HD
+http://jaasup.xyz:80/live/X18MNRY/7Y524G7/1013505.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Otros Idiomas",24/7 I DIDNT DO IT
+http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1942632.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Otros Idiomas",24/7 SOME MOTHERS DO 'AVE 'EM
+http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1943217.ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Series",24/7 NARCOS MEXICO
+http://line.superflash.icu:80/live/cc80a5499c/06df54952403/1942461.ts
