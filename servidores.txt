@@ -8,3 +8,11 @@ http://45.186.254.75:8000/playlist.m3u
 http://181.118.153.15:8000/playlist.m3u
 http://190.60.40.165:1010/playlist.m3u
 http://45.173.12.70:8000/playlist.m3u
+http://190.60.52.28:45000/playlist.m3u
+http://148.222.230.220:8000/playlist.m3u
+http://190.60.32.186:1010/playlist.m3u
+http://181.78.74.226:45000/playlist.m3u
+http://181.78.73.153:8000/playlist.m3u
+http://181.78.83.28:8000/playlist.m3u
+http://181.78.121.15:8000/playlist.m3u
+http://38.224.22.255:8000/playlist.m3u
