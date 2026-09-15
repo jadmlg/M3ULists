@@ -29,9 +29,10 @@ def enviar_alerta(asunto, cuerpo):
         pass
 
 async def probar_canal(session, url):
+    headers = {'User-Agent': 'VLC/3.0.18'}
     try:
-        async with session.get(url, timeout=5) as response:
-            return response.status in [200, 206, 302]
+        async with session.head(url, headers=headers, timeout=5, allow_redirects=True) as response:
+            return response.status in [200, 206, 301, 302, 403]
     except:
         return False
 
