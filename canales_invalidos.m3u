@@ -1,27 +1,37 @@
 #EXTM3U
 # FALLOS
-#EXTINF:-1,CRISTOVISION
-http://181.78.8.199:8000/play/a0dr/index.m3u8
+#EXTINF:-1,HISTORY2 INTERNO
+http://181.78.8.199:8000/play/a0ag/index.m3u8
+#EXTINF:-1,History2
+http://181.78.8.199:8000/play/a0cq/index.m3u8
 #EXTINF:-1,LA KALLE
 http://181.78.8.199:8000/play/a0dp/index.m3u8
-#EXTINF:-1,ZONA TV PLUS
-http://181.78.8.199:8000/play/a0ie/index.m3u8
+#EXTINF:-1,LIFETIME INTERNO
+http://181.78.8.199:8000/play/a0ai/index.m3u8
+#EXTINF:-1,OLE 2.2
+http://181.78.8.199:8000/play/a0af/index.m3u8
+#EXTINF:-1,SONY MUVIES
+http://181.78.8.199:8000/play/a0ap/index.m3u8
+#EXTINF:-1,lifetime
+http://181.78.8.199:8000/play/a0cr/index.m3u8
 #EXTINF:-1,HBO Xtreme HD
 http://181.78.82.130:8000/play/a0l7/index.m3u8
 #EXTINF:-1,TCM
 http://181.78.82.130:8000/play/a0ns/index.m3u8
-#EXTINF:-1,CRISTOVISION
-http://181.118.150.27:8000/play/a01y/index.m3u8
 #EXTINF:-1,SURAM
 http://181.118.150.27:8000/play/a00r/index.m3u8
+#EXTINF:-1,2ESPN 6 HD
+http://45.5.118.152:8000/play/a00c/index.m3u8
+#EXTINF:-1,CANAL  19 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a00z/index.m3u8
 #EXTINF:-1,CANAL 118 RITMOS INIOLVIDABLES
 http://45.5.118.152:8000/play/a0a6/index.m3u8
 #EXTINF:-1,CANAL 12 (TELEVISION CHICHICASTECA)
 http://45.5.118.152:8000/play/a06t/index.m3u8
 #EXTINF:-1,CANAL 14 (TELEVISION CHICHICASTECA)
 http://45.5.118.152:8000/play/a02w/index.m3u8
-#EXTINF:-1,CANAL 26 (TELEVISION CHICHICASTECA)
-http://45.5.118.152:8000/play/a06n/index.m3u8
+#EXTINF:-1,CANAL 21 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a07c/index.m3u8
 #EXTINF:-1,CANAL 27 (TELEVISION CHICHICASTECA)
 http://45.5.118.152:8000/play/a029/index.m3u8
 #EXTINF:-1,CANAL 30 TELENOVELAS EMERGENCIA
@@ -30,20 +40,30 @@ http://45.5.118.152:8000/play/a0bu/index.m3u8
 http://45.5.118.152:8000/play/a06r/index.m3u8
 #EXTINF:-1,CANAL 39 (TELEVISION CHICHICASTECA)
 http://45.5.118.152:8000/play/a077/index.m3u8
+#EXTINF:-1,CANAL 40 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06y/index.m3u8
 #EXTINF:-1,CANAL 44 (TELEVISION CHICHICASTECA)
 http://45.5.118.152:8000/play/a01o/index.m3u8
+#EXTINF:-1,CANAL 45 (TELEVISION CHICHICASTECA)
+http://45.5.118.152:8000/play/a06k/index.m3u8
 #EXTINF:-1,CANAL 48 (TELEVISION CHICHICASTECA)
 http://45.5.118.152:8000/play/a041/index.m3u8
 #EXTINF:-1,CANAL 5 (TELEVISION CHICHICASTECA)
 http://45.5.118.152:8000/play/a01g/index.m3u8
+#EXTINF:-1,CANAL 55 PANA TV
+http://45.5.118.152:8000/play/a0c2/index.m3u8
 #EXTINF:-1,CANAL 6 (TELEVISION CHICHICASTECA)
 http://45.5.118.152:8000/play/a06s/index.m3u8
+#EXTINF:-1,CANAL 65 PRODUCCIONES GARCIA
+http://45.5.118.152:8000/play/a0c3/index.m3u8
+#EXTINF:-1,CANAL 78 TDS Solola
+http://45.5.118.152:8000/play/a09c/index.m3u8
 #EXTINF:-1,CANAL 80 (TELEVISION CHICHICASTECA)
 http://45.5.118.152:8000/play/a07o/index.m3u8
+#EXTINF:-1,CANAL 88 TELEVISION CHICHICASTECA
+http://45.5.118.152:8000/play/a0ch/index.m3u8
 #EXTINF:-1,CANAL 98 TELEVISION CHICHICASTECA
 http://45.5.118.152:8000/play/a0cl/index.m3u8
-#EXTINF:-1,CANAL 99 TELEVISION CHICHICASTECA
-http://45.5.118.152:8000/play/a0cy/index.m3u8
 #EXTINF:-1,RUDDY VISION 12 QUICHE
 http://45.5.118.152:8000/play/a060/index.m3u8
 #EXTINF:-1,canal 10 (TELEVISION CHICHICASTECA)
@@ -52,16 +72,12 @@ http://45.5.118.152:8000/play/a06p/index.m3u8
 http://45.5.118.152:8000/play/a0e0/index.m3u8
 #EXTINF:-1,CNN Espanol
 http://45.186.254.75:8000/play/a08z/index.m3u8
-#EXTINF:-1,Eurochannel
-http://45.186.254.75:8000/play/a0bl/index.m3u8
 #EXTINF:-1,HBO
 http://45.186.254.75:8000/play/a0cl/index.m3u8
 #EXTINF:-1,HBO PLUS HD
 http://45.186.254.75:8000/play/a09k/index.m3u8
-#EXTINF:-1,HISTORY 2
-http://45.186.254.75:8000/play/a07g/index.m3u8
-#EXTINF:-1,PARAMOUNT
-http://45.186.254.75:8000/play/a0cd/index.m3u8
+#EXTINF:-1,TNT SPORTS
+http://45.186.254.75:8000/play/a041/index.m3u8
 #EXTINF:-1,046 - ANTENA 3
 http://181.118.153.15:8000/play/aa08/index.m3u8
 #EXTINF:-1,050 - CANAL 13
@@ -100,8 +116,8 @@ http://181.118.153.15:8000/play/a05x/index.m3u8
 http://190.60.40.165:1010/play/a0g8/index.m3u8
 #EXTINF:-1,WIN +
 http://190.60.40.165:1010/play/a0oy/index.m3u8
-#EXTINF:-1,ESPN HD
-http://190.60.52.28:45000/play/a0i2/index.m3u8
+#EXTINF:-1,Distrito Comedia
+http://190.60.52.28:45000/play/a0ba/index.m3u8
 #EXTINF:-1,0050 LOLLY KIDS HD
 http://190.60.32.186:1010/play/a01c/index.m3u8
 #EXTINF:-1,0056 ZOOMOO HD
@@ -110,8 +126,6 @@ http://190.60.32.186:1010/play/yuma0056/index.m3u8
 http://190.60.32.186:1010/play/yuma0058/index.m3u8
 #EXTINF:-1,0123CRISTOVISION
 http://190.60.32.186:1010/play/a014/index.m3u8
-#EXTINF:-1,0135 CANAL CAPITAL
-http://190.60.32.186:1010/play/yuma0135/index.m3u8
 #EXTINF:-1,0139 WIN SPORT ++
 http://190.60.32.186:1010/play/yuma0139/index.m3u8
 #EXTINF:-1,CINE FAMILIAR HD
@@ -120,14 +134,38 @@ http://190.61.43.126:45000/play/a0c6/index.m3u8
 http://190.61.43.124:45000/play/a0c6/index.m3u8
 #EXTINF:-1,CINE FAMILIAR HD
 http://190.61.43.117:45000/play/a0c6/index.m3u8
+#EXTINF:-1,CNC VALLEDUPAR HD
+http://190.61.43.117:45000/play/a0c8/index.m3u8
 #EXTINF:-1,CINE FAMILIAR HD
 http://190.61.43.121:45000/play/a0c6/index.m3u8
+#EXTINF:-1,Caracol HD+
+http://181.78.73.153:8000/play/a0es/index.m3u8
+#EXTINF:-1,Cine Premium
+http://181.78.73.153:8000/play/a0ey/index.m3u8
+#EXTINF:-1,Cinematv
+http://181.78.73.153:8000/play/a0ev/index.m3u8
+#EXTINF:-1,Movie Play 1
+http://181.78.73.153:8000/play/a0ew/index.m3u8
+#EXTINF:-1,Movie Play 2
+http://181.78.73.153:8000/play/a0ex/index.m3u8
+#EXTINF:-1,RCN HD
+http://181.78.73.153:8000/play/a0et/index.m3u8
+#EXTINF:-1,Win Sports
+http://181.78.73.153:8000/play/a0ez/index.m3u8
+#EXTINF:-1,Win Sports HD+
+http://181.78.73.153:8000/play/a0eu/index.m3u8
 #EXTINF:-1,CINE FAMILIAR HD
 http://181.79.91.230:45000/play/a0c6/index.m3u8
+#EXTINF:-1,CNC VALLEDUPAR HD
+http://181.79.91.230:45000/play/a0c8/index.m3u8
 #EXTINF:-1,CINE FAMILIAR HD
 http://181.79.91.233:45000/play/a0c6/index.m3u8
+#EXTINF:-1,CNBC
+http://38.224.22.255:8000/play/a02t/index.m3u8
 #EXTINF:-1,CNN Chile
 http://38.224.22.255:8000/play/a0bl/index.m3u8
+#EXTINF:-1,Estrella TV
+http://38.224.22.255:8000/play/a011/index.m3u8
 #EXTINF:-1,HBO
 http://38.224.22.255:8000/play/a0bb/index.m3u8
 #EXTINF:-1,OPA
