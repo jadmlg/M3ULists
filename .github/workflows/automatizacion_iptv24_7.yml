@@ -31,7 +31,7 @@ jobs:
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
         # Asegúrate de que el nombre del script coincida con el archivo en tu repositorio
-        run: python extractor_telegram.py
+        run: python extraccion_telegram.py
 
       - name: Guardar Cambios en GitHub
         uses: stefanzweifel/git-auto-commit-action@v5
